@@ -28,7 +28,6 @@ $ yarn build # build for production
 
 <br />
 
-
 ## [React Dashboard Paper](https://www.creative-tim.com/product/paper-dashboard-react)
 
 [Dashboard React Paper ](https://www.creative-tim.com/product/paper-dashboard-react) is a Bootstrap Admin Panel which combines soft colors with beautiful typography and spacious cards and graphics. It is a powerful tool, but it is light and easy to use. It has enough features to allow you to get the job done, but it is not crowded to the point where you can't find the files for a specific plugin.
@@ -52,7 +51,6 @@ $ yarn build # build for production
 ```
 
 <br />
-
 
 ## [React Dashboard Now UI](https://www.creative-tim.com/product/now-ui-dashboard-react)
 
@@ -78,7 +76,6 @@ $ yarn build # build for production
 
 <br />
 
-
 ## [React](https://reactjs.org/) Dashboard Vibe
 
 [React Dashboard Vibe](https://github.com/NiceDash/Vibe) - is a beautiful admin dashboard built with Bootstrap4, released under the MIT license.
@@ -99,7 +96,6 @@ $ yarn start
 ![React Dashboard Vibe - Presentation Screen Shot.](https://github.com/app-generator/static/blob/master/admin-dashboards/react-dashboard-vibe-screen.jpg?raw=true)
 
 <br />
-
 
 ## [React](https://reactjs.org/) Dashboard Argon 
 
@@ -123,7 +119,6 @@ $ yarn build
 
 <br />
 
-
 ## [React](https://reactjs.org/) Dashboard Material Admin
 
 [React Dashboard Material Admin](https://flatlogic.com/admin-dashboards/react-material-admin?ref=appseed) is an admin panel template built with [Material-UI](https://material-ui.com/) framework, and coded entirely in [React](https://reactjs.org/) (no jQuery or Bootstrap dependency). 
@@ -137,7 +132,6 @@ The design is delivered with a few sample pages like the main dashboard page, lo
 ![React Dashboard Material Admin - animated presentation.](https://raw.githubusercontent.com/app-generator/static/master/admin-dashboards/react-dashboard-material-admin-flatlogic-intro.gif)  
 
 <br />
-
 
 ## [React](https://reactjs.org/) Dashboard Light Bootstrap
 
@@ -153,7 +147,6 @@ At first look, the product design is clean and very easy to interact with the pa
 ![React Dashboard Light - animated presentation.](https://raw.githubusercontent.com/app-generator/static/master/admin-dashboards/react-dashboard-light-intro.gif)  
 
 <br />
-
 
 ## [React](https://reactjs.org/) Dashboard Shards Lite
 
@@ -171,7 +164,6 @@ At first look, the product design is clean and very easy to interact with the pa
 
 <br />
 
-
 ## [React](https://reactjs.org/) Dashboard Black
 
 [React Dashboard Black](https://demos.creative-tim.com/black-dashboard-react/?ref=appseed) is a beautiful Bootstrap 4 (Reactstrap) **admin dashboard** with a generous number of components built to fit together and look amazing. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
@@ -183,7 +175,7 @@ At first look, the product design is clean and very easy to interact with the pa
 
 ![React Dashboard Black - animated presentation.](https://raw.githubusercontent.com/app-generator/static/master/admin-dashboards/react-dashboard-black-intro.gif)
 
----
+<br />
 
 ### Similar posts, from other publishers  
 
@@ -192,7 +184,6 @@ At first look, the product design is clean and very easy to interact with the pa
 - [Dashboards made with React](https://madewithreactjs.com/dashboards), written by MadeWithReact.com.
 
 <br />
-
 
 ## Resources
 
