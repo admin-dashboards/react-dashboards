@@ -27,7 +27,7 @@ $ yarn build # build for production
 ```
 
 <br />
----
+
 
 ## [React Dashboard Paper](https://www.creative-tim.com/product/paper-dashboard-react)
 
@@ -52,7 +52,7 @@ $ yarn build # build for production
 ```
 
 <br />
----
+
 
 ## [React Dashboard Now UI](https://www.creative-tim.com/product/now-ui-dashboard-react)
 
@@ -77,7 +77,7 @@ $ yarn build # build for production
 ```
 
 <br />
----
+
 
 ## [React](https://reactjs.org/) Dashboard Vibe
 
@@ -99,7 +99,7 @@ $ yarn start
 ![React Dashboard Vibe - Presentation Screen Shot.](https://github.com/app-generator/static/blob/master/admin-dashboards/react-dashboard-vibe-screen.jpg?raw=true)
 
 <br />
----
+
 
 ## [React](https://reactjs.org/) Dashboard Argon 
 
@@ -122,7 +122,7 @@ $ yarn build
 ![React Dashboard Argon - animated presentation.](https://github.com/app-generator/static/blob/master/admin-dashboards/react-dashboard-argon-intro.gif?raw=true)
 
 <br />
----
+
 
 ## [React](https://reactjs.org/) Dashboard Material Admin
 
@@ -137,7 +137,7 @@ The design is delivered with a few sample pages like the main dashboard page, lo
 ![React Dashboard Material Admin - animated presentation.](https://raw.githubusercontent.com/app-generator/static/master/admin-dashboards/react-dashboard-material-admin-flatlogic-intro.gif)  
 
 <br />
----
+
 
 ## [React](https://reactjs.org/) Dashboard Light Bootstrap
 
@@ -153,7 +153,7 @@ At first look, the product design is clean and very easy to interact with the pa
 ![React Dashboard Light - animated presentation.](https://raw.githubusercontent.com/app-generator/static/master/admin-dashboards/react-dashboard-light-intro.gif)  
 
 <br />
----
+
 
 ## [React](https://reactjs.org/) Dashboard Shards Lite
 
@@ -170,7 +170,7 @@ At first look, the product design is clean and very easy to interact with the pa
 ![React Dashboard Shards Lite - animated presentation.](https://raw.githubusercontent.com/app-generator/static/master/admin-dashboards/react-dashboard-shards-light-intro.gif)
 
 <br />
----
+
 
 ## [React](https://reactjs.org/) Dashboard Black
 
@@ -192,7 +192,7 @@ At first look, the product design is clean and very easy to interact with the pa
 - [Dashboards made with React](https://madewithreactjs.com/dashboards), written by MadeWithReact.com.
 
 <br />
----
+
 
 ## Resources
 
@@ -201,5 +201,5 @@ At first look, the product design is clean and very easy to interact with the pa
 - More [React apps](https://blog.appseed.us/react-apps-open-source-and-free/) - index provided by AppSeed
 
 ---
-Hacked by [Sm0ke](https://twitter.com/Sm0keDev)
+[React Dashboards](https://dev.to/sm0ke/react-dashboards-open-source-apps-1c7j) - Hacked by [Sm0ke](https://twitter.com/Sm0keDev)
 
