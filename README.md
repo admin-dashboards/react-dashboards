@@ -41,6 +41,27 @@ A curated list of admin dashboards coded in React, released under MIT license
 
 <br />
 
+## [Volt React Dashboard](https://themesberg.com/product/dashboard/volt-react?ref=appseed)
+
+> Theme provider - [Themesberg](https://themesberg.com/?ref=appseed)
+
+<br />
+
+Volt React is a free and open-source admin dashboard template powered by React.js and Bootstrap 5 featuring over 100 UI elements, customized plugins, and example pages to kickstart your single page web application.
+
+**10 Hand-crafted Example Pages** - After downloading Volt React Dashboard you will get 10 high-quality example pages to save you time writing boilerplate code and set up the user interface of your website or web application in no time.
+
+<br />
+
+- [Volt React Free](https://themesberg.com/product/dashboard/volt-react?ref=appseed) - product page
+- **[Volt React PRO](https://themesberg.com/product/dashboard/volt-pro-react?ref=appseed)** - more pages and components
+
+<br />
+
+![Volt React Dashboard - Open-source admin panel coded in React. ](https://raw.githubusercontent.com/admin-dashboards/react-dashboards/master/media/volt-react-dashboard-screen.png)
+
+<br />
+
 ## [React Dashboard Black](https://demos.creative-tim.com/black-dashboard-react/?AFFILIATE=128200)
 
 [React Dashboard Black](https://demos.creative-tim.com/black-dashboard-react/?AFFILIATE=128200) is a beautiful Bootstrap 4 (Reactstrap) **admin dashboard** with a generous number of components built to fit together and look amazing. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
