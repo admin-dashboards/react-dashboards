@@ -171,28 +171,6 @@ $ yarn start
 
 <br />
 
-## [React Dashboard Argon](https://www.creative-tim.com/product/argon-dashboard-react?AFFILIATE=128200)
-
-[React Dashboard Argon](https://www.creative-tim.com/product/argon-dashboard-react?AFFILIATE=128200) is an open-source **admin dashboard** for Bootstrap4 and [Reactstrap](https://reactstrap.github.io/). **React Dashboard Argon** is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files. Dashboard resources:
-
- - [React Dashboard Argon](https://www.creative-tim.com/product/argon-dashboard-react?AFFILIATE=128200) - the official page
- - [React Dashboard Argon sources](https://github.com/creativetimofficial/argon-dashboard-react?AFFILIATE=128200) - available on Github
- - [React Dashboard Argon demo](https://demos.creative-tim.com/argon-dashboard-react?ref=appseed) 
-
-> Build **[React](https://reactjs.org/) Dashboard** Argon from sources
-
-```
-$ git clone https://github.com/creativetimofficial/argon-dashboard-react.git
-$ cd argon-dashboard-react
-$ yarn 
-$ yarn start
-$ yarn build
-```
-
-![React Dashboard Argon - animated presentation.](https://github.com/app-generator/static/blob/master/admin-dashboards/react-dashboard-argon-intro.gif?raw=true)
-
-<br />
-
 ## [React](https://reactjs.org/) Dashboard Material Admin
 
 [React Dashboard Material Admin](https://flatlogic.com/admin-dashboards/react-material-admin?ref=appseed) is an admin panel template built with [Material-UI](https://material-ui.com/) framework, and coded entirely in [React](https://reactjs.org/) (no jQuery or Bootstrap dependency). 
@@ -202,6 +180,8 @@ The design is delivered with a few sample pages like the main dashboard page, lo
  - [React Dashboard Material Admin sources](https://github.com/flatlogic/react-material-admin?ref=appseed) - published on Github  
  - [React Dashboard Material Admin](https://flatlogic.com/admin-dashboards/react-material-admin?ref=appseed) - the official product page 
  - [React Dashboard Material Admin review](https://admin-dashboards.com/react-dashboard-material-admin-flatlogic?ref=appseed) - a complete product review on **Admin-Dashboards.com**
+
+<br />
 
 ![React Dashboard Material Admin - animated presentation.](https://raw.githubusercontent.com/app-generator/static/master/admin-dashboards/react-dashboard-material-admin-flatlogic-intro.gif)  
 
@@ -218,6 +198,8 @@ The design is delivered with a few sample pages like the main dashboard page, lo
 
 At first look, the product design is clean and very easy to interact with the page controls. This app has an impressive number of downloads, more than 30k (according to the publisher). Anyone, with a basic Javascript, and React knowledge can build the app from sources. 
 
+<br />
+
 ![React Dashboard Light - animated presentation.](https://raw.githubusercontent.com/app-generator/static/master/admin-dashboards/react-dashboard-light-intro.gif)  
 
 <br />
@@ -232,7 +214,8 @@ At first look, the product design is clean and very easy to interact with the pa
  - Beautiful design, light UI, looks impressive on mobile
  - Available Pages: Dashboard, blog posts, tables, and user profile.
  - No Login or Registration pages. 
- - [React Dashboard Shards Lite review](https://admin-dashboards.com/react-dashboard-shards-lite) - a complete product review on **Admin-Dashboards.com**
+
+<br />
 
 ![React Dashboard Shards Lite - animated presentation.](https://raw.githubusercontent.com/app-generator/static/master/admin-dashboards/react-dashboard-shards-light-intro.gif)
 
