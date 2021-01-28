@@ -22,25 +22,6 @@ A curated list of admin dashboards coded in React, released under MIT license
 
 <br />
 
-## [NextJS/React Material Dashboard](https://bit.ly/2Ko0Mb8)
-
-> Theme provider - [Creative-Tim](https://bit.ly/3fKQZaL)
-
-<br />
-
-Open-source **[Next JS Template](https://dev.to/sm0ke/next-js-templates-a-curated-list-56fo)** - is a free Material-UI, NextJS and React Admin with a fresh, new design inspired by Google's Material Design. We are very excited to introduce our take on the material concepts through an easy to use and beautiful set of components. NextJS Material Dashboard was built over the popular Material-UI, NextJS and React frameworks.
-
-<br />
-
-- [NextJS Material](https://bit.ly/2Ko0Mb8) - product page
-- **[NextJS Material PRO](https://bit.ly/2INGVl0) - more pages and components**
-
-<br />
-
-![NextJS Material Dashboard - Open-source template coded in React.](https://raw.githubusercontent.com/admin-dashboards/react-dashboards/master/media/nextjs-material-screen.png)
-
-<br />
-
 ## [React Dashboard Argon](https://bit.ly/3fW8c13) 
 
 > Theme provider - [Creative-Tim](https://bit.ly/3fKQZaL)
@@ -57,6 +38,25 @@ Open-source **[Next JS Template](https://dev.to/sm0ke/next-js-templates-a-curate
 <br />
 
 ![React Dashboard Argon - animated presentation.](https://raw.githubusercontent.com/admin-dashboards/react-dashboards/master/media/react-dashboard-argon-screen.png)
+
+<br />
+
+## [NextJS/React Material Dashboard](https://bit.ly/2Ko0Mb8)
+
+> Theme provider - [Creative-Tim](https://bit.ly/3fKQZaL)
+
+<br />
+
+Open-source **[Next JS Template](https://dev.to/sm0ke/next-js-templates-a-curated-list-56fo)** - is a free Material-UI, NextJS and React Admin with a fresh, new design inspired by Google's Material Design. We are very excited to introduce our take on the material concepts through an easy to use and beautiful set of components. NextJS Material Dashboard was built over the popular Material-UI, NextJS and React frameworks.
+
+<br />
+
+- [NextJS Material](https://bit.ly/2Ko0Mb8) - product page
+- **[NextJS Material PRO](https://bit.ly/2INGVl0) - more pages and components**
+
+<br />
+
+![NextJS Material Dashboard - Open-source template coded in React.](https://raw.githubusercontent.com/admin-dashboards/react-dashboards/master/media/nextjs-material-screen-alerts.png)
 
 <br />
 
