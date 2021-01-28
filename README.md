@@ -30,7 +30,7 @@ A curated list of admin dashboards coded in React, released under MIT license
 
 [React Dashboard Argon](https://bit.ly/3fW8c13) is an open-source **admin dashboard** for Bootstrap4 and Reactstrap. **React Dashboard Argon** is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files. Dashboard resources:
 
----
+<br />
 
 - [React Dashboard Argon](https://bit.ly/3fW8c13) - product page
 - **[React Dashboard Argon PRO](https://bit.ly/2K9DMfy)** - more pages and components
