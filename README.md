@@ -96,6 +96,7 @@ Volt React is a free and open-source admin dashboard template powered by React.j
 
 - [Volt React Free](https://themesberg.com/product/dashboard/volt-react?ref=appseed) - product page
 - **[Volt React PRO](https://themesberg.com/product/dashboard/volt-pro-react?ref=appseed)** - more pages and components
+- **[React Dashboard](https://themesberg.com/blog/tutorial/react-dashboard)** Tutorial - a good starting point for beginners
 
 <br />
 
