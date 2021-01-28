@@ -87,7 +87,7 @@ Volt React is a free and open-source admin dashboard template powered by React.j
 
 <br />
 
-**React Dashboard Black** is a beautiful Bootstrap 4 (Reactstrap) **admin dashboard** with a generous number of components built to fit together and look amazing. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
+**[React Dashboard](https://dev.to/sm0ke/react-dashboards-open-source-apps-1c7j)** Black is a beautiful Bootstrap 4 (Reactstrap) **admin dashboard** with a generous number of components built to fit together and look amazing. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
 
 <br />
 
@@ -104,7 +104,7 @@ Volt React is a free and open-source admin dashboard template powered by React.j
 
 ## [React Dashboard Paper](https://www.creative-tim.com/product/paper-dashboard-react?AFFILIATE=128200)
 
-[Dashboard React Paper ](https://www.creative-tim.com/product/paper-dashboard-react) is a Bootstrap Admin Panel which combines soft colors with beautiful typography and spacious cards and graphics. It is a powerful tool, but it is light and easy to use. It has enough features to allow you to get the job done, but it is not crowded to the point where you can't find the files for a specific plugin.
+**[React Dashboard](https://dev.to/sm0ke/react-dashboards-open-source-apps-1c7j)** Paper is a Bootstrap Admin Panel which combines soft colors with beautiful typography and spacious cards and graphics. It is a powerful tool, but it is light and easy to use. It has enough features to allow you to get the job done, but it is not crowded to the point where you can't find the files for a specific plugin.
 
 ### Dashboard links 
 
@@ -128,7 +128,7 @@ $ yarn build # build for production
 
 ## [React Dashboard Now UI](https://www.creative-tim.com/product/now-ui-dashboard-react?AFFILIATE=128200)
 
-Now UI Dashboard React is an admin dashboard template designed by Invision and coded by Creative Tim. It is built on top of Reactstrap, using Now UI Dashboard and it is fully responsive. It comes with a big collections of elements that will offer you multiple possibilities to create the app that best fits your needs. It can be used to create admin panels, project management systems, web applications backend, CMS or CRM.
+Now UI **[React Dashboard](https://dev.to/sm0ke/react-dashboards-open-source-apps-1c7j)** is an admin dashboard template designed by Invision and coded by Creative Tim. It is built on top of Reactstrap, using Now UI Dashboard and it is fully responsive. It comes with a big collections of elements that will offer you multiple possibilities to create the app that best fits your needs. It can be used to create admin panels, project management systems, web applications backend, CMS or CRM.
 
 ### Dashboard links
 
