@@ -20,7 +20,26 @@ A curated list of admin dashboards coded in React, released under MIT license
 
 ![Material Dashboard React - Free admin dashboard coded in React.](https://raw.githubusercontent.com/admin-dashboards/react-dashboards/master/media/react-material-dashboard-screen.png)
 
---- 
+<br />
+
+## [React Dashboard Argon](https://bit.ly/3fW8c13) 
+
+> Theme provider - [Creative-Tim](https://bit.ly/3fKQZaL)
+
+<br />
+
+[React Dashboard Argon](https://bit.ly/3fW8c13) is an open-source **admin dashboard** for Bootstrap4 and Reactstrap. **React Dashboard Argon** is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files. Dashboard resources:
+
+---
+
+- [React Dashboard Argon](https://bit.ly/3fW8c13) - product page
+- **[React Dashboard Argon PRO](https://bit.ly/2K9DMfy)** - more pages and components
+
+<br />
+
+![React Dashboard Argon - animated presentation.](https://raw.githubusercontent.com/admin-dashboards/react-dashboards/master/media/react-dashboard-argon-screen.png)
+
+<br />
 
 ## [React Dashboard Black](https://demos.creative-tim.com/black-dashboard-react/?AFFILIATE=128200)
 
