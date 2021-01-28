@@ -1,5 +1,6 @@
 # [React Dashboards](https://dev.to/sm0ke/react-dashboards-open-source-apps-1c7j) - Open-Source and Free
-A curated list of admin dashboards coded in React, released under MIT license 
+
+> A curated list with **admin dashboards** coded in React, released under permissive licenses (MIT/LGPL). For newcomers, React is an open-source, front end, JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. **React** can be used as a base in the development of single-page or mobile applications - *Wikipedia Definition*.
 
 <br />
 
