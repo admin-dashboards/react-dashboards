@@ -81,16 +81,24 @@ Volt React is a free and open-source admin dashboard template powered by React.j
 
 <br />
 
-## [React Dashboard Black](https://demos.creative-tim.com/black-dashboard-react/?AFFILIATE=128200)
+## [React Dashboard Black](https://bit.ly/39gor7M)
 
-[React Dashboard Black](https://demos.creative-tim.com/black-dashboard-react/?AFFILIATE=128200) is a beautiful Bootstrap 4 (Reactstrap) **admin dashboard** with a generous number of components built to fit together and look amazing. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
+> Theme provider - [Creative-Tim](https://bit.ly/3fKQZaL)
 
- - [React Dashboard Black demo](https://demos.creative-tim.com/black-dashboard-react/?ref=appseed) 
- - [React Dashboard Black sources](https://github.com/creativetimofficial/black-dashboard-react?ref=appseed) - available on Github
- - [React Dashboard Black](https://www.creative-tim.com/product/black-dashboard-react?ref=appseed) - the product info
- - [MIT License](https://en.wikipedia.org/wiki/MIT_License)
+<br />
 
-![React Dashboard Black - animated presentation.](https://raw.githubusercontent.com/app-generator/static/master/admin-dashboards/react-dashboard-black-intro.gif)
+**React Dashboard Black** is a beautiful Bootstrap 4 (Reactstrap) **admin dashboard** with a generous number of components built to fit together and look amazing. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
+
+<br />
+
+- [React Dashboard Black](https://bit.ly/39gor7M) - product page
+- **[React Dashboard Black PRO](https://bit.ly/33XjUDz)** - more pages and components
+
+<br />
+
+![React Dashboard Black - animated presentation.](https://raw.githubusercontent.com/admin-dashboards/react-dashboard-black/master/media/react-dashboard-black-screen.png)
+
+---
 
 <br />
 
