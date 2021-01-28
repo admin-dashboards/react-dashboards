@@ -22,6 +22,27 @@ A curated list of admin dashboards coded in React, released under MIT license
 
 <br />
 
+## [Tailwind React Dashboard](https://bit.ly/36Ce789)
+
+> Theme provider - [Creative-Tim](https://bit.ly/3fKQZaL)
+
+<br />
+
+**Notus React** is built with over frontend 100 individual components, giving you the freedom to choose and combine. All components can take variations in colors that you can easily modify using Tailwind CSS classes.
+
+If you like bright and fresh colors, you will love this Free Tailwind CSS Template! It features a huge number of components that can help you create amazing websites.
+
+<br />
+
+- [Tailwind React Dashboard](https://bit.ly/36Ce789) - product page
+- More **[React Dashboards](https://bit.ly/37j8JG3)** provided by Creative-Tim
+
+<br />
+
+![Tailwind CSS React Dashboard - Free starter provided by Creative-Tim.](https://raw.githubusercontent.com/admin-dashboards/tailwind-css-free-starters/main/media/tailwind-css-react-notus-free-starter.jpg)
+
+<br />
+
 ## [React Dashboard Argon](https://bit.ly/3fW8c13) 
 
 > Theme provider - [Creative-Tim](https://bit.ly/3fKQZaL)
