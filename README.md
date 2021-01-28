@@ -3,6 +3,25 @@ A curated list of admin dashboards coded in React, released under MIT license
 
 <br />
 
+## [React Material Dashboard](https://bit.ly/36LDZyo)
+
+> Theme provider - [Creative-Tim](https://bit.ly/3fKQZaL)
+
+---
+
+[Material Dashboard React](https://bit.ly/36LDZyo) is a free Material-UI Admin with a fresh, new design inspired by Google's Material Design. We are very excited to introduce our take on the material concepts through an easy to use and beautiful set of components. Material Dashboard React was built over the popular Material-UI v4.1.0 framework.
+
+---
+
+- [Material Dashboard React](https://bit.ly/36LDZyo) - product page
+- **[Material Dashboard React PRO](https://bit.ly/3o8InNN)** - more pages and components
+
+---
+
+![Material Dashboard React - Free admin dashboard coded in React.](https://raw.githubusercontent.com/admin-dashboards/react-dashboards/master/media/react-material-dashboard-screen.png)
+
+--- 
+
 ## [React Dashboard Black](https://demos.creative-tim.com/black-dashboard-react/?AFFILIATE=128200)
 
 [React Dashboard Black](https://demos.creative-tim.com/black-dashboard-react/?AFFILIATE=128200) is a beautiful Bootstrap 4 (Reactstrap) **admin dashboard** with a generous number of components built to fit together and look amazing. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
