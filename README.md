@@ -1,8 +1,33 @@
-# [React Dashboards](https://dev.to/sm0ke/react-dashboards-open-source-apps-1c7j) - Open-Source and Free
+# React Dashboards
 
-> A curated list with **admin dashboards** coded in **[React](https://reactjs.org/)**, released under permissive licenses (MIT/LGPL). For newcomers, React is an open-source, front end, JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. **[React](https://reactjs.org/)** can be used as a base in the development of single-page or mobile applications - *Wikipedia Definition*.
+A curated list with open-source **[React Dashboards](https://dev.to/sm0ke/react-dashboards-open-source-apps-1c7j)** released under permissive licenses (MIT/LGPL). For newcomers, React is an open-source, front end, JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. **React** can be used as a base in the development of single-page or mobile applications.
 
 <br />
+
+- (New) **[Argon Material-UI React](http://bit.ly/3c3NPhO)** - product page
+- (Free) [React Material Dashboard](https://bit.ly/36LDZyo) - product page
+- (Free) [Tailwind React Dashboard](https://bit.ly/36Ce789) - product page
+- (Free) [React Dashboard Argon](https://bit.ly/3fW8c13) - product page
+- (Free) [NextJS/React Material Dashboard](https://bit.ly/2Ko0Mb8) - product page
+- (Free) [Volt React Dashboard](https://themesberg.com/product/dashboard/volt-react?ref=appseed) - product page
+- (Free) [React Dashboard Black](https://bit.ly/39gor7M) - product page
+
+<br />
+
+## [Argon Material-UI React](http://bit.ly/3c3NPhO)
+
+Argon Dashboard Material-UI is an open-source React dashboard styled with a modern Material-based design. Argon Dashboard Material-UI is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using JSS files.
+
+---
+
+- [Argon Material-UI React](http://bit.ly/3c3NPhO) - product page
+- **[Argon Material-UI React PRO](http://bit.ly/391xbOd)** - more pages and components
+
+---
+
+![Argon Dashboard Material-UI - Open-source dashboard template for React and Material UI.](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ic1ft9n1hf6lqcwb6n6e.png)
+
+---
 
 ## [React Material Dashboard](https://bit.ly/36LDZyo)
 
