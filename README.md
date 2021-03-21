@@ -18,16 +18,16 @@ A curated list with open-source **[React Dashboards](https://dev.to/sm0ke/react-
 
 Argon Dashboard Material-UI is an open-source React dashboard styled with a modern Material-based design. Argon Dashboard Material-UI is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using JSS files.
 
----
+<br />
 
 - [Argon Material-UI React](http://bit.ly/3c3NPhO) - product page
 - **[Argon Material-UI React PRO](http://bit.ly/391xbOd)** - more pages and components
 
----
+<br />
 
 ![Argon Dashboard Material-UI - Open-source dashboard template for React and Material UI.](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ic1ft9n1hf6lqcwb6n6e.png)
 
----
+<br />
 
 ## [React Material Dashboard](https://bit.ly/36LDZyo)
 
