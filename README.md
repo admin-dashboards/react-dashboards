@@ -31,10 +31,6 @@ Argon Dashboard Material-UI is an open-source React dashboard styled with a mode
 
 ## [React Material Dashboard](https://bit.ly/36LDZyo)
 
-> Theme provider - [Creative-Tim](https://bit.ly/3fKQZaL)
-
-<br />
-
 [Material Dashboard React](https://bit.ly/36LDZyo) is a free Material-UI Admin with a fresh, new design inspired by Google's Material Design. We are very excited to introduce our take on the material concepts through an easy to use and beautiful set of components. Material Dashboard React was built over the popular Material-UI v4.1.0 framework.
 
 <br />
@@ -49,10 +45,6 @@ Argon Dashboard Material-UI is an open-source React dashboard styled with a mode
 <br />
 
 ## [Tailwind React Dashboard](https://bit.ly/36Ce789)
-
-> Theme provider - [Creative-Tim](https://bit.ly/3fKQZaL)
-
-<br />
 
 **Notus React** is built with over frontend 100 individual components, giving you the freedom to choose and combine. All components can take variations in colors that you can easily modify using Tailwind CSS classes.
 
@@ -71,10 +63,6 @@ If you like bright and fresh colors, you will love this Free Tailwind CSS Templa
 
 ## [React Dashboard Argon](https://bit.ly/3fW8c13) 
 
-> Theme provider - [Creative-Tim](https://bit.ly/3fKQZaL)
-
-<br />
-
 [React Dashboard Argon](https://bit.ly/3fW8c13) is an open-source **admin dashboard** for Bootstrap4 and Reactstrap. **React Dashboard Argon** is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files. Dashboard resources:
 
 <br />
@@ -90,10 +78,6 @@ If you like bright and fresh colors, you will love this Free Tailwind CSS Templa
 
 ## [NextJS/React Material Dashboard](https://bit.ly/2Ko0Mb8)
 
-> Theme provider - [Creative-Tim](https://bit.ly/3fKQZaL)
-
-<br />
-
 Open-source **[Next JS Template](https://dev.to/sm0ke/next-js-templates-a-curated-list-56fo)** - is a free Material-UI, NextJS and React Admin with a fresh, new design inspired by Google's Material Design. We are very excited to introduce our take on the material concepts through an easy to use and beautiful set of components. NextJS Material Dashboard was built over the popular Material-UI, NextJS and React frameworks.
 
 <br />
@@ -108,10 +92,6 @@ Open-source **[Next JS Template](https://dev.to/sm0ke/next-js-templates-a-curate
 <br />
 
 ## [Volt React Dashboard](https://themesberg.com/product/dashboard/volt-react?ref=appseed)
-
-> Theme provider - [Themesberg](https://themesberg.com/?ref=appseed)
-
-<br />
 
 Volt React is a free and open-source admin dashboard template powered by React.js and Bootstrap 5 featuring over 100 UI elements, customized plugins, and example pages to kickstart your single page web application.
 
@@ -130,10 +110,6 @@ Volt React is a free and open-source admin dashboard template powered by React.j
 <br />
 
 ## [React Dashboard Black](https://bit.ly/39gor7M)
-
-> Theme provider - [Creative-Tim](https://bit.ly/3fKQZaL)
-
-<br />
 
 **[React Dashboard](https://dev.to/sm0ke/react-dashboards-open-source-apps-1c7j)** Black is a beautiful Bootstrap 4 (Reactstrap) **admin dashboard** with a generous number of components built to fit together and look amazing. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
 
