@@ -14,13 +14,13 @@ A curated list with open-source **[React Dashboards](https://dev.to/sm0ke/react-
 
 <br />
 
-<center>
+<div style="text-align:center">
 
  Promo: **[Ultimate React Bundle - 90%OFF](https://bit.ly/3dEYrn3)** 
 
 ![Ultimate React Bundle - Creative-Tim](https://user-images.githubusercontent.com/51854817/115959148-61e08d80-a513-11eb-85bd-e908274e1a80.png)
  
-</center>
+</div>
 
 <br >
 
