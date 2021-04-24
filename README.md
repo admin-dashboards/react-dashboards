@@ -14,13 +14,13 @@ A curated list with open-source **[React Dashboards](https://dev.to/sm0ke/react-
 
 <br />
 
-<div style="text-align:center">
+### PROMO: [Ultimate React Bundle - 90%OFF](https://bit.ly/3dEYrn3) 
 
- <span>Promo: **[Ultimate React Bundle - 90%OFF](https://bit.ly/3dEYrn3)**</span> 
+The React Full Stack Bundle features **17 React, React Native and NextJS Premium products** that will help you develop faster & easier: 213 Example Pages, 8240 Handcrafted Elements. 
+
+<br />
 
 ![Ultimate React Bundle - Creative-Tim offer.](https://user-images.githubusercontent.com/51854817/115959250-f8ad4a00-a513-11eb-8958-74a08039cbe3.png)
-
-</div>
 
 <br >
 
