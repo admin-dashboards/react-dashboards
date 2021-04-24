@@ -18,6 +18,8 @@ A curated list with open-source **[React Dashboards](https://dev.to/sm0ke/react-
 
  <span>Promo: **[Ultimate React Bundle - 90%OFF](https://bit.ly/3dEYrn3)**</span> 
 
+![Ultimate React Bundle - Creative-Tim offer.](https://user-images.githubusercontent.com/51854817/115959250-f8ad4a00-a513-11eb-8958-74a08039cbe3.png)
+
 </div>
 
 <br >
