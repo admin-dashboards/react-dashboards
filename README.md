@@ -4,6 +4,7 @@ A curated list with open-source **[React Dashboards](https://dev.to/sm0ke/react-
 
 <br />
 
+- (New) **[React Nodejs Berry](https://appseed.us/product/react-node-js-berry-dashboard)** - Open-source full-stack seed project: Express / MongoDB / Typescript
 - (Free) [Tailwind React Dashboard](https://bit.ly/36Ce789) - product page
 - (Free) [Argon Material-UI React](http://bit.ly/3c3NPhO) - product page
 - (Free) [React Material Dashboard](https://bit.ly/36LDZyo) - product page
@@ -24,6 +25,21 @@ The React Full Stack Bundle features **17 React, React Native and NextJS Premium
 
 <br >
 
+## [React Node JS Berry](https://appseed.us/product/react-node-js-berry-dashboard) 
+
+**Berry** is a creative free **React Dashboard** build using the Material-UI by **CodedThemes** agency. It is meant to be the best User Experience with highly customizable feature-riched pages. It is a complete game-changer React Dashboard Template with easy and intuitive responsive design as on retina screens or laptops. The product comes with a simple JWT authentication flow: login/register/logout.
+
+<br />
+
+- [React Nodejs Berry](https://appseed.us/product/react-node-js-berry-dashboard) - product page
+- [React Nodejs Berry](https://github.com/app-generator/react-berry-admin-template) - source code (Github)
+
+<br />
+
+![React Nodejs Berry - Open-source full-stack seed project crafted in React, Express and MongoDB.](https://user-images.githubusercontent.com/51854817/125102121-a2e44900-e0e3-11eb-8e90-0dbad6f2bf0c.png)
+
+<br />
+
 ## [Tailwind React Dashboard](https://bit.ly/36Ce789)
 
 **Notus React** is built with over frontend 100 individual components, giving you the freedom to choose and combine. All components can take variations in colors that you can easily modify using Tailwind CSS classes.
@@ -37,7 +53,7 @@ If you like bright and fresh colors, you will love this Free Tailwind CSS Templa
 
 <br />
 
-![Tailwind CSS React Dashboard - Free starter provided by Creative-Tim.](https://raw.githubusercontent.com/admin-dashboards/react-dashboards/master/media/notus-react-tailwind-intro.gif)
+![Tailwind CSS React Dashboard - Free starter provided by Creative-Tim.](https://user-images.githubusercontent.com/51854817/125102730-47ff2180-e0e4-11eb-9995-acc3bcab2f77.png)
 
 <br />
 
