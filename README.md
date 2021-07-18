@@ -4,7 +4,8 @@ A curated list with open-source **[React Dashboards](https://dev.to/sm0ke/react-
 
 <br />
 
-- (New) **[React Nodejs Berry](https://appseed.us/product/react-node-js-berry-dashboard)** - Open-source full-stack seed project: Express / MongoDB / Typescript
+- (New) **[React Node JS Berry](https://appseed.us/product/react-node-js-berry-dashboard)** - Open-source full-stack seed project
+- (New) **[React Node JS Datta Able](https://appseed.us/product/react-node-js-datta-able)** - Open-source full-stack seed project
 - (Free) [Tailwind React Dashboard](https://bit.ly/36Ce789) - product page
 - (Free) [Argon Material-UI React](http://bit.ly/3c3NPhO) - product page
 - (Free) [React Material Dashboard](https://bit.ly/36LDZyo) - product page
@@ -24,6 +25,28 @@ The React Full Stack Bundle features **17 React, React Native and NextJS Premium
 ![Ultimate React Bundle - Creative-Tim offer.](https://user-images.githubusercontent.com/51854817/115959250-f8ad4a00-a513-11eb-8958-74a08039cbe3.png)
 
 <br >
+
+## [React Node JS Datta Able](https://appseed.us/product/react-node-js-datta-able)
+
+**Datta Able** is an open-source **React Dashboard** that provides a colorful and modern design. Datta Able React Free is the most stylised React Free Admin Template, around all other admin templates in the market. It comes with high feature-rich pages and components with fully developer-centric code. The product comes with a simple JWT authentication flow: login/register/logout.
+
+> Features: 
+
+- Modern aesthetics UI design - Designed by [CodedThemes](https://codedthemes.com/)
+- React, Redux, Redux-persist
+- Authentication: JWT Login/Register/Logout
+
+<br />
+
+- [React Nodejs Datta Able](https://appseed.us/product/react-node-js-datta-able) - product page
+- [React Nodejs Datta Able](https://github.com/app-generator/react-datta-able-dashboard) - Source Code 
+
+<br />
+
+![React Node JS Datta Able - Open-source full-stack seed project crafted by AppSeed and CodedThemes on top of React Datta Able design (free version).](https://user-images.githubusercontent.com/51854817/126070099-420815c5-24d1-4c5f-b99b-00ad0636b17f.png)
+
+
+<br />
 
 ## [React Node JS Berry](https://appseed.us/product/react-node-js-berry-dashboard) 
 
