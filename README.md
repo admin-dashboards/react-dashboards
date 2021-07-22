@@ -4,8 +4,9 @@ A curated list with open-source **[React Dashboards](https://dev.to/sm0ke/react-
 
 <br />
 
-- (New) **[React Node JS Berry](https://appseed.us/product/react-node-js-berry-dashboard)** - Open-source full-stack seed project
 - (New) **[React Node JS Datta Able](https://appseed.us/product/react-node-js-datta-able)** - Open-source full-stack seed project
+- (New) **[React Node JS Berry](https://appseed.us/product/react-node-js-berry-dashboard)** - Open-source full-stack seed project
+- (New) **[React Firebase Datta Able](https://appseed.us/product/react-firebase-datta-able)** - free product built with Firebase backend
 - (Free) [Tailwind React Dashboard](https://bit.ly/36Ce789) - product page
 - (Free) [Argon Material-UI React](http://bit.ly/3c3NPhO) - product page
 - (Free) [React Material Dashboard](https://bit.ly/36LDZyo) - product page
