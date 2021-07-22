@@ -65,6 +65,22 @@ The React Full Stack Bundle features **17 React, React Native and NextJS Premium
 
 <br />
 
+## [React Firebase Datta Able](https://appseed.us/product/react-firebase-datta-able)
+
+**Datta Able** is an open-source **React Dashboard** that provides a colorful and modern design. Datta Able React Free is the most stylised React Free Admin Template, around all other admin templates in the market. It comes with high feature-rich pages and components with fully developer-centric code. 
+The product comes with **Firebase** integration.
+
+<br />
+
+- [React Firebase Datta Able](https://appseed.us/product/react-firebase-datta-able) - product page
+- [React Firebase Datta Able](https://react-firebase-datta-able.appseed-srv1.com/) - LIVE Demo
+
+<br />
+
+![React Firebase Datta Able - Open-source full-stack seed project crafted by CodedThemes and AppSeed.](https://user-images.githubusercontent.com/51070104/126618290-61f4d868-3f91-48ef-ae14-d62f1f753e64.png)
+
+<br />
+
 ## [Tailwind React Dashboard](https://bit.ly/36Ce789)
 
 **Notus React** is built with over frontend 100 individual components, giving you the freedom to choose and combine. All components can take variations in colors that you can easily modify using Tailwind CSS classes.
