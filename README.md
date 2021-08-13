@@ -4,9 +4,10 @@ A curated list with open-source **[React Dashboards](https://dev.to/sm0ke/react-
 
 <br />
 
-- (New) **[React Node JS Datta Able](https://appseed.us/product/react-node-js-datta-able)** - Open-source full-stack seed project
-- (New) **[React Node JS Berry](https://appseed.us/product/react-node-js-berry-dashboard)** - Open-source full-stack seed project
-- (New) **[React Firebase Datta Able](https://appseed.us/product/react-firebase-datta-able)** - free product built with Firebase backend
+- (New) **[Django React Datta Able](https://appseed.us/product/django-react-datta-able)** - product page
+- (Free) [React Node JS Datta Able](https://appseed.us/product/react-node-js-datta-able) - Open-source full-stack seed project
+- (Free) [React Node JS Berry](https://appseed.us/product/react-node-js-berry-dashboard) - Open-source full-stack seed project
+- (Free) [React Firebase Datta Able](https://appseed.us/product/react-firebase-datta-able) - free product built with Firebase backend
 - (Free) [Tailwind React Dashboard](https://bit.ly/36Ce789) - product page
 - (Free) [Argon Material-UI React](http://bit.ly/3c3NPhO) - product page
 - (Free) [React Material Dashboard](https://bit.ly/36LDZyo) - product page
@@ -26,6 +27,36 @@ The React Full Stack Bundle features **17 React, React Native and NextJS Premium
 ![Ultimate React Bundle - Creative-Tim offer.](https://user-images.githubusercontent.com/51854817/115959250-f8ad4a00-a513-11eb-8958-74a08039cbe3.png)
 
 <br >
+
+## [Django React Datta Able](https://appseed.us/product/django-react-datta-able)
+
+Open-source full-stack seed project coded in React and Django on top of a modern design from CodedThemes. The **[Django React](https://appseed.us/product/django-react-datta-able)** codebase is already configured with an SQLite database, API (via **DRF**), and JWT token-based authentication flow. **Datta Able** is an open-source **React Dashboard** that provides a colorful and modern design. 
+
+<br />
+
+- [Django React Datta Able](https://appseed.us/product/django-react-datta-able) - product page
+- [Django React Datta Able](https://django-react-datta-able.appseed-srv1.com/) - LIVE Demo
+
+<br />
+
+![Django React Datta Able - Open-source full stack product built in Django and React.](https://user-images.githubusercontent.com/51070104/127129620-bae3b6b3-eb4f-4ad7-a694-5a3c1d6e37cb.png)
+
+<br />
+
+## [React Node JS Berry](https://appseed.us/product/react-node-js-berry-dashboard) 
+
+**Berry** is a creative free **React Dashboard** build using the Material-UI by **CodedThemes** agency. It is meant to be the best User Experience with highly customizable feature-riched pages. It is a complete game-changer React Dashboard Template with easy and intuitive responsive design as on retina screens or laptops. The product comes with a simple JWT authentication flow: login/register/logout.
+
+<br />
+
+- [React Nodejs Berry](https://appseed.us/product/react-node-js-berry-dashboard) - product page
+- [React Nodejs Berry](https://github.com/app-generator/react-berry-admin-template) - source code (Github)
+
+<br />
+
+![React Nodejs Berry - Open-source full-stack seed project crafted in React, Express and MongoDB.](https://user-images.githubusercontent.com/51854817/125102121-a2e44900-e0e3-11eb-8e90-0dbad6f2bf0c.png)
+
+<br />
 
 ## [React Node JS Datta Able](https://appseed.us/product/react-node-js-datta-able)
 
@@ -48,21 +79,6 @@ The React Full Stack Bundle features **17 React, React Native and NextJS Premium
 
 ![React Node JS Datta Able - Open-source full-stack seed project crafted by AppSeed and CodedThemes on top of React Datta Able design (free version).](https://user-images.githubusercontent.com/51854817/126070099-420815c5-24d1-4c5f-b99b-00ad0636b17f.png)
 
-
-<br />
-
-## [React Node JS Berry](https://appseed.us/product/react-node-js-berry-dashboard) 
-
-**Berry** is a creative free **React Dashboard** build using the Material-UI by **CodedThemes** agency. It is meant to be the best User Experience with highly customizable feature-riched pages. It is a complete game-changer React Dashboard Template with easy and intuitive responsive design as on retina screens or laptops. The product comes with a simple JWT authentication flow: login/register/logout.
-
-<br />
-
-- [React Nodejs Berry](https://appseed.us/product/react-node-js-berry-dashboard) - product page
-- [React Nodejs Berry](https://github.com/app-generator/react-berry-admin-template) - source code (Github)
-
-<br />
-
-![React Nodejs Berry - Open-source full-stack seed project crafted in React, Express and MongoDB.](https://user-images.githubusercontent.com/51854817/125102121-a2e44900-e0e3-11eb-8e90-0dbad6f2bf0c.png)
 
 <br />
 
