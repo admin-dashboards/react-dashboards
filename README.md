@@ -4,18 +4,12 @@ A curated list with open-source **[React Dashboards](https://dev.to/sm0ke/react-
 
 <br />
 
-- (New) **[Laravel React Purity](https://appseed.us/product/laravel-react-purity-dashboard)** - product page
-- (New) [Django React Datta Able](https://appseed.us/product/django-react-datta-able) - product page
-- (Free) [React Node JS Datta Able](https://appseed.us/product/react-node-js-datta-able) - Open-source full-stack seed project
-- (Free) [React Node JS Berry](https://appseed.us/product/react-node-js-berry-dashboard) - Open-source full-stack seed project
-- (Free) [React Firebase Datta Able](https://appseed.us/product/react-firebase-datta-able) - free product built with Firebase backend
-- (Free) [Tailwind React Dashboard](https://bit.ly/36Ce789) - product page
-- (Free) [Argon Material-UI React](http://bit.ly/3c3NPhO) - product page
-- (Free) [React Material Dashboard](https://bit.ly/36LDZyo) - product page
-- (Free) [React Dashboard Argon](https://bit.ly/3fW8c13) - product page
-- (Free) [NextJS/React Material Dashboard](https://bit.ly/2Ko0Mb8) - product page
-- (Free) [Volt React Dashboard](https://themesberg.com/product/dashboard/volt-react?ref=appseed) - product page
-- (Free) [React Dashboard Black](https://bit.ly/39gor7M) - product page
+- ✨ **[Laravel React Purity](https://appseed.us/product/laravel-react-purity-dashboard)** - Styled with `Chakra UI`
+- ✨ [Django React Datta Able](https://appseed.us/product/django-react-datta-able) - product page
+- ✨ [React Node JS Datta Able](https://appseed.us/product/react-node-js-datta-able) - Open-source full-stack seed project
+- ✨ [React Node JS Berry](https://appseed.us/product/react-node-js-berry-dashboard) - Open-source full-stack seed project
+- ✨ [React Firebase Datta Able](https://appseed.us/product/react-firebase-datta-able) - free product built with Firebase backend
+- ✨ [Tailwind React Dashboard](https://bit.ly/36Ce789) - product page
 
 <br />
 
@@ -29,30 +23,29 @@ The React Full Stack Bundle features **17 React, React Native and NextJS Premium
 
 <br >
 
-## [React Laravel Purity](https://appseed.us/product/laravel-react-purity-dashboard)
+## ✨ [React Laravel Purity](https://appseed.us/product/laravel-react-purity-dashboard)
 
 Open-source full-stack seed project that uses a `React UI` powered by a simple `Laravel API Server`. **[Laravel React Purity](https://appseed.us/product/laravel-react-purity-dashboard)** sample can be used to bootstrap fast a new project using a tested `development-ready` stack or simply for eLearning purposes by beginners. For newcomers, **React** is a popular Javascript library for coding user interfaces baked by Facebook and **Laravel** is a leading web framework written in PHP. 
 
 <br />
 
-- [React Laravel Purity Dashboard](https://appseed.us/product/laravel-react-purity-dashboard) - product page
-- [React Laravel Purity Dashboard](https://laravel-react-purity-dashboard.appseed-srv1.com/#/auth/signin) - LIVE Demo
+- 👉 [React Laravel Purity Dashboard](https://appseed.us/product/laravel-react-purity-dashboard) - product page
+- 👉 [React Laravel Purity Dashboard](https://laravel-react-purity-dashboard.appseed-srv1.com/#/auth/signin) - LIVE Demo
 
 <br />
 
 ![React Laravel Purity Dashboard - Open-Source react Dashboard.](https://user-images.githubusercontent.com/51070104/142259883-4f05d93d-ff1c-4485-91bd-b7e9e56110de.gif)
 
-
 <br />
 
-## [Django React Datta Able](https://appseed.us/product/django-react-datta-able)
+## ✨ [Django React Datta Able](https://appseed.us/product/django-react-datta-able)
 
 Open-source full-stack seed project coded in React and Django on top of a modern design from CodedThemes. The **[Django React](https://appseed.us/product/django-react-datta-able)** codebase is already configured with an SQLite database, API (via **DRF**), and JWT token-based authentication flow. **Datta Able** is an open-source **React Dashboard** that provides a colorful and modern design. 
 
 <br />
 
-- [Django React Datta Able](https://appseed.us/product/django-react-datta-able) - product page
-- [Django React Datta Able](https://django-react-datta-able.appseed-srv1.com/) - LIVE Demo
+- 👉 [Django React Datta Able](https://appseed.us/product/django-react-datta-able) - product page
+- 👉 [Django React Datta Able](https://django-react-datta-able.appseed-srv1.com/) - LIVE Demo
 
 <br />
 
@@ -60,14 +53,14 @@ Open-source full-stack seed project coded in React and Django on top of a modern
 
 <br />
 
-## [React Node JS Berry](https://appseed.us/product/react-node-js-berry-dashboard) 
+## ✨ [React Node JS Berry](https://appseed.us/product/react-node-js-berry-dashboard) 
 
 **Berry** is a creative free **React Dashboard** build using the Material-UI by **CodedThemes** agency. It is meant to be the best User Experience with highly customizable feature-riched pages. It is a complete game-changer React Dashboard Template with easy and intuitive responsive design as on retina screens or laptops. The product comes with a simple JWT authentication flow: login/register/logout.
 
 <br />
 
-- [React Nodejs Berry](https://appseed.us/product/react-node-js-berry-dashboard) - product page
-- [React Nodejs Berry](https://github.com/app-generator/react-berry-admin-template) - source code (Github)
+- 👉 [React Nodejs Berry](https://appseed.us/product/react-node-js-berry-dashboard) - product page
+- 👉 [React Nodejs Berry](https://github.com/app-generator/react-berry-admin-template) - source code (Github)
 
 <br />
 
@@ -75,22 +68,14 @@ Open-source full-stack seed project coded in React and Django on top of a modern
 
 <br />
 
-## [React Node JS Datta Able](https://appseed.us/product/react-node-js-datta-able)
+## ✨ [React Node JS Datta Able](https://appseed.us/product/react-node-js-datta-able)
 
 **Datta Able** is an open-source **React Dashboard** that provides a colorful and modern design. Datta Able React Free is the most stylised React Free Admin Template, around all other admin templates in the market. It comes with high feature-rich pages and components with fully developer-centric code. The product comes with a simple JWT authentication flow: login/register/logout.
 
 <br />
 
-> Features: 
-
-- Modern aesthetics UI design - Designed by [CodedThemes](https://codedthemes.com/)
-- React, Redux, Redux-persist
-- Authentication: JWT Login/Register/Logout
-
-<br />
-
-- [React Nodejs Datta Able](https://appseed.us/product/react-node-js-datta-able) - product page
-- [React Nodejs Datta Able](https://github.com/app-generator/react-datta-able-dashboard) - Source Code 
+- 👉 [React Nodejs Datta Able](https://appseed.us/product/react-node-js-datta-able) - product page
+- 👉 [React Nodejs Datta Able](https://github.com/app-generator/react-datta-able-dashboard) - Source Code 
 
 <br />
 
@@ -99,15 +84,15 @@ Open-source full-stack seed project coded in React and Django on top of a modern
 
 <br />
 
-## [React Firebase Datta Able](https://appseed.us/product/react-firebase-datta-able)
+## ✨ [React Firebase Datta Able](https://appseed.us/product/react-firebase-datta-able)
 
 **Datta Able** is an open-source **React Dashboard** that provides a colorful and modern design. Datta Able React Free is the most stylised React Free Admin Template, around all other admin templates in the market. It comes with high feature-rich pages and components with fully developer-centric code. 
 The product comes with **Firebase** integration.
 
 <br />
 
-- [React Firebase Datta Able](https://appseed.us/product/react-firebase-datta-able) - product page
-- [React Firebase Datta Able](https://react-firebase-datta-able.appseed-srv1.com/) - LIVE Demo
+- 👉 [React Firebase Datta Able](https://appseed.us/product/react-firebase-datta-able) - product page
+- 👉 [React Firebase Datta Able](https://react-firebase-datta-able.appseed-srv1.com/) - LIVE Demo
 
 <br />
 
@@ -115,7 +100,7 @@ The product comes with **Firebase** integration.
 
 <br />
 
-## [Tailwind React Dashboard](https://bit.ly/36Ce789)
+## ✨ [Tailwind React Dashboard](https://bit.ly/36Ce789)
 
 **Notus React** is built with over frontend 100 individual components, giving you the freedom to choose and combine. All components can take variations in colors that you can easily modify using Tailwind CSS classes.
 
@@ -123,8 +108,8 @@ If you like bright and fresh colors, you will love this Free Tailwind CSS Templa
 
 <br />
 
-- [Tailwind React Dashboard](https://bit.ly/36Ce789) - product page
-- **[Tailwind React PRO](https://bit.ly/2RREkuu) - more pages and components**
+- 👉 [Tailwind React Dashboard](https://bit.ly/36Ce789) - product page
+- 👉 **[Tailwind React PRO](https://bit.ly/2RREkuu) - more pages and components**
 
 <br />
 
@@ -132,14 +117,14 @@ If you like bright and fresh colors, you will love this Free Tailwind CSS Templa
 
 <br />
 
-## [Argon Material-UI React](http://bit.ly/3c3NPhO)
+## ✨ [Argon Material-UI React](http://bit.ly/3c3NPhO)
 
 Argon Dashboard Material-UI is an open-source React dashboard styled with a modern Material-based design. Argon Dashboard Material-UI is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using JSS files.
 
 <br />
 
-- [Argon Material-UI React](http://bit.ly/3c3NPhO) - product page
-- **[Argon Material-UI React PRO](http://bit.ly/391xbOd)** - more pages and components
+- 👉 [Argon Material-UI React](http://bit.ly/3c3NPhO) - product page
+- 👉 **[Argon Material-UI React PRO](http://bit.ly/391xbOd)** - more pages and components
 
 <br />
 
@@ -147,14 +132,14 @@ Argon Dashboard Material-UI is an open-source React dashboard styled with a mode
 
 <br />
 
-## [React Material Dashboard](https://bit.ly/36LDZyo)
+## ✨ [React Material Dashboard](https://bit.ly/36LDZyo)
 
 [Material Dashboard React](https://bit.ly/36LDZyo) is a free Material-UI Admin with a fresh, new design inspired by Google's Material Design. We are very excited to introduce our take on the material concepts through an easy to use and beautiful set of components. Material Dashboard React was built over the popular Material-UI v4.1.0 framework.
 
 <br />
 
-- [Material Dashboard React](https://bit.ly/36LDZyo) - product page
-- **[Material Dashboard React PRO](https://bit.ly/3o8InNN)** - more pages and components
+- 👉 [Material Dashboard React](https://bit.ly/36LDZyo) - product page
+- 👉 **[Material Dashboard React PRO](https://bit.ly/3o8InNN)** - more pages and components
 
 <br />
 
@@ -162,14 +147,14 @@ Argon Dashboard Material-UI is an open-source React dashboard styled with a mode
 
 <br />
 
-## [React Dashboard Argon](https://bit.ly/3fW8c13) 
+## ✨ [React Dashboard Argon](https://bit.ly/3fW8c13) 
 
 [React Dashboard Argon](https://bit.ly/3fW8c13) is an open-source **admin dashboard** for Bootstrap4 and Reactstrap. **React Dashboard Argon** is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files. Dashboard resources:
 
 <br />
 
-- [React Dashboard Argon](https://bit.ly/3fW8c13) - product page
-- **[React Dashboard Argon PRO](https://bit.ly/2K9DMfy)** - more pages and components
+- 👉 [React Dashboard Argon](https://bit.ly/3fW8c13) - product page
+- 👉 **[React Dashboard Argon PRO](https://bit.ly/2K9DMfy)** - more pages and components
 
 <br />
 
@@ -177,14 +162,14 @@ Argon Dashboard Material-UI is an open-source React dashboard styled with a mode
 
 <br />
 
-## [NextJS/React Material Dashboard](https://bit.ly/2Ko0Mb8)
+## ✨ [NextJS/React Material Dashboard](https://bit.ly/2Ko0Mb8)
 
 Open-source **[Next JS Template](https://dev.to/sm0ke/next-js-templates-a-curated-list-56fo)** - is a free Material-UI, NextJS and React Admin with a fresh, new design inspired by Google's Material Design. We are very excited to introduce our take on the material concepts through an easy to use and beautiful set of components. NextJS Material Dashboard was built over the popular Material-UI, NextJS and React frameworks.
 
 <br />
 
-- [NextJS Material](https://bit.ly/2Ko0Mb8) - product page
-- **[NextJS Material PRO](https://bit.ly/2INGVl0) - more pages and components**
+- 👉 [NextJS Material](https://bit.ly/2Ko0Mb8) - product page
+- 👉 **[NextJS Material PRO](https://bit.ly/2INGVl0) - more pages and components**
 
 <br />
 
@@ -192,7 +177,7 @@ Open-source **[Next JS Template](https://dev.to/sm0ke/next-js-templates-a-curate
 
 <br />
 
-## [Volt React Dashboard](https://themesberg.com/product/dashboard/volt-react?ref=appseed)
+## ✨ [Volt React Dashboard](https://themesberg.com/product/dashboard/volt-react?ref=appseed)
 
 Volt React is a free and open-source admin dashboard template powered by React.js and Bootstrap 5 featuring over 100 UI elements, customized plugins, and example pages to kickstart your single page web application.
 
@@ -200,9 +185,8 @@ Volt React is a free and open-source admin dashboard template powered by React.j
 
 <br />
 
-- [Volt React Free](https://themesberg.com/product/dashboard/volt-react?ref=appseed) - product page
-- **[Volt React PRO](https://themesberg.com/product/dashboard/volt-pro-react?ref=appseed)** - more pages and components
-- **[React Dashboard](https://themesberg.com/blog/tutorial/react-dashboard)** Tutorial - a good starting point for beginners
+- 👉 [Volt React Free](https://themesberg.com/product/dashboard/volt-react?ref=appseed) - product page
+- 👉 **[Volt React PRO](https://themesberg.com/product/dashboard/volt-pro-react?ref=appseed)** - more pages and components
 
 <br />
 
@@ -210,14 +194,14 @@ Volt React is a free and open-source admin dashboard template powered by React.j
 
 <br />
 
-## [React Dashboard Black](https://bit.ly/39gor7M)
+## ✨ [React Dashboard Black](https://bit.ly/39gor7M)
 
 **[React Dashboard](https://dev.to/sm0ke/react-dashboards-open-source-apps-1c7j)** Black is a beautiful Bootstrap 4 (Reactstrap) **admin dashboard** with a generous number of components built to fit together and look amazing. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
 
 <br />
 
-- [React Dashboard Black](https://bit.ly/39gor7M) - product page
-- **[React Dashboard Black PRO](https://bit.ly/33XjUDz)** - more pages and components
+- 👉 [React Dashboard Black](https://bit.ly/39gor7M) - product page
+- 👉 **[React Dashboard Black PRO](https://bit.ly/33XjUDz)** - more pages and components
 
 <br />
 
@@ -227,15 +211,14 @@ Volt React is a free and open-source admin dashboard template powered by React.j
 
 <br />
 
-## [React Dashboard Paper](https://www.creative-tim.com/product/paper-dashboard-react?AFFILIATE=128200)
+## ✨ [React Dashboard Paper](https://www.creative-tim.com/product/paper-dashboard-react?AFFILIATE=128200)
 
 **[React Dashboard](https://dev.to/sm0ke/react-dashboards-open-source-apps-1c7j)** Paper is a Bootstrap Admin Panel which combines soft colors with beautiful typography and spacious cards and graphics. It is a powerful tool, but it is light and easy to use. It has enough features to allow you to get the job done, but it is not crowded to the point where you can't find the files for a specific plugin.
 
 ### Dashboard links 
 
- - [React Dashboard Paper](https://www.creative-tim.com/product/paper-dashboard-react?AFFILIATE=128200) - the official product page
- - [React Dashboard Paper demo](https://demos.creative-tim.com/paper-dashboard-react/#/admin/dashboard?AFFILIATE=128200)
- - [React Dashboard Paper sources](https://github.com/creativetimofficial/paper-dashboard-react) - published on Github
+ - 👉 [React Dashboard Paper](https://www.creative-tim.com/product/paper-dashboard-react?AFFILIATE=128200) - the official product page
+ - 👉 [React Dashboard Paper demo](https://demos.creative-tim.com/paper-dashboard-react/#/admin/dashboard?AFFILIATE=128200)
 
 ![React Dashboard Paper - Gif animated intro.](https://github.com/app-generator/static/blob/master/admin-dashboards/react-dashboard-paper-intro.gif?raw=true)
 
@@ -251,7 +234,7 @@ $ yarn build # build for production
 
 <br />
 
-## [React Dashboard Now UI](https://www.creative-tim.com/product/now-ui-dashboard-react?AFFILIATE=128200)
+## ✨ [React Dashboard Now UI](https://www.creative-tim.com/product/now-ui-dashboard-react?AFFILIATE=128200)
 
 Now UI **[React Dashboard](https://dev.to/sm0ke/react-dashboards-open-source-apps-1c7j)** is an admin dashboard template designed by Invision and coded by Creative Tim. It is built on top of Reactstrap, using Now UI Dashboard and it is fully responsive. It comes with a big collections of elements that will offer you multiple possibilities to create the app that best fits your needs. It can be used to create admin panels, project management systems, web applications backend, CMS or CRM.
 
