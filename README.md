@@ -40,6 +40,7 @@ Open-source full-stack seed project that uses a `React UI` powered by a simple `
 
 <br />
 
+![React Laravel Purity Dashboard - Open-Source react Dashboard.](https://user-images.githubusercontent.com/51070104/142259883-4f05d93d-ff1c-4485-91bd-b7e9e56110de.gif)
 
 
 <br />
