@@ -13,9 +13,7 @@ A curated list with open-source **[React Dashboards](https://dev.to/sm0ke/react-
 
 <br />
 
-### PROMO: [Ultimate React Bundle - 90%OFF](https://bit.ly/3dEYrn3) 
-
-The React Full Stack Bundle features **17 React, React Native and NextJS Premium products** that will help you develop faster & easier: 213 Example Pages, 8240 Handcrafted Elements. 
+[![AppSeed - Black Friday Offer for 2021 ](https://user-images.githubusercontent.com/51070104/143680027-6aa964c6-a4f6-4615-a839-ad2546c7a281.jpg)](https://appseed.us/bundles/black-friday)
 
 <br />
 
