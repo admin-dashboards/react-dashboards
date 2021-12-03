@@ -13,10 +13,6 @@ A curated list with open-source **[React Dashboards](https://dev.to/sm0ke/react-
 
 <br />
 
-[![AppSeed - Black Friday Offer for 2021 ](https://user-images.githubusercontent.com/51070104/143680027-6aa964c6-a4f6-4615-a839-ad2546c7a281.jpg)](https://appseed.us/bundles/black-friday)
-
-<br />
-
 ## ✨ [React Laravel Purity](https://appseed.us/product/laravel-react-purity-dashboard)
 
 Open-source full-stack seed project that uses a `React UI` powered by a simple `Laravel API Server`. **[Laravel React Purity](https://appseed.us/product/laravel-react-purity-dashboard)** sample can be used to bootstrap fast a new project using a tested `development-ready` stack or simply for eLearning purposes by beginners. For newcomers, **React** is a popular Javascript library for coding user interfaces baked by Facebook and **Laravel** is a leading web framework written in PHP. 
