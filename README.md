@@ -1,6 +1,6 @@
-# React Dashboards
+# [React Dashboards](https://www.admin-dashboards.com/react-dashboards-curated-open-source-apps/)
 
-A curated list with open-source **[React Dashboards](https://dev.to/sm0ke/react-dashboards-open-source-apps-1c7j)** released under permissive licenses (MIT/LGPL). For newcomers, React is an open-source, front end, JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. **React** can be used as a base in the development of single-page or mobile applications.
+A curated list with open-source **[React Dashboards](https://www.admin-dashboards.com/react-dashboards-curated-open-source-apps/)** released under permissive licenses (MIT/LGPL). For newcomers, React is an open-source, front end, JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. **React** can be used as a base in the development of single-page or mobile applications.
 
 <br />
 
@@ -334,5 +334,5 @@ At first look, the product design is clean and very easy to interact with the pa
 - More [React apps](https://blog.appseed.us/react-apps-open-source-and-free/) - index provided by AppSeed
 
 ---
-[React Dashboards](https://dev.to/sm0ke/react-dashboards-open-source-apps-1c7j) - Hacked by [Sm0ke](https://twitter.com/Sm0keDev)
+[React Dashboards](https://www.admin-dashboards.com/react-dashboards-curated-open-source-apps/) - Hacked by [Sm0ke](https://twitter.com/Sm0keDev)
 
