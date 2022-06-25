@@ -26,7 +26,8 @@ Start your Development with an Innovative Admin Template for MUI and React. If y
 
 <br />
 
-![Soft UI Dashboard React - Open-Source React Dashboard Template from Creative-Tim.](https://user-images.githubusercontent.com/51854817/175767847-cd263866-dd02-436d-80e4-8203b6295594.png)
+
+![Soft UI Dashboard React - Open-Source React Dashboard Template from Creative-Tim.](https://user-images.githubusercontent.com/51070104/174486537-0b74913d-886c-45ae-8f99-4f1b0d6a13f4.png)
 
 <br />
 
