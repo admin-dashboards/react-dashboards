@@ -23,7 +23,7 @@ Open-Source Full-Stack seed project crafted on top of `Chakra UI` and `React`. T
 
 <br />
 
-![React Laravel Purity Dashboard - Open-Source react Dashboard.](https://user-images.githubusercontent.com/51070104/142259883-4f05d93d-ff1c-4485-91bd-b7e9e56110de.gif)
+![React Horizon UI - Open-Source react Dashboard.](https://user-images.githubusercontent.com/51070104/174428337-181e6dea-0ad9-4fe1-a35f-25e5fa656a9d.png)
 
 <br />
 
