@@ -72,11 +72,11 @@ Material Dashboard 2 React is our newest free MUI Admin Template based on React.
 
 <br />
 
-## ✨ [Flexy React Material Admin](https://www.wrappixel.com/templates/free-material-ui-template/?ref=157)
+## ✨ [Flexy React Material Admin](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157)
 
-Flexy React Dashboard Lite is very useful react dashboard template built with React Material UI to create nice and beautiful admin interface. Flexy React Dashboard Lite is carefully hand crafted minimal admin template, Its build with modular and modern design. Flexy React Dashboard Lite is completely free to download and use for your personal and commercial projects.
+Flexy Free Nextjs version is built with Most Popular Framework React Material-UI. The free version comes with elegant grid design that helps you play around with the look and feel of the web app the way you want. it's carefully hand crafted minimal admin template, Its build with modular and modern design.
 
-> 👉 [Flexy React Material Admin](https://www.wrappixel.com/templates/free-material-ui-template/?ref=157) - `product page`
+> 👉 [Flexy React Material Admin](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157) - `product page`
 
 <br />
 
