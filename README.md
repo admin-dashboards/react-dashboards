@@ -17,7 +17,7 @@ Open-Source Full-Stack seed project crafted on top of `Chakra UI` and `React`. T
 
 <br />
 
-## ✨ Soft UI Dashboard React
+## ✨ [Soft UI Dashboard React](https://www.creative-tim.com/product/soft-ui-dashboard-react?AFFILIATE=128200)
 
 Start your Development with an Innovative Admin Template for MUI and React. If you like the look & feel of the hottest design trend right now, Soft UI, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazin
 
