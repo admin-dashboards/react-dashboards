@@ -32,7 +32,7 @@ Start your Development with an Innovative Admin Template for MUI and React. If y
 
 ## ✨ [Flexy React Material Admin](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157)
 
-Flexy Free `React`/Nextjs version is built with Most Popular Framework React Material-UI. The free version comes with an elegant grid design that helps you play around with the look and feel of the web app the way you want. it's a carefully hand-crafted minimal admin template built with modular and modern design.
+Flexy Free `React`/Nextjs version is built with most popular React Framework: **Material-UI**. The free version comes with an elegant grid design that helps you play around with the look and feel of the web app the way you want. it's a carefully hand-crafted minimal admin template built with modular and modern design.
 
 > 👉 [Flexy React Material Admin](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157) - `product page`
 
