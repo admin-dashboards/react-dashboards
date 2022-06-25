@@ -4,23 +4,22 @@ A curated list with open-source **[React Dashboards](https://www.admin-dashboard
 
 <br />
 
-- ✨ **[Laravel React Purity](https://appseed.us/product/laravel-react-purity-dashboard)** - Styled with `Chakra UI`
-- ✨ [Django React Datta Able](https://appseed.us/product/django-react-datta-able) - product page
-- ✨ [React Node JS Datta Able](https://appseed.us/product/react-node-js-datta-able) - Open-source full-stack seed project
+- ✨ [React Horizon UI](https://appseed.us/horizon-ui/api-server-nodejs/) - Styled with `Chakra UI`
+- ✨ [React Node JS Datta Able](https://appseed.us/product/datta-able/api-server-nodejs/react/) - Open-source full-stack seed project
 - ✨ [React Node JS Berry](https://appseed.us/product/react-node-js-berry-dashboard) - Open-source full-stack seed project
 - ✨ [React Firebase Datta Able](https://appseed.us/product/react-firebase-datta-able) - free product built with Firebase backend
 - ✨ [Tailwind React Dashboard](https://bit.ly/36Ce789) - product page
 
 <br />
 
-## ✨ [React Laravel Purity](https://appseed.us/product/laravel-react-purity-dashboard)
+## ✨ [React Horizon UI](https://appseed.us/horizon-ui/api-server-nodejs/)
 
-Open-source full-stack seed project that uses a `React UI` powered by a simple `Laravel API Server`. **[Laravel React Purity](https://appseed.us/product/laravel-react-purity-dashboard)** sample can be used to bootstrap fast a new project using a tested `development-ready` stack or simply for eLearning purposes by beginners. For newcomers, **React** is a popular Javascript library for coding user interfaces baked by Facebook and **Laravel** is a leading web framework written in PHP. 
+Open-Source Full-Stack seed project crafted on top of `Chakra UI` and `React`. The product comes with a simple JWT authentication flow: login/register/logout powered by an open-source Node JS API Backend. Based on the permissive (MIT) Licence, **React Horizon UI** can be used in commercial projects and eLearning activities.
 
 <br />
 
-- 👉 [React Laravel Purity Dashboard](https://appseed.us/product/laravel-react-purity-dashboard) - product page
-- 👉 [React Laravel Purity Dashboard](https://laravel-react-purity-dashboard.appseed-srv1.com/#/auth/signin) - LIVE Demo
+- 👉 [React Horizon UI](https://appseed.us/product/horizon-ui/api-server-nodejs/) - `product page`
+- 👉 [React Horizon UI](https://react-horizon-ui-chakra.appseed-srv1.com/#/auth/sign-in/default) - `LIVE Demo`
 
 <br />
 
@@ -28,33 +27,33 @@ Open-source full-stack seed project that uses a `React UI` powered by a simple `
 
 <br />
 
-## ✨ [Django React Datta Able](https://appseed.us/product/django-react-datta-able)
+## ✨ [React Node JS Datta Able](https://appseed.us/product/datta-able/api-server-nodejs/react/)
 
-Open-source full-stack seed project coded in React and Django on top of a modern design from CodedThemes. The **[Django React](https://appseed.us/product/django-react-datta-able)** codebase is already configured with an SQLite database, API (via **DRF**), and JWT token-based authentication flow. **Datta Able** is an open-source **React Dashboard** that provides a colorful and modern design. 
-
-<br />
-
-- 👉 [Django React Datta Able](https://appseed.us/product/django-react-datta-able) - product page
-- 👉 [Django React Datta Able](https://django-react-datta-able.appseed-srv1.com/) - LIVE Demo
+**Datta Able** is an open-source **React Dashboard** that provides a colorful and modern design. Datta Able React Free is the most stylised React Free Admin Template, around all other admin templates in the market. The product comes with a simple JWT authentication flow: `login`/`register`/`logout`.
 
 <br />
 
-![Django React Datta Able - Open-source full stack product built in Django and React.](https://user-images.githubusercontent.com/51070104/127129620-bae3b6b3-eb4f-4ad7-a694-5a3c1d6e37cb.png)
+- 👉 [React Node JS Datta Able](https://appseed.us/product/datta-able/api-server-nodejs/react/) - `product page`
+- 👉 [React Node JS Datta Able](https://react-node-js-datta-able.appseed-srv1.com/) - `LIVE Demo`
 
 <br />
 
-## ✨ [React Node JS Berry](https://appseed.us/product/react-node-js-berry-dashboard) 
+![React Datta Able - Full-stack product powered by a simple NodeJS API backend.](https://user-images.githubusercontent.com/51070104/175767137-e9b7cb1b-ae57-4ea3-9e31-4b976ab4465f.png)
+
+<br />
+
+## ✨ [React Node JS Berry](https://appseed.us/product/berry-dashboard/api-server-nodejs/react/) 
 
 **Berry** is a creative free **React Dashboard** build using the Material-UI by **CodedThemes** agency. It is meant to be the best User Experience with highly customizable feature-riched pages. It is a complete game-changer React Dashboard Template with easy and intuitive responsive design as on retina screens or laptops. The product comes with a simple JWT authentication flow: login/register/logout.
 
 <br />
 
-- 👉 [React Nodejs Berry](https://appseed.us/product/react-node-js-berry-dashboard) - product page
-- 👉 [React Nodejs Berry](https://github.com/app-generator/react-berry-admin-template) - source code (Github)
+- 👉 [React Node JS Berry](https://appseed.us/product/berry-dashboard/api-server-nodejs/react/) - `product page`
+- 👉 [React Node JS Berry](https://react-node-js-berry-dashboard.appseed-srv1.com/) - `LIVE Demo`
 
 <br />
 
-![React Nodejs Berry - Open-source full-stack seed project crafted in React, Express and MongoDB.](https://user-images.githubusercontent.com/51854817/125102121-a2e44900-e0e3-11eb-8e90-0dbad6f2bf0c.png)
+![React Node JS Berry - Full-stack product powered by a simple NodeJS API backend.](https://user-images.githubusercontent.com/51070104/174480640-e0b450b1-07a8-4cc7-84bc-287bb9c45773.png)
 
 <br />
 
