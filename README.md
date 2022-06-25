@@ -4,7 +4,7 @@ A curated list with open-source **[React Dashboards](https://www.admin-dashboard
 
 <br />
 
-## ✨ [React Horizon UI](https://appseed.us/horizon-ui/api-server-nodejs/) `Full-Stack`
+## ✨ [React Horizon UI](https://appseed.us/product/horizon-ui/api-server-nodejs/) `Full-Stack`
 
 Open-Source Full-Stack seed project crafted on top of `Chakra UI` and `React`. The product comes with a simple JWT authentication flow: login/register/logout powered by an open-source Node JS API Backend. Based on the permissive (MIT) Licence, **React Horizon UI** can be used in commercial projects and eLearning activities.
 
