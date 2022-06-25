@@ -43,7 +43,7 @@ Start your Development with an Innovative Admin Template for MUI and React. If y
 
 <br />
 
-## ✨ Material Dashboard React
+## ✨ [Material Dashboard React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200)
 
 Material Dashboard 2 React is our newest free MUI Admin Template based on React. Material Dashboard 2 React is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
 
