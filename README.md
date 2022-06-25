@@ -53,7 +53,7 @@ Material Dashboard 2 React is our newest free MUI Admin Template based on React.
 
 <br />
 
-![Material Dashboard React - Open-Source React Dashboard Template from Creative-Tim.](https://user-images.githubusercontent.com/51854817/175768015-6664fa3e-c230-46a4-8cd7-814bc38260e8.png)
+![Material Dashboard React - Open-Source React Dashboard Template from Creative-Tim.](https://user-images.githubusercontent.com/51070104/169301658-6cf27993-c451-4cd4-9ffa-2968b8981167.png)
 
 <br />
 
