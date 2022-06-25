@@ -80,7 +80,7 @@ Flexy Free Nextjs version is built with Most Popular Framework React Material-UI
 
 <br />
 
-![Flexy React Material Admin - Open-source React template.](https://user-images.githubusercontent.com/51070104/172047573-c39829f2-5496-47f9-ac79-06e246626cae.png)
+![Flexy React Material Admin - Open-source React template.](https://user-images.githubusercontent.com/51070104/175769752-ab24a64a-15ba-4fcf-8dcd-13a8e755277b.jpg)
 
 <br />
 
