@@ -31,6 +31,18 @@ Start your Development with an Innovative Admin Template for MUI and React. If y
 
 <br />
 
+## ✨ [Flexy React Material Admin](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157)
+
+Flexy Free Nextjs version is built with Most Popular Framework React Material-UI. The free version comes with elegant grid design that helps you play around with the look and feel of the web app the way you want. it's carefully hand crafted minimal admin template, Its build with modular and modern design.
+
+> 👉 [Flexy React Material Admin](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157) - `product page`
+
+<br />
+
+![Flexy React Material Admin - Open-source React template.](https://user-images.githubusercontent.com/51070104/175769752-ab24a64a-15ba-4fcf-8dcd-13a8e755277b.jpg)
+
+<br />
+
 ## ✨ [React Node JS Datta Able](https://appseed.us/product/datta-able/api-server-nodejs/react/) `Full-Stack`
 
 **Datta Able** is an open-source **React Dashboard** that provides a colorful and modern design. Datta Able React Free is the most stylised React Free Admin Template, around all other admin templates in the market. The product comes with a simple JWT authentication flow: `login`/`register`/`logout`.
@@ -69,18 +81,6 @@ Material Dashboard 2 React is our newest free MUI Admin Template based on React.
 <br />
 
 ![React Node JS Berry - Full-stack product powered by a simple NodeJS API backend.](https://user-images.githubusercontent.com/51070104/174480640-e0b450b1-07a8-4cc7-84bc-287bb9c45773.png)
-
-<br />
-
-## ✨ [Flexy React Material Admin](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157)
-
-Flexy Free Nextjs version is built with Most Popular Framework React Material-UI. The free version comes with elegant grid design that helps you play around with the look and feel of the web app the way you want. it's carefully hand crafted minimal admin template, Its build with modular and modern design.
-
-> 👉 [Flexy React Material Admin](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157) - `product page`
-
-<br />
-
-![Flexy React Material Admin - Open-source React template.](https://user-images.githubusercontent.com/51070104/175769752-ab24a64a-15ba-4fcf-8dcd-13a8e755277b.jpg)
 
 <br />
 
