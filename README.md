@@ -73,14 +73,25 @@ Material Dashboard 2 React is our newest free MUI Admin Template based on React.
 
 **Berry** is a creative free **React Dashboard** build using the Material-UI by **CodedThemes** agency. It is meant to be the best User Experience with highly customizable feature-riched pages. It is a complete game-changer React Dashboard Template with easy and intuitive responsive design as on retina screens or laptops. The product comes with a simple JWT authentication flow: login/register/logout.
 
-<br />
-
 - 👉 [React Node JS Berry](https://appseed.us/product/berry-dashboard/api-server-nodejs/react/) - `product page`
 - 👉 [React Node JS Berry](https://react-node-js-berry-dashboard.appseed-srv1.com/) - `LIVE Demo`
 
 <br />
 
 ![React Node JS Berry - Full-stack product powered by a simple NodeJS API backend.](https://user-images.githubusercontent.com/51070104/174480640-e0b450b1-07a8-4cc7-84bc-287bb9c45773.png)
+
+<br />
+
+## ✨ [Mantis React Material UI](https://mantisdashboard.io/)
+
+Mantis is a free and open source React redux dashboard template made using the Material UI React component library with aim of flexibility and better customizability. The product comes with a fully professional grade user interface for any kind of backend project.
+
+- 👉 [Mantis React Material UI](https://mantisdashboard.io/) - `product page`
+- 👉 [Mantis React Material UI](https://mantisdashboard.io/dashboard/analytics) - `LIVE demo`
+
+<br />
+
+![Mantis React Material UI - Open-Source React Template by CodedThemes.](https://user-images.githubusercontent.com/51070104/175770063-4105df52-dd08-4ff5-9c80-f4692cf1bd6b.jpg)
 
 <br />
 
