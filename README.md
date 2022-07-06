@@ -4,19 +4,6 @@ A curated list with open-source **[React Dashboards](https://www.admin-dashboard
 
 <br />
 
-## ✨ [React Horizon UI](https://appseed.us/product/horizon-ui/api-server-nodejs/) `Full-Stack`
-
-Open-Source Full-Stack seed project crafted on top of `Chakra UI` and `React`. The product comes with a simple JWT authentication flow: login/register/logout powered by an open-source Node JS API Backend. Based on the permissive (MIT) Licence, **React Horizon UI** can be used in commercial projects and eLearning activities.
-
-- 👉 [React Horizon UI](https://appseed.us/product/horizon-ui/api-server-nodejs/) - `product page`
-- 👉 [React Horizon UI](https://react-horizon-ui-chakra.appseed-srv1.com/#/auth/sign-in/default) - `LIVE Demo`
-
-<br />
-
-![React Horizon UI - Open-Source react Dashboard.](https://user-images.githubusercontent.com/51070104/174428337-181e6dea-0ad9-4fe1-a35f-25e5fa656a9d.png)
-
-<br />
-
 ## ✨ [Soft UI Dashboard React](https://www.creative-tim.com/product/soft-ui-dashboard-react?AFFILIATE=128200)
 
 Start your Development with an Innovative Admin Template for `MUI` and `React`. If you like the look & feel of the hottest design trend right now, **Soft UI**, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
@@ -27,6 +14,19 @@ Start your Development with an Innovative Admin Template for `MUI` and `React`. 
 <br />
 
 ![Soft UI Dashboard React - Open-Source React Dashboard Template from Creative-Tim.](https://user-images.githubusercontent.com/51070104/174486537-0b74913d-886c-45ae-8f99-4f1b0d6a13f4.png)
+
+<br />
+
+## ✨ [React Horizon UI](https://appseed.us/product/horizon-ui/api-server-nodejs/) `Full-Stack`
+
+Open-Source Full-Stack seed project crafted on top of `Chakra UI` and `React`. The product comes with a simple JWT authentication flow: login/register/logout powered by an open-source Node JS API Backend. Based on the permissive (MIT) Licence, **React Horizon UI** can be used in commercial projects and eLearning activities.
+
+- 👉 [React Horizon UI](https://appseed.us/product/horizon-ui/api-server-nodejs/) - `product page`
+- 👉 [React Horizon UI](https://react-horizon-ui-chakra.appseed-srv1.com/#/auth/sign-in/default) - `LIVE Demo`
+
+<br />
+
+![React Horizon UI - Open-Source react Dashboard.](https://user-images.githubusercontent.com/51070104/174428337-181e6dea-0ad9-4fe1-a35f-25e5fa656a9d.png)
 
 <br />
 
