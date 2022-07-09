@@ -17,6 +17,30 @@ Start your Development with an Innovative Admin Template for `MUI` and `React`. 
 
 <br />
 
+## ✨ [Notus React](https://www.creative-tim.com/product/notus-react?AFFILIATE=128200)
+
+Start your development with a Free Tailwind CSS and React UI Kit and Admin. Let Notus React amaze you with its cool features and build tools and get your project to a whole new level. 
+
+- 👉 [Notus React](https://www.creative-tim.com/product/notus-react?AFFILIATE=128200) - `product page`
+- 👉 https://demos.creative-tim.com/notus-react/#/?AFFILIATE=128200 - `LIVE Demo`
+
+ If you like bright and fresh colors, you will love this Free Tailwind CSS Template! It features a huge number of components that can help you create amazing websites.
+ 
+![Notus React - Free template provided by Creative-Tim.](https://user-images.githubusercontent.com/51854817/178092653-a846a33d-6da6-45f4-9275-cdec6accfab2.png)
+
+<br />
+
+## ✨ [Material Dashboard React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200)
+
+Material Dashboard 2 React is our newest free MUI Admin Template based on React. Material Dashboard 2 React is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
+
+- 👉 [Material Dashboard React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200) - `product page`
+- 👉 [Material Dashboard React](https://demos.creative-tim.com/material-dashboard-react/#/dashboard?AFFILIATE=128200) - `LIVE Demo`
+
+![Material Dashboard React - Open-Source React Dashboard Template from Creative-Tim.](https://user-images.githubusercontent.com/51854817/178092547-a0bdd527-26f0-432f-9110-e29f17d22329.png)
+
+<br />
+
 ## ✨ [React Horizon UI](https://appseed.us/product/horizon-ui/api-server-nodejs/) `Full-Stack`
 
 Open-Source Full-Stack seed project crafted on top of `Chakra UI` and `React`. The product comes with a simple JWT authentication flow: login/register/logout powered by an open-source Node JS API Backend. Based on the permissive (MIT) Licence, **React Horizon UI** can be used in commercial projects and eLearning activities.
@@ -52,19 +76,6 @@ Flexy Free `React`/Nextjs version is built with the most popular `React` Framewo
 <br />
 
 ![React Datta Able - Full-stack product powered by a simple NodeJS API backend.](https://user-images.githubusercontent.com/51070104/175767137-e9b7cb1b-ae57-4ea3-9e31-4b976ab4465f.png)
-
-<br />
-
-## ✨ [Material Dashboard React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200)
-
-Material Dashboard 2 React is our newest free MUI Admin Template based on React. Material Dashboard 2 React is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
-
-- 👉 [Material Dashboard React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200) - `product page`
-- 👉 [Material Dashboard React](https://demos.creative-tim.com/material-dashboard-react/#/dashboard?AFFILIATE=128200) - `LIVE Demo`
-
-<br />
-
-![Material Dashboard React - Open-Source React Dashboard Template from Creative-Tim.](https://user-images.githubusercontent.com/51070104/169301658-6cf27993-c451-4cd4-9ffa-2968b8981167.png)
 
 <br />
 
