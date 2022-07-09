@@ -4,6 +4,17 @@ A curated list with open-source **[React Dashboards](https://www.admin-dashboard
 
 <br />
 
+## ✨ [Material Dashboard React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200)
+
+Material Dashboard 2 React is our newest free MUI Admin Template based on React. Material Dashboard 2 React is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
+
+- 👉 [Material Dashboard React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200) - `product page`
+- 👉 [Material Dashboard React](https://demos.creative-tim.com/material-dashboard-react/#/dashboard?AFFILIATE=128200) - `LIVE Demo`
+
+![Material Dashboard React - Open-Source React Dashboard Template from Creative-Tim.](https://user-images.githubusercontent.com/51854817/178092547-a0bdd527-26f0-432f-9110-e29f17d22329.png)
+
+<br />
+
 ## ✨ [Soft UI Dashboard React](https://www.creative-tim.com/product/soft-ui-dashboard-react?AFFILIATE=128200)
 
 Start your Development with an Innovative Admin Template for `MUI` and `React`. If you like the look & feel of the hottest design trend right now, **Soft UI**, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
@@ -38,17 +49,6 @@ Start your Development with an Innovative Admin Template for MUI and React. If y
 - 👉 [Argon Dashboard 2 MUI](https://demos.creative-tim.com/argon-dashboard-material-ui/#/dashboard?AFFILIATE=128200) - LIVE demo
 
 ![Argon Dashboard 2 MUI - Free Template](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vxr5setbbt8bl3ul8vz1.png)
-
-<br />
-
-## ✨ [Material Dashboard React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200)
-
-Material Dashboard 2 React is our newest free MUI Admin Template based on React. Material Dashboard 2 React is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
-
-- 👉 [Material Dashboard React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200) - `product page`
-- 👉 [Material Dashboard React](https://demos.creative-tim.com/material-dashboard-react/#/dashboard?AFFILIATE=128200) - `LIVE Demo`
-
-![Material Dashboard React - Open-Source React Dashboard Template from Creative-Tim.](https://user-images.githubusercontent.com/51854817/178092547-a0bdd527-26f0-432f-9110-e29f17d22329.png)
 
 <br />
 
