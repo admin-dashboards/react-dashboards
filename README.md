@@ -4,6 +4,17 @@ A curated list with open-source **[React Dashboards](https://dev.to/sm0ke/react-
 
 <br />
 
+## ✨ [Argon Dashboard 2 MUI](https://www.creative-tim.com/product/argon-dashboard-material-ui?AFFILIATE=128200)
+
+Start your Development with an Innovative Admin Template for MUI and React. If you like the look & feel of the hottest design trend right now, Argon, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
+
+- 👉 [Argon Dashboard 2 MUI](https://www.creative-tim.com/product/argon-dashboard-material-ui?AFFILIATE=128200) - product page
+- 👉 [Argon Dashboard 2 MUI](https://demos.creative-tim.com/argon-dashboard-material-ui/#/dashboard?AFFILIATE=128200) - LIVE demo
+
+![Argon Dashboard 2 MUI - Free Template](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vxr5setbbt8bl3ul8vz1.png)
+
+<br />
+
 ## ✨ [Purity UI Dashboard](https://www.creative-tim.com/product/purity-ui-dashboard?AFFILIATE=128200)
 
 Made of hundred of elements, designed blocks and fully coded pages, Purity UI Dashboard is ready to help you create stunning websites and webapps. If you want to get inspiration or just show something directly to your clients, you can jump start your development with our pre-built example pages.
@@ -60,17 +71,6 @@ Start your development with a Free Tailwind CSS and React UI Kit and Admin. Let 
  If you like bright and fresh colors, you will love this Free Tailwind CSS Template! It features a huge number of components that can help you create amazing websites.
  
 ![Notus React - Free template provided by Creative-Tim.](https://user-images.githubusercontent.com/51854817/178092653-a846a33d-6da6-45f4-9275-cdec6accfab2.png)
-
-<br />
-
-## ✨ [Argon Dashboard 2 MUI](https://www.creative-tim.com/product/argon-dashboard-material-ui?AFFILIATE=128200)
-
-Start your Development with an Innovative Admin Template for MUI and React. If you like the look & feel of the hottest design trend right now, Argon, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
-
-- 👉 [Argon Dashboard 2 MUI](https://www.creative-tim.com/product/argon-dashboard-material-ui?AFFILIATE=128200) - product page
-- 👉 [Argon Dashboard 2 MUI](https://demos.creative-tim.com/argon-dashboard-material-ui/#/dashboard?AFFILIATE=128200) - LIVE demo
-
-![Argon Dashboard 2 MUI - Free Template](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vxr5setbbt8bl3ul8vz1.png)
 
 <br />
 
