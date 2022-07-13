@@ -77,7 +77,7 @@ Start your Development with an Innovative Admin Template for `MUI` and `React`. 
 Start your development with a Free Tailwind CSS and React UI Kit and Admin. Let Notus React amaze you with its cool features and build tools and get your project to a whole new level. 
 
 - 👉 [Notus React](https://www.creative-tim.com/product/notus-react?AFFILIATE=128200) - `product page`
-- 👉 https://demos.creative-tim.com/notus-react/#/?AFFILIATE=128200 - `LIVE Demo`
+- 👉 [Notus React](https://demos.creative-tim.com/notus-react/#/?AFFILIATE=128200) - `LIVE Demo`
 
  If you like bright and fresh colors, you will love this Free Tailwind CSS Template! It features a huge number of components that can help you create amazing websites.
  
