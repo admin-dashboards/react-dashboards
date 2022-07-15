@@ -37,6 +37,19 @@ Start your Development with an Innovative Admin Template for Chakra UI and React
 
 <br />
 
+## ✨ [Soft UI Dashboard React](https://www.creative-tim.com/product/soft-ui-dashboard-react?AFFILIATE=128200)
+
+Start your Development with an Innovative Admin Template for `MUI` and `React`. If you like the look & feel of the hottest design trend right now, **Soft UI**, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
+
+- 👉 [Soft UI Dashboard React](https://www.creative-tim.com/product/soft-ui-dashboard-react?AFFILIATE=128200) - `product page`
+- 👉 [Soft UI Dashboard React](https://demos.creative-tim.com/soft-ui-dashboard-react/#/dashboard?AFFILIATE=128200) - `LIVE Demo`
+
+<br />
+
+![Soft UI Dashboard React - Open-Source React Dashboard Template from Creative-Tim](https://user-images.githubusercontent.com/51854817/177595511-1c8d6a14-a9b1-478e-b0db-762f8b900f9e.png)
+
+<br />
+
 ## ✨ [Black Dashboard React](https://www.creative-tim.com/product/black-dashboard-react?AFFILIATE=128200)
 
 Black Dashboard React is a beautiful Bootstrap 4 (Reactstrap) Admin Dashboard with a huge number of components built to fit together and look amazing. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
@@ -56,19 +69,6 @@ Made of hundred of elements, designed blocks and fully coded pages, Purity UI Da
 - 👉 [Purity UI Dashboard](https://demos.creative-tim.com/purity-ui-dashboard/#/admin/dashboard?AFFILIATE=128200) - `LIVE Demo`
 
 ![Purity UI Dashboard is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining.](https://user-images.githubusercontent.com/51854817/178465300-08329362-8b71-4cbb-9d7c-e8be8ac24289.png) 
-
-<br />
-
-## ✨ [Soft UI Dashboard React](https://www.creative-tim.com/product/soft-ui-dashboard-react?AFFILIATE=128200)
-
-Start your Development with an Innovative Admin Template for `MUI` and `React`. If you like the look & feel of the hottest design trend right now, **Soft UI**, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
-
-- 👉 [Soft UI Dashboard React](https://www.creative-tim.com/product/soft-ui-dashboard-react?AFFILIATE=128200) - `product page`
-- 👉 [Soft UI Dashboard React](https://demos.creative-tim.com/soft-ui-dashboard-react/#/dashboard?AFFILIATE=128200) - `LIVE Demo`
-
-<br />
-
-![Soft UI Dashboard React - Open-Source React Dashboard Template from Creative-Tim](https://user-images.githubusercontent.com/51854817/177595511-1c8d6a14-a9b1-478e-b0db-762f8b900f9e.png)
 
 <br />
 
