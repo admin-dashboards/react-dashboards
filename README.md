@@ -151,11 +151,10 @@ Mantis is a free and open source React redux dashboard template made using the M
 
 <br />
 
-## Resources
+> `Thanks for reading!` For more resources, please access:
 
-- [React Dashboards](https://admin-dashboards.com/tags/react-dashboards) index provided by Admin-Dashboards.com
-- [Admin Dashboards](https://appseed.us/admin-dashboards) - index provided by AppSeed
-- More [React apps](https://blog.appseed.us/react-apps-open-source-and-free/) - index provided by AppSeed
+- ✨ More [Free Dashboards](https://appseed.us/admin-dashboards/open-source) crafted in Django, Flask, and [React](https://appseed.us/apps/react)
+- ✨ More [Admin Dashboards](https://www.admin-dashboards.com/) - a huge index with products
 
 ---
 [React Dashboards](https://www.admin-dashboards.com/react-dashboards-curated-open-source-apps/) - Hacked by [Sm0ke](https://twitter.com/Sm0keDev)
