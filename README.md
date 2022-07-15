@@ -4,6 +4,8 @@ A curated list with open-source **React Dashboards** released under permissive l
 
 > Content curated by [Sm0ke](https://twitter.com/Sm0keDev)
 
+<br />
+
 ## ✨ [Argon Dashboard 2 MUI](https://www.creative-tim.com/product/argon-dashboard-material-ui?AFFILIATE=128200)
 
 Start your Development with an Innovative Admin Template for MUI and React. If you like the look & feel of the hottest design trend right now, Argon, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
