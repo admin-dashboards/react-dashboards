@@ -2,11 +2,7 @@
 
 A curated list with open-source **React Dashboards** released under permissive licenses (MIT/LGPL). For newcomers, React is an open-source, front end, JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. **React** can be used as a base in the development of single-page or mobile applications.
 
-<br />
-
 > Content curated by [Sm0ke](https://twitter.com/Sm0keDev)
-
-<br />
 
 ## ✨ [Argon Dashboard 2 MUI](https://www.creative-tim.com/product/argon-dashboard-material-ui?AFFILIATE=128200)
 
