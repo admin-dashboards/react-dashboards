@@ -6,15 +6,14 @@ A curated list with open-source **React Dashboards** released under permissive l
 
 <br />
 
-## ✨ [Flexy React Material Admin](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157)
+## ✨ [Material Dashboard React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200)
 
-Flexy Free `React`/Nextjs version is built with the most popular `React` Framework: **Material-UI**. The free version comes with an elegant grid design that helps you play around with the look and feel of the web app the way you want. it's a carefully hand-crafted minimal admin template built with modular and modern design.
+Material Dashboard 2 React is our newest free MUI Admin Template based on React. Material Dashboard 2 React is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
 
-> 👉 [Flexy React Material Admin](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157) - `product page`
+- 👉 [Material Dashboard React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200) - `product page`
+- 👉 [Material Dashboard React](https://demos.creative-tim.com/material-dashboard-react/#/dashboard?AFFILIATE=128200) - `LIVE Demo`
 
-<br />
-
-![Flexy React Material Admin - Open-source React template.](https://user-images.githubusercontent.com/51070104/175769752-ab24a64a-15ba-4fcf-8dcd-13a8e755277b.jpg)
+![Material Dashboard React - Open-Source React Dashboard Template from Creative-Tim.](https://user-images.githubusercontent.com/51854817/178092547-a0bdd527-26f0-432f-9110-e29f17d22329.png)
 
 <br />
 
@@ -37,17 +36,6 @@ Start your Development with an Innovative Admin Template for MUI and React. If y
 - 👉 [Argon Dashboard 2 MUI](https://demos.creative-tim.com/argon-dashboard-material-ui/#/dashboard?AFFILIATE=128200) - LIVE demo
 
 ![Argon Dashboard 2 MUI - Free Template](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vxr5setbbt8bl3ul8vz1.png)
-
-<br />
-
-## ✨ [Material Dashboard React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200)
-
-Material Dashboard 2 React is our newest free MUI Admin Template based on React. Material Dashboard 2 React is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
-
-- 👉 [Material Dashboard React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200) - `product page`
-- 👉 [Material Dashboard React](https://demos.creative-tim.com/material-dashboard-react/#/dashboard?AFFILIATE=128200) - `LIVE Demo`
-
-![Material Dashboard React - Open-Source React Dashboard Template from Creative-Tim.](https://user-images.githubusercontent.com/51854817/178092547-a0bdd527-26f0-432f-9110-e29f17d22329.png)
 
 <br />
 
@@ -132,6 +120,18 @@ Open-Source Full-Stack seed project crafted on top of `Chakra UI` and `React`. T
 <br />
 
 ![React Datta Able - Full-stack product powered by a simple NodeJS API backend.](https://user-images.githubusercontent.com/51070104/175767137-e9b7cb1b-ae57-4ea3-9e31-4b976ab4465f.png)
+
+<br /> 
+
+## ✨ [Flexy React Material Admin](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157)
+
+Flexy Free `React`/Nextjs version is built with the most popular `React` Framework: **Material-UI**. The free version comes with an elegant grid design that helps you play around with the look and feel of the web app the way you want. it's a carefully hand-crafted minimal admin template built with modular and modern design.
+
+> 👉 [Flexy React Material Admin](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157) - `product page`
+
+<br />
+
+![Flexy React Material Admin - Open-source React template.](https://user-images.githubusercontent.com/51070104/175769752-ab24a64a-15ba-4fcf-8dcd-13a8e755277b.jpg)
 
 <br />
 
