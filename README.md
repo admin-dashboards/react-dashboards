@@ -50,16 +50,6 @@ Start your Development with an Innovative Admin Template for `MUI` and `React`. 
 
 <br />
 
-## ✨ [Black Dashboard React](https://www.creative-tim.com/product/black-dashboard-react?AFFILIATE=128200)
-
-Black Dashboard React is a beautiful Bootstrap 4 (Reactstrap) Admin Dashboard with a huge number of components built to fit together and look amazing. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
-
-- 👉 [Black Dashboard React](https://www.creative-tim.com/product/black-dashboard-react?AFFILIATE=128200) - product page
-- 👉 [Black Dashboard React](https://demos.creative-tim.com/black-dashboard-react/#/admin/dashboard?AFFILIATE=128200) - product page
-
-![Black Dashboard - Open-Source React Dashboard Template from Creative-Tim.](https://user-images.githubusercontent.com/51854817/178653651-6da35ef2-7a32-4853-8835-fc139d5f85d4.png)
-
-<br /> 
 
 ## ✨ [Purity UI Dashboard](https://www.creative-tim.com/product/purity-ui-dashboard?AFFILIATE=128200)
 
@@ -71,6 +61,17 @@ Made of hundred of elements, designed blocks and fully coded pages, Purity UI Da
 ![Purity UI Dashboard is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining.](https://user-images.githubusercontent.com/51854817/178465300-08329362-8b71-4cbb-9d7c-e8be8ac24289.png) 
 
 <br />
+
+## ✨ [Black Dashboard React](https://www.creative-tim.com/product/black-dashboard-react?AFFILIATE=128200)
+
+Black Dashboard React is a beautiful Bootstrap 4 (Reactstrap) Admin Dashboard with a huge number of components built to fit together and look amazing. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
+
+- 👉 [Black Dashboard React](https://www.creative-tim.com/product/black-dashboard-react?AFFILIATE=128200) - product page
+- 👉 [Black Dashboard React](https://demos.creative-tim.com/black-dashboard-react/#/admin/dashboard?AFFILIATE=128200) - product page
+
+![Black Dashboard - Open-Source React Dashboard Template from Creative-Tim.](https://user-images.githubusercontent.com/51854817/178653651-6da35ef2-7a32-4853-8835-fc139d5f85d4.png)
+
+<br /> 
 
 ## ✨ [Notus React](https://www.creative-tim.com/product/notus-react?AFFILIATE=128200)
 
