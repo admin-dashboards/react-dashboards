@@ -1,6 +1,6 @@
-# Free React Dashboards
+# [Free React Dashboards](https://dev.to/sm0ke/react-dashboards-open-source-apps-1c7j)
 
-A curated list with open-source **React Dashboards** released under permissive licenses (MIT/LGPL). For newcomers, React is an open-source, front end, JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. **React** can be used as a base in the development of single-page or mobile applications.
+A curated list with open-source **[React Dashboards](https://dev.to/sm0ke/react-dashboards-open-source-apps-1c7j)** released under permissive licenses (MIT/LGPL). For newcomers, React is an open-source, front end, JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. **React** can be used as a base in the development of single-page or mobile applications.
 
 > Curated by [Sm0ke](https://twitter.com/Sm0keDev)
 
@@ -166,4 +166,4 @@ Mantis is a free and open source React redux dashboard template made using the M
 - ✨ More [Admin Dashboards](https://www.admin-dashboards.com/) - a huge index with products
 
 ---
-**React Dashboards** - Open-Source and free (curated List) 
+**[React Dashboards](https://dev.to/sm0ke/react-dashboards-open-source-apps-1c7j)** - Open-Source and free (curated List), content provided by Admin Dashboard
