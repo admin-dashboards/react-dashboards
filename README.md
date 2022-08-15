@@ -62,6 +62,19 @@ Black Dashboard React is a beautiful Bootstrap 4 (Reactstrap) Admin Dashboard wi
 
 <br /> 
 
+## ✨ [Mantis React Material UI](https://mantisdashboard.io/)
+
+Mantis is a free and open source React redux dashboard template made using the Material UI React component library with aim of flexibility and better customizability. The product comes with a fully professional grade user interface for any kind of backend project.
+
+- 👉 [Mantis React Material UI](https://mantisdashboard.io/) - `product page`
+- 👉 [Mantis React Material UI](https://mantisdashboard.io/dashboard/analytics) - `LIVE demo`
+
+<br />
+
+![Mantis React Material UI - Open-Source React Template by CodedThemes.](https://user-images.githubusercontent.com/51070104/175770063-4105df52-dd08-4ff5-9c80-f4692cf1bd6b.jpg)
+
+<br />
+
 ## ✨ [Argon Dashboard Chakra](https://www.creative-tim.com/product/argon-dashboard-chakra?AFFILIATE=128200)
 
 Start your Development with an Innovative Admin Template for Chakra UI and React. If you like the look & feel of the hottest design trend right now, Argon Dashboard Chakra, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
@@ -144,19 +157,6 @@ Open-Source Full-Stack seed project crafted on top of `Chakra UI` and `React`. T
 <br />
 
 ![React Node JS Berry - Full-stack product powered by a simple NodeJS API backend.](https://user-images.githubusercontent.com/51070104/174480640-e0b450b1-07a8-4cc7-84bc-287bb9c45773.png)
-
-<br />
-
-## ✨ [Mantis React Material UI](https://mantisdashboard.io/)
-
-Mantis is a free and open source React redux dashboard template made using the Material UI React component library with aim of flexibility and better customizability. The product comes with a fully professional grade user interface for any kind of backend project.
-
-- 👉 [Mantis React Material UI](https://mantisdashboard.io/) - `product page`
-- 👉 [Mantis React Material UI](https://mantisdashboard.io/dashboard/analytics) - `LIVE demo`
-
-<br />
-
-![Mantis React Material UI - Open-Source React Template by CodedThemes.](https://user-images.githubusercontent.com/51070104/175770063-4105df52-dd08-4ff5-9c80-f4692cf1bd6b.jpg)
 
 <br />
 
