@@ -17,6 +17,28 @@ Start your Development with an Innovative Admin Template for MUI and React. If y
 
 <br />
 
+## ✨ [Argon Dashboard Chakra](https://www.creative-tim.com/product/argon-dashboard-chakra?AFFILIATE=128200)
+
+Start your Development with an Innovative Admin Template for Chakra UI and React. If you like the look & feel of the hottest design trend right now, Argon Dashboard Chakra, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
+
+- 👉 [Argon Dashboard Chakra](https://www.creative-tim.com/product/argon-dashboard-chakra?AFFILIATE=128200) - `product page`
+- 👉 [Argon Dashboard Chakra](https://demos.creative-tim.com/argon-dashboard-chakra/#/admin/dashboard?AFFILIATE=128200) - `LIVE Demo`
+
+![Argon Dashboard Chakra - Open-Source React Dashboard Template from Creative-Tim.](https://user-images.githubusercontent.com/51070104/178219897-5d852c4f-6ff7-4842-82c7-4f08a64a23ac.png)
+
+<br />
+
+## ✨ [Soft UI Dashboard React](https://www.creative-tim.com/product/soft-ui-dashboard-react?AFFILIATE=128200)
+
+Start your Development with an Innovative Admin Template for `MUI` and `React`. If you like the look & feel of the hottest design trend right now, **Soft UI**, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
+
+- 👉 [Soft UI Dashboard React](https://www.creative-tim.com/product/soft-ui-dashboard-react?AFFILIATE=128200) - `product page`
+- 👉 [Soft UI Dashboard React](https://demos.creative-tim.com/soft-ui-dashboard-react/#/dashboard?AFFILIATE=128200) - `LIVE Demo`
+
+![Soft UI Dashboard React - Open-Source React Dashboard Template from Creative-Tim](https://user-images.githubusercontent.com/51854817/177595511-1c8d6a14-a9b1-478e-b0db-762f8b900f9e.png)
+
+<br />
+
 ## ✨ [Muse Ant.Design React](https://www.creative-tim.com/product/muse-ant-design-dashboard?AFFILIATE=128200)
 
 Muse Ant Design Dashboard is a free Admin Template based on two popular front-end technologies: Ant Design & React. It was built to simplify the developer's work and is comes with a fresh design inspired by Ant Design. All its components are built to fit perfectly with each other, while aligning to the Ant Design concepts.
@@ -83,28 +105,6 @@ Mantis is a free and open source React redux dashboard template made using the M
 <br />
 
 ![Mantis React Material UI - Open-Source React Template by CodedThemes.](https://user-images.githubusercontent.com/51070104/175770063-4105df52-dd08-4ff5-9c80-f4692cf1bd6b.jpg)
-
-<br />
-
-## ✨ [Argon Dashboard Chakra](https://www.creative-tim.com/product/argon-dashboard-chakra?AFFILIATE=128200)
-
-Start your Development with an Innovative Admin Template for Chakra UI and React. If you like the look & feel of the hottest design trend right now, Argon Dashboard Chakra, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
-
-- 👉 [Argon Dashboard Chakra](https://www.creative-tim.com/product/argon-dashboard-chakra?AFFILIATE=128200) - `product page`
-- 👉 [Argon Dashboard Chakra](https://demos.creative-tim.com/argon-dashboard-chakra/#/admin/dashboard?AFFILIATE=128200) - `LIVE Demo`
-
-![Argon Dashboard Chakra - Open-Source React Dashboard Template from Creative-Tim.](https://user-images.githubusercontent.com/51070104/178219897-5d852c4f-6ff7-4842-82c7-4f08a64a23ac.png)
-
-<br />
-
-## ✨ [Soft UI Dashboard React](https://www.creative-tim.com/product/soft-ui-dashboard-react?AFFILIATE=128200)
-
-Start your Development with an Innovative Admin Template for `MUI` and `React`. If you like the look & feel of the hottest design trend right now, **Soft UI**, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
-
-- 👉 [Soft UI Dashboard React](https://www.creative-tim.com/product/soft-ui-dashboard-react?AFFILIATE=128200) - `product page`
-- 👉 [Soft UI Dashboard React](https://demos.creative-tim.com/soft-ui-dashboard-react/#/dashboard?AFFILIATE=128200) - `LIVE Demo`
-
-![Soft UI Dashboard React - Open-Source React Dashboard Template from Creative-Tim](https://user-images.githubusercontent.com/51854817/177595511-1c8d6a14-a9b1-478e-b0db-762f8b900f9e.png)
 
 <br />
 
