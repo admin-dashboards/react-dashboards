@@ -17,6 +17,17 @@ Material Dashboard 2 React is our newest free MUI Admin Template based on React.
 
 <br /> 
 
+## ✨ [Muse Ant.Design React](https://www.creative-tim.com/product/muse-ant-design-dashboard?AFFILIATE=128200)
+
+Muse Ant Design Dashboard is a free Admin Template based on two popular front-end technologies: Ant Design & React. It was built to simplify the developer's work and is comes with a fresh design inspired by Ant Design. All its components are built to fit perfectly with each other, while aligning to the Ant Design concepts.
+
+- 👉 [Muse Ant.Design React](https://www.creative-tim.com/product/muse-ant-design-dashboard?AFFILIATE=128200) - product page
+- 👉 [Muse Ant.Design React](https://demos.creative-tim.com/muse-ant-design-dashboard/#/dashboard?AFFILIATE=128200) - LIVE demo
+
+![Muse Ant.Design React - Free Dahsboard Template.](https://user-images.githubusercontent.com/51854817/179387314-f1873bf4-bb3e-4b8f-b980-32f96aacee27.png)
+
+<br />
+
 ## ✨ [Argon Dashboard 2 MUI](https://www.creative-tim.com/product/argon-dashboard-material-ui?AFFILIATE=128200)
 
 Start your Development with an Innovative Admin Template for MUI and React. If you like the look & feel of the hottest design trend right now, Argon, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
@@ -47,17 +58,6 @@ Start your Development with an Innovative Admin Template for `MUI` and `React`. 
 - 👉 [Soft UI Dashboard React](https://demos.creative-tim.com/soft-ui-dashboard-react/#/dashboard?AFFILIATE=128200) - `LIVE Demo`
 
 ![Soft UI Dashboard React - Open-Source React Dashboard Template from Creative-Tim](https://user-images.githubusercontent.com/51854817/177595511-1c8d6a14-a9b1-478e-b0db-762f8b900f9e.png)
-
-<br />
-
-## ✨ [Muse Ant.Design React](https://www.creative-tim.com/product/muse-ant-design-dashboard?AFFILIATE=128200)
-
-Muse Ant Design Dashboard is a free Admin Template based on two popular front-end technologies: Ant Design & React. It was built to simplify the developer's work and is comes with a fresh design inspired by Ant Design. All its components are built to fit perfectly with each other, while aligning to the Ant Design concepts.
-
-- 👉 [Muse Ant.Design React](https://www.creative-tim.com/product/muse-ant-design-dashboard?AFFILIATE=128200) - product page
-- 👉 [Muse Ant.Design React](https://demos.creative-tim.com/muse-ant-design-dashboard/#/dashboard?AFFILIATE=128200) - LIVE demo
-
-![Muse Ant.Design React - Free Dahsboard Template.](https://user-images.githubusercontent.com/51854817/179387314-f1873bf4-bb3e-4b8f-b980-32f96aacee27.png)
 
 <br />
 
