@@ -17,17 +17,6 @@ Start your Development with an Innovative Admin Template for MUI and React. If y
 
 <br />
 
-## ✨ [Muse Ant.Design React](https://www.creative-tim.com/product/muse-ant-design-dashboard?AFFILIATE=128200)
-
-Muse Ant Design Dashboard is a free Admin Template based on two popular front-end technologies: Ant Design & React. It was built to simplify the developer's work and is comes with a fresh design inspired by Ant Design. All its components are built to fit perfectly with each other, while aligning to the Ant Design concepts.
-
-- 👉 [Muse Ant.Design React](https://www.creative-tim.com/product/muse-ant-design-dashboard?AFFILIATE=128200) - product page
-- 👉 [Muse Ant.Design React](https://demos.creative-tim.com/muse-ant-design-dashboard/#/dashboard?AFFILIATE=128200) - LIVE demo
-
-![Muse Ant.Design React - Free Dahsboard Template.](https://user-images.githubusercontent.com/51854817/179387314-f1873bf4-bb3e-4b8f-b980-32f96aacee27.png)
-
-<br />
-
 ## ✨ [Flexy React Material Admin](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157)
 
 Flexy Free `React`/Nextjs version is built with the most popular `React` Framework: **Material-UI**. The free version comes with an elegant grid design that helps you play around with the look and feel of the web app the way you want. it's a carefully hand-crafted minimal admin template built with modular and modern design.
@@ -37,6 +26,17 @@ Flexy Free `React`/Nextjs version is built with the most popular `React` Framewo
 <br />
 
 ![Flexy React Material Admin - Open-source React template.](https://user-images.githubusercontent.com/51070104/175769752-ab24a64a-15ba-4fcf-8dcd-13a8e755277b.jpg)
+
+<br />
+
+## ✨ [Muse Ant.Design React](https://www.creative-tim.com/product/muse-ant-design-dashboard?AFFILIATE=128200)
+
+Muse Ant Design Dashboard is a free Admin Template based on two popular front-end technologies: Ant Design & React. It was built to simplify the developer's work and is comes with a fresh design inspired by Ant Design. All its components are built to fit perfectly with each other, while aligning to the Ant Design concepts.
+
+- 👉 [Muse Ant.Design React](https://www.creative-tim.com/product/muse-ant-design-dashboard?AFFILIATE=128200) - product page
+- 👉 [Muse Ant.Design React](https://demos.creative-tim.com/muse-ant-design-dashboard/#/dashboard?AFFILIATE=128200) - LIVE demo
+
+![Muse Ant.Design React - Free Dahsboard Template.](https://user-images.githubusercontent.com/51854817/179387314-f1873bf4-bb3e-4b8f-b980-32f96aacee27.png)
 
 <br />
 
