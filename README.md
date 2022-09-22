@@ -6,6 +6,19 @@ A curated list with open-source **[React Dashboards](https://dev.to/sm0ke/react-
 
 <br />
 
+## ✨ [Mantis React Material UI](https://mantisdashboard.io/)
+
+Mantis is a free and open source React redux dashboard template made using the Material UI React component library with aim of flexibility and better customizability. The product comes with a fully professional grade user interface for any kind of backend project.
+
+- 👉 [Mantis React Material UI](https://mantisdashboard.io/) - `product page`
+- 👉 [Mantis React Material UI](https://mantisdashboard.io/dashboard/analytics) - `LIVE demo`
+
+<br />
+
+![Mantis React Material UI - Open-Source React Template by CodedThemes.](https://user-images.githubusercontent.com/51070104/175770063-4105df52-dd08-4ff5-9c80-f4692cf1bd6b.jpg)
+
+<br />
+
 ## ✨ [Argon Dashboard Chakra](https://www.creative-tim.com/product/argon-dashboard-chakra?AFFILIATE=128200)
 
 Start your Development with an Innovative Admin Template for Chakra UI and React. If you like the look & feel of the hottest design trend right now, Argon Dashboard Chakra, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
@@ -94,19 +107,6 @@ Made of hundred of elements, designed blocks and fully coded pages, Purity UI Da
 ![Purity UI Dashboard is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining.](https://user-images.githubusercontent.com/51854817/178465300-08329362-8b71-4cbb-9d7c-e8be8ac24289.png) 
 
 <br /> 
-
-## ✨ [Mantis React Material UI](https://mantisdashboard.io/)
-
-Mantis is a free and open source React redux dashboard template made using the Material UI React component library with aim of flexibility and better customizability. The product comes with a fully professional grade user interface for any kind of backend project.
-
-- 👉 [Mantis React Material UI](https://mantisdashboard.io/) - `product page`
-- 👉 [Mantis React Material UI](https://mantisdashboard.io/dashboard/analytics) - `LIVE demo`
-
-<br />
-
-![Mantis React Material UI - Open-Source React Template by CodedThemes.](https://user-images.githubusercontent.com/51070104/175770063-4105df52-dd08-4ff5-9c80-f4692cf1bd6b.jpg)
-
-<br />
 
 ## ✨ [Notus React](https://www.creative-tim.com/product/notus-react?AFFILIATE=128200)
 
