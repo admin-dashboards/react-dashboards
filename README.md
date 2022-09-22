@@ -6,12 +6,12 @@ A curated list with open-source **[React Dashboards](https://dev.to/sm0ke/react-
 
 <br />
 
-## ✨ [Mantis React Material UI](https://mantisdashboard.io/)
+## ✨ [https://github.com/codedthemes/mantis-free-react-admin-template)
 
 Mantis is a free and open source React redux dashboard template made using the Material UI React component library with aim of flexibility and better customizability. The product comes with a fully professional grade user interface for any kind of backend project.
 
-- 👉 [Mantis React Material UI](https://mantisdashboard.io/) - `product page`
-- 👉 [Mantis React Material UI](https://mantisdashboard.io/dashboard/analytics) - `LIVE demo`
+- 👉 [Mantis React Material UI](https://github.com/codedthemes/mantis-free-react-admin-template) - `source code`
+- 👉 [Mantis React Material UI](https://mantisdashboard.io/free/) - `LIVE demo`
 
 <br />
 
