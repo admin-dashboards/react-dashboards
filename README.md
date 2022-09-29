@@ -6,6 +6,40 @@ A curated list with open-source **[React Dashboards](https://dev.to/sm0ke/react-
 
 <br />
 
+## ✨ [Flexy React Material Admin](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157)
+
+Flexy Free `React`/Nextjs version is built with the most popular `React` Framework: **Material-UI**. The free version comes with an elegant grid design that helps you play around with the look and feel of the web app the way you want. it's a carefully hand-crafted minimal admin template built with modular and modern design.
+
+> 👉 [Flexy React Material Admin](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157) - `product page`
+
+<br />
+
+![Flexy React Material Admin - Open-source React template.](https://user-images.githubusercontent.com/51070104/175769752-ab24a64a-15ba-4fcf-8dcd-13a8e755277b.jpg)
+
+<br />
+
+## ✨ [Muse Ant.Design React](https://www.creative-tim.com/product/muse-ant-design-dashboard?AFFILIATE=128200)
+
+Muse Ant Design Dashboard is a free Admin Template based on two popular front-end technologies: Ant Design & React. It was built to simplify the developer's work and is comes with a fresh design inspired by Ant Design. All its components are built to fit perfectly with each other, while aligning to the Ant Design concepts.
+
+- 👉 [Muse Ant.Design React](https://www.creative-tim.com/product/muse-ant-design-dashboard?AFFILIATE=128200) - product page
+- 👉 [Muse Ant.Design React](https://demos.creative-tim.com/muse-ant-design-dashboard/#/dashboard?AFFILIATE=128200) - LIVE demo
+
+![Muse Ant.Design React - Free Dahsboard Template.](https://user-images.githubusercontent.com/51854817/179387314-f1873bf4-bb3e-4b8f-b980-32f96aacee27.png)
+
+<br />
+
+## ✨ [Black Dashboard React](https://www.creative-tim.com/product/black-dashboard-react?AFFILIATE=128200)
+
+Black Dashboard React is a beautiful Bootstrap 4 (Reactstrap) Admin Dashboard with a huge number of components built to fit together and look amazing. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
+
+- 👉 [Black Dashboard React](https://www.creative-tim.com/product/black-dashboard-react?AFFILIATE=128200) - product page
+- 👉 [Black Dashboard React](https://demos.creative-tim.com/black-dashboard-react/#/admin/dashboard?AFFILIATE=128200) - product page
+
+![Black Dashboard - Open-Source React Dashboard Template from Creative-Tim.](https://user-images.githubusercontent.com/51854817/178653651-6da35ef2-7a32-4853-8835-fc139d5f85d4.png)
+
+<br /> 
+
 ## ✨ [Mantis React Material UI](https://mantisdashboard.io/)
 
 Mantis is a free and open source React redux dashboard template made using the Material UI React component library with aim of flexibility and better customizability. The product comes with a fully professional grade user interface for any kind of backend project.
@@ -51,40 +85,6 @@ Start your Development with an Innovative Admin Template for MUI and React. If y
 ![Argon Dashboard 2 MUI - Free Template](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vxr5setbbt8bl3ul8vz1.png)
 
 <br />
-
-## ✨ [Flexy React Material Admin](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157)
-
-Flexy Free `React`/Nextjs version is built with the most popular `React` Framework: **Material-UI**. The free version comes with an elegant grid design that helps you play around with the look and feel of the web app the way you want. it's a carefully hand-crafted minimal admin template built with modular and modern design.
-
-> 👉 [Flexy React Material Admin](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157) - `product page`
-
-<br />
-
-![Flexy React Material Admin - Open-source React template.](https://user-images.githubusercontent.com/51070104/175769752-ab24a64a-15ba-4fcf-8dcd-13a8e755277b.jpg)
-
-<br />
-
-## ✨ [Muse Ant.Design React](https://www.creative-tim.com/product/muse-ant-design-dashboard?AFFILIATE=128200)
-
-Muse Ant Design Dashboard is a free Admin Template based on two popular front-end technologies: Ant Design & React. It was built to simplify the developer's work and is comes with a fresh design inspired by Ant Design. All its components are built to fit perfectly with each other, while aligning to the Ant Design concepts.
-
-- 👉 [Muse Ant.Design React](https://www.creative-tim.com/product/muse-ant-design-dashboard?AFFILIATE=128200) - product page
-- 👉 [Muse Ant.Design React](https://demos.creative-tim.com/muse-ant-design-dashboard/#/dashboard?AFFILIATE=128200) - LIVE demo
-
-![Muse Ant.Design React - Free Dahsboard Template.](https://user-images.githubusercontent.com/51854817/179387314-f1873bf4-bb3e-4b8f-b980-32f96aacee27.png)
-
-<br />
-
-## ✨ [Black Dashboard React](https://www.creative-tim.com/product/black-dashboard-react?AFFILIATE=128200)
-
-Black Dashboard React is a beautiful Bootstrap 4 (Reactstrap) Admin Dashboard with a huge number of components built to fit together and look amazing. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
-
-- 👉 [Black Dashboard React](https://www.creative-tim.com/product/black-dashboard-react?AFFILIATE=128200) - product page
-- 👉 [Black Dashboard React](https://demos.creative-tim.com/black-dashboard-react/#/admin/dashboard?AFFILIATE=128200) - product page
-
-![Black Dashboard - Open-Source React Dashboard Template from Creative-Tim.](https://user-images.githubusercontent.com/51854817/178653651-6da35ef2-7a32-4853-8835-fc139d5f85d4.png)
-
-<br /> 
 
 ## ✨ [Material Dashboard React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200)
 
