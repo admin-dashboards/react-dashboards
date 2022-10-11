@@ -2,9 +2,15 @@
 
 A curated list with open-source **[React Dashboards](https://dev.to/sm0ke/react-dashboards-open-source-apps-1c7j)** released under permissive licenses (MIT/LGPL). For newcomers, React is an open-source, front end, JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. **React** can be used as a base in the development of single-page or mobile applications.
 
-> Curated by [Sm0ke](https://twitter.com/Sm0keDev)
+<br /> 
 
-<br />
+> 🚀 `PROMO`: **[Junior Developers Starter KIT](https://www.creative-tim.com/product/buy/bundle/junior-bundle?AFFILIATE=128200)** `85%OFF`
+
+The package includes a `rock-solid collection of premium assets` (**Kits & Dashboards**) that can be used to build eye-catching portfolios and web apps in no time.
+
+[![Junior Developers Starter KIT](https://user-images.githubusercontent.com/51854817/195055646-e55200cd-0ddd-4bdd-aded-0d4e4479789b.png)](https://www.creative-tim.com/product/buy/bundle/junior-bundle?AFFILIATE=128200)
+
+<br /> 
 
 ## ✨ [Argon Dashboard 2 MUI](https://www.creative-tim.com/product/argon-dashboard-material-ui?AFFILIATE=128200)
 
