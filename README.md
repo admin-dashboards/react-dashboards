@@ -4,14 +4,6 @@ A curated list with open-source **[React Dashboards](https://dev.to/sm0ke/react-
 
 <br /> 
 
-> 🚀 `PROMO`: **[Junior Developers Starter KIT](https://www.creative-tim.com/product/buy/bundle/junior-bundle?AFFILIATE=128200)** `85%OFF`
-
-The package includes a `rock-solid collection of premium assets` (**Kits & Dashboards**) that can be used to build eye-catching portfolios and web apps in no time.
-
-[![Junior Developers Starter KIT](https://user-images.githubusercontent.com/51854817/195055646-e55200cd-0ddd-4bdd-aded-0d4e4479789b.png)](https://www.creative-tim.com/product/buy/bundle/junior-bundle?AFFILIATE=128200)
-
-<br /> 
-
 ## ✨ [Argon Dashboard 2 MUI](https://www.creative-tim.com/product/argon-dashboard-material-ui?AFFILIATE=128200)
 
 Start your Development with an Innovative Admin Template for MUI and React. If you like the look & feel of the hottest design trend right now, Argon, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
@@ -20,6 +12,41 @@ Start your Development with an Innovative Admin Template for MUI and React. If y
 - 👉 [Argon Dashboard 2 MUI](https://demos.creative-tim.com/argon-dashboard-material-ui/#/dashboard?AFFILIATE=128200) - LIVE demo
 
 ![Argon Dashboard 2 MUI - Free Template](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vxr5setbbt8bl3ul8vz1.png)
+
+<br /> 
+
+
+## ✨ [Flexy React Material Admin](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157)
+
+Flexy Free `React`/Nextjs version is built with the most popular `React` Framework: **Material-UI**. The free version comes with an elegant grid design that helps you play around with the look and feel of the web app the way you want. it's a carefully hand-crafted minimal admin template built with modular and modern design.
+
+> 👉 [Flexy React Material Admin](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157) - `product page`
+
+![Flexy React Material Admin - Open-source React template.](https://user-images.githubusercontent.com/51070104/175769752-ab24a64a-15ba-4fcf-8dcd-13a8e755277b.jpg)
+
+<br />
+
+## ✨ [Star Admin React](https://www.bootstrapdash.com/product/star-admin-react-free?ref=23)
+
+Star Admin React Free is designed to look simple and beautiful and features a huge collection of components and elements, which will offer unlimited options to users. This design gives you access to a wide variety of essential elements that will allow you to bring a unique touch to your web application.
+
+- 👉 [Star Admin React](https://www.bootstrapdash.com/product/star-admin-react-free?ref=23) - `product page`
+- 👉 [Star Admin React](https://www.bootstrapdash.com/demo/star-admin-free/react/template/demo_1/preview/dashboard?ref=23) - `LIVE demo`
+
+The template features a carefully crafted dashboard with plenty of neatly arranged and organized components and is capable of making the process of data visualization simpler.
+
+![Star Admin React - Open-Source Dashboard Template from BootstrapDash.](https://user-images.githubusercontent.com/51854817/197687898-e9012660-576a-488a-bf32-11c82162d29c.png) 
+
+<br />
+
+## ✨ [Purity UI Dashboard](https://www.creative-tim.com/product/purity-ui-dashboard?AFFILIATE=128200)
+
+Made of hundred of elements, designed blocks and fully coded pages, Purity UI Dashboard is ready to help you create stunning websites and webapps. If you want to get inspiration or just show something directly to your clients, you can jump start your development with our pre-built example pages.
+
+- 👉 [Purity UI Dashboard](https://www.creative-tim.com/product/purity-ui-dashboard?AFFILIATE=128200) - `product page`
+- 👉 [Purity UI Dashboard](https://demos.creative-tim.com/purity-ui-dashboard/#/admin/dashboard?AFFILIATE=128200) - `LIVE Demo`
+
+![Purity UI Dashboard is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining.](https://user-images.githubusercontent.com/51854817/178465300-08329362-8b71-4cbb-9d7c-e8be8ac24289.png) 
 
 <br /> 
 
@@ -57,18 +84,6 @@ Material Dashboard 2 React is our newest free MUI Admin Template based on React.
 <br /> 
 
 
-## ✨ [Flexy React Material Admin](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157)
-
-Flexy Free `React`/Nextjs version is built with the most popular `React` Framework: **Material-UI**. The free version comes with an elegant grid design that helps you play around with the look and feel of the web app the way you want. it's a carefully hand-crafted minimal admin template built with modular and modern design.
-
-> 👉 [Flexy React Material Admin](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157) - `product page`
-
-<br />
-
-![Flexy React Material Admin - Open-source React template.](https://user-images.githubusercontent.com/51070104/175769752-ab24a64a-15ba-4fcf-8dcd-13a8e755277b.jpg)
-
-<br />
-
 ## ✨ [Soft UI Dashboard React](https://www.creative-tim.com/product/soft-ui-dashboard-react?AFFILIATE=128200)
 
 Start your Development with an Innovative Admin Template for `MUI` and `React`. If you like the look & feel of the hottest design trend right now, **Soft UI**, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
@@ -103,17 +118,6 @@ Mantis is a free and open source React redux dashboard template made using the M
 ![Mantis React Material UI - Open-Source React Template by CodedThemes.](https://user-images.githubusercontent.com/51070104/175770063-4105df52-dd08-4ff5-9c80-f4692cf1bd6b.jpg)
 
 <br />
-
-## ✨ [Purity UI Dashboard](https://www.creative-tim.com/product/purity-ui-dashboard?AFFILIATE=128200)
-
-Made of hundred of elements, designed blocks and fully coded pages, Purity UI Dashboard is ready to help you create stunning websites and webapps. If you want to get inspiration or just show something directly to your clients, you can jump start your development with our pre-built example pages.
-
-- 👉 [Purity UI Dashboard](https://www.creative-tim.com/product/purity-ui-dashboard?AFFILIATE=128200) - `product page`
-- 👉 [Purity UI Dashboard](https://demos.creative-tim.com/purity-ui-dashboard/#/admin/dashboard?AFFILIATE=128200) - `LIVE Demo`
-
-![Purity UI Dashboard is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining.](https://user-images.githubusercontent.com/51854817/178465300-08329362-8b71-4cbb-9d7c-e8be8ac24289.png) 
-
-<br /> 
 
 ## ✨ [Notus React](https://www.creative-tim.com/product/notus-react?AFFILIATE=128200)
 
