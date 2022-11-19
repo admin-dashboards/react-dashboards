@@ -13,6 +13,8 @@ For all the dark mode fans out there, here’s the free version of Corona React,
 
 This beautiful template is designed to be easy on the eyes, ensuring a comfortable viewing experience for all the night-owls out there and super easy to setup.
 
+![Corona React Free - Open-Source Template](https://user-images.githubusercontent.com/51070104/202862009-282b090f-7355-448f-a306-6bde4b365f70.jpg)
+
 <br /> 
 
 ## ✨ [Argon Dashboard 2 MUI](https://www.creative-tim.com/product/argon-dashboard-material-ui?AFFILIATE=128200)
