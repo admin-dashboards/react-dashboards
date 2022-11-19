@@ -4,6 +4,17 @@ A curated list with open-source **[React Dashboards](https://dev.to/sm0ke/react-
 
 <br /> 
 
+## ✨ [Corona React Free](https://www.bootstrapdash.com/product/corona-react-free-admin-template?ref=23)
+
+For all the dark mode fans out there, here’s the free version of Corona React, a free React admin template from BootstrapDash. This is the new and improved version of Corona React with a new facelift for enhanced legibility and aesthetics!
+
+- 👉 [Corona React Free](https://www.bootstrapdash.com/product/corona-react-free-admin-template?ref=23) - `product page`
+- 👉 [Corona React Free](https://www.bootstrapdash.com/demo/corona-react-free/template/demo_1/preview/dashboard?ref=23) - `LIVE demo`
+
+This beautiful template is designed to be easy on the eyes, ensuring a comfortable viewing experience for all the night-owls out there and super easy to setup.
+
+<br /> 
+
 ## ✨ [Argon Dashboard 2 MUI](https://www.creative-tim.com/product/argon-dashboard-material-ui?AFFILIATE=128200)
 
 Start your Development with an Innovative Admin Template for MUI and React. If you like the look & feel of the hottest design trend right now, Argon, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
