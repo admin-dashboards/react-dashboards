@@ -8,7 +8,7 @@ A curated list with open-source **[React Dashboards](https://dev.to/sm0ke/react-
 
 > The campaign is active until `30.NOV` - [read more](https://www.wrappixel.com/?ref=157).
 
-[![WrapPixel - Black Friday 2022 Campaign, 95% OFF Discount (all products).](https://user-images.githubusercontent.com/51854817/203017861-9ec37262-4402-41b0-b392-456f6df8a599.jpg)](https://appseed.us/discounts/)
+[![WrapPixel - Black Friday 2022 Campaign, 95% OFF Discount (all products).](https://user-images.githubusercontent.com/51854817/203017861-9ec37262-4402-41b0-b392-456f6df8a599.jpg)](https://www.wrappixel.com/?ref=157)
 
 <br />
 
