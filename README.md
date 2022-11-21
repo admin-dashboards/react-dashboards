@@ -4,7 +4,7 @@ A curated list with open-source **[React Dashboards](https://dev.to/sm0ke/react-
 
 <br />
 
-## [Black Friday WrapPixel](https://www.wrappixel.com/?ref=157) - `95%OFF`
+## 🎁 [Black Friday WrapPixel](https://www.wrappixel.com/?ref=157) - `95%OFF`
 
 > The campaign is active until `30.NOV` - [read more](https://www.wrappixel.com/?ref=157).
 
