@@ -4,11 +4,11 @@ A curated list with open-source **[React Dashboards](https://dev.to/sm0ke/react-
 
 <br />
 
-## [Black Friday](https://appseed.us/discounts/) - `75%OFF`
+## [Black Friday WrapPixel](https://www.wrappixel.com/?ref=157) - `95%OFF`
 
-> The campaign is active until `30.NOV` and applies to all products and licenses.
+> The campaign is active until `30.NOV` - [read more](https://www.wrappixel.com/?ref=157).
 
-[![AppSeed - Black Friday 2022 Campaign, 75% OFF Discount (all products).](https://user-images.githubusercontent.com/51070104/201829599-9fe6bdd7-3f19-46f3-9115-962eeb13bf29.jpg)](https://appseed.us/discounts/)
+[![WrapPixel - Black Friday 2022 Campaign, 95% OFF Discount (all products).](https://user-images.githubusercontent.com/51854817/203017861-9ec37262-4402-41b0-b392-456f6df8a599.jpg)](https://appseed.us/discounts/)
 
 <br />
 
