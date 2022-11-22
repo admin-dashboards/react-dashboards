@@ -4,7 +4,7 @@ A curated list with open-source **[React Dashboards](https://dev.to/sm0ke/react-
 
 <br />
 
-## 🎁 [Black Friday Creative-Tim](https://www.creative-tim.com/?AFFILIATE=128200) - `85%OFF`
+## 🎁 [`Black Friday` Creative-Tim](https://www.creative-tim.com/?AFFILIATE=128200) - `85%OFF`
 
 > The campaign is active until `30.NOV` - [read more](https://www.creative-tim.com/?AFFILIATE=128200).
 
