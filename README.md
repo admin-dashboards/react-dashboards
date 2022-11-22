@@ -4,11 +4,11 @@ A curated list with open-source **[React Dashboards](https://dev.to/sm0ke/react-
 
 <br />
 
-## 🎁 [Black Friday WrapPixel](https://www.wrappixel.com/?ref=157) - `95%OFF`
+## 🎁 [Black Friday Creative-Tim](https://www.creative-tim.com/?AFFILIATE=128200) - `85%OFF`
 
-> The campaign is active until `30.NOV` - [read more](https://www.wrappixel.com/?ref=157).
+> The campaign is active until `30.NOV` - [read more](https://www.creative-tim.com/?AFFILIATE=128200).
 
-[![WrapPixel - Black Friday 2022 Campaign, 95% OFF Discount (all products).](https://user-images.githubusercontent.com/51854817/203017861-9ec37262-4402-41b0-b392-456f6df8a599.jpg)](https://www.wrappixel.com/?ref=157)
+[![WrapPixel - Black Friday 2022 Campaign, 95% OFF Discount (all products).](https://user-images.githubusercontent.com/51854817/203370987-de84b00e-210a-46a7-8ea2-0e2883c1146f.jpg)](https://www.creative-tim.com/?AFFILIATE=128200)
 
 <br />
 
