@@ -4,11 +4,11 @@ A curated list with open-source **[React Dashboards](https://dev.to/sm0ke/react-
 
 <br />
 
-## 🎁 [`Black Friday` Creative-Tim](https://www.creative-tim.com/?AFFILIATE=128200) - `85%OFF`
+## 🚀 [Black Friday](https://appseed.us/discounts/) - `75%OFF`
 
-> The campaign is active until `30.NOV` - [read more](https://www.creative-tim.com/?AFFILIATE=128200).
+> Campaign is active until `30.NOV` (all products)
 
-[![WrapPixel - Black Friday 2022 Campaign, 95% OFF Discount (all products).](https://user-images.githubusercontent.com/51854817/203370987-de84b00e-210a-46a7-8ea2-0e2883c1146f.jpg)](https://www.creative-tim.com/?AFFILIATE=128200)
+[![AppSeed - Black Friday 2022 Campaign, 75% OFF Discount (all products).](https://user-images.githubusercontent.com/51070104/201829599-9fe6bdd7-3f19-46f3-9115-962eeb13bf29.jpg)](https://appseed.us/discounts/)
 
 <br />
 
