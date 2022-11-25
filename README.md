@@ -2,16 +2,6 @@
 
 A curated list with open-source **[React Dashboards](https://dev.to/sm0ke/react-dashboards-open-source-apps-1c7j)** released under permissive licenses (MIT/LGPL). For newcomers, React is an open-source, front end, JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. **React** can be used as a base in the development of single-page or mobile applications.
 
-<br />
-
-## 🚀 [Black Friday](https://appseed.us/discounts/) - `75%OFF`
-
-> Campaign is active until `30.NOV` (all products)
-
-[![AppSeed - Black Friday 2022 Campaign, 75% OFF Discount (all products).](https://user-images.githubusercontent.com/51070104/201829599-9fe6bdd7-3f19-46f3-9115-962eeb13bf29.jpg)](https://appseed.us/discounts/)
-
-<br />
-
 ## ✨ [Argon Dashboard Chakra](https://www.creative-tim.com/product/argon-dashboard-chakra?AFFILIATE=128200)
 
 Start your Development with an Innovative Admin Template for Chakra UI and React. If you like the look & feel of the hottest design trend right now, Argon Dashboard Chakra, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
