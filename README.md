@@ -24,6 +24,19 @@ Start your Development with an Innovative Admin Template for **Material-UI** and
 
 <br /> 
 
+## ✨ [Star Admin React](https://www.bootstrapdash.com/product/star-admin-react-free?ref=23)
+
+Star Admin React Free is designed to look simple and beautiful and features a huge collection of components and elements, which will offer unlimited options to users. This design gives you access to a wide variety of essential elements that will allow you to bring a unique touch to your web application.
+
+- 👉 [Star Admin React](https://www.bootstrapdash.com/product/star-admin-react-free?ref=23) - `product page`
+- 👉 [Star Admin React](https://www.bootstrapdash.com/demo/star-admin-free/react/template/demo_1/preview/dashboard?ref=23) - `LIVE demo`
+
+The template features a carefully crafted dashboard with plenty of neatly arranged and organized components and is capable of making the process of data visualization simpler.
+
+![Star Admin React - Open-Source Dashboard Template from BootstrapDash.](https://user-images.githubusercontent.com/51854817/197687898-e9012660-576a-488a-bf32-11c82162d29c.png) 
+
+<br />
+
 ## ✨ [Argon Dashboard 2 MUI](https://www.creative-tim.com/product/argon-dashboard-material-ui?AFFILIATE=128200)
 
 Start your Development with an Innovative Admin Template for MUI and React. If you like the look & feel of the hottest design trend right now, Argon, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
@@ -95,19 +108,6 @@ This beautiful template is designed to be easy on the eyes, ensuring a comfortab
 ![Corona React Free - Open-Source Template](https://user-images.githubusercontent.com/51070104/202862009-282b090f-7355-448f-a306-6bde4b365f70.jpg)
 
 <br /> 
-
-## ✨ [Star Admin React](https://www.bootstrapdash.com/product/star-admin-react-free?ref=23)
-
-Star Admin React Free is designed to look simple and beautiful and features a huge collection of components and elements, which will offer unlimited options to users. This design gives you access to a wide variety of essential elements that will allow you to bring a unique touch to your web application.
-
-- 👉 [Star Admin React](https://www.bootstrapdash.com/product/star-admin-react-free?ref=23) - `product page`
-- 👉 [Star Admin React](https://www.bootstrapdash.com/demo/star-admin-free/react/template/demo_1/preview/dashboard?ref=23) - `LIVE demo`
-
-The template features a carefully crafted dashboard with plenty of neatly arranged and organized components and is capable of making the process of data visualization simpler.
-
-![Star Admin React - Open-Source Dashboard Template from BootstrapDash.](https://user-images.githubusercontent.com/51854817/197687898-e9012660-576a-488a-bf32-11c82162d29c.png) 
-
-<br />
 
 ## ✨ [Purity UI Dashboard](https://www.creative-tim.com/product/purity-ui-dashboard?AFFILIATE=128200)
 
