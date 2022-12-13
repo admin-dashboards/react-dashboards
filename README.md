@@ -24,6 +24,27 @@ Start your Development with an Innovative Admin Template for **Material-UI** and
 
 <br /> 
 
+## ✨ [Argon Dashboard Chakra](https://www.creative-tim.com/product/argon-dashboard-chakra?AFFILIATE=128200)
+
+Start your Development with an Innovative Admin Template for Chakra UI and React. If you like the look & feel of the hottest design trend right now, Argon Dashboard Chakra, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
+
+- 👉 [Argon Dashboard Chakra](https://www.creative-tim.com/product/argon-dashboard-chakra?AFFILIATE=128200) - `product page`
+- 👉 [Argon Dashboard Chakra](https://demos.creative-tim.com/argon-dashboard-chakra/#/admin/dashboard?AFFILIATE=128200) - `LIVE Demo`
+
+![Argon Dashboard Chakra - Open-Source React Dashboard Template from Creative-Tim.](https://user-images.githubusercontent.com/51070104/178219897-5d852c4f-6ff7-4842-82c7-4f08a64a23ac.png)
+
+<br />
+
+## ✨ [Flexy React Material Admin](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157)
+
+Flexy Free `React`/Nextjs version is built with the most popular `React` Framework: **Material-UI**. The free version comes with an elegant grid design that helps you play around with the look and feel of the web app the way you want. it's a carefully hand-crafted minimal admin template built with modular and modern design.
+
+> 👉 [Flexy React Material Admin](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157) - `product page`
+
+![Flexy React Material Admin - Open-source React template.](https://user-images.githubusercontent.com/51070104/175769752-ab24a64a-15ba-4fcf-8dcd-13a8e755277b.jpg)
+
+<br />
+
 ## ✨ [Star Admin React](https://www.bootstrapdash.com/product/star-admin-react-free?ref=23)
 
 Star Admin React Free is designed to look simple and beautiful and features a huge collection of components and elements, which will offer unlimited options to users. This design gives you access to a wide variety of essential elements that will allow you to bring a unique touch to your web application.
@@ -62,28 +83,7 @@ Start your Development with an Innovative Admin Template for **Chakra UI** and *
 
 ![React Purity Dashboard - Open-source full-stack prodyct crafted by AppSeed and Creative-Tim.](https://user-images.githubusercontent.com/51070104/205427640-007904ec-9cd5-4060-86c6-47675b36cda1.png)
 
-<br />
-
-## ✨ [Flexy React Material Admin](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157)
-
-Flexy Free `React`/Nextjs version is built with the most popular `React` Framework: **Material-UI**. The free version comes with an elegant grid design that helps you play around with the look and feel of the web app the way you want. it's a carefully hand-crafted minimal admin template built with modular and modern design.
-
-> 👉 [Flexy React Material Admin](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157) - `product page`
-
-![Flexy React Material Admin - Open-source React template.](https://user-images.githubusercontent.com/51070104/175769752-ab24a64a-15ba-4fcf-8dcd-13a8e755277b.jpg)
-
-<br />
-
-## ✨ [Argon Dashboard Chakra](https://www.creative-tim.com/product/argon-dashboard-chakra?AFFILIATE=128200)
-
-Start your Development with an Innovative Admin Template for Chakra UI and React. If you like the look & feel of the hottest design trend right now, Argon Dashboard Chakra, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
-
-- 👉 [Argon Dashboard Chakra](https://www.creative-tim.com/product/argon-dashboard-chakra?AFFILIATE=128200) - `product page`
-- 👉 [Argon Dashboard Chakra](https://demos.creative-tim.com/argon-dashboard-chakra/#/admin/dashboard?AFFILIATE=128200) - `LIVE Demo`
-
-![Argon Dashboard Chakra - Open-Source React Dashboard Template from Creative-Tim.](https://user-images.githubusercontent.com/51070104/178219897-5d852c4f-6ff7-4842-82c7-4f08a64a23ac.png)
-
-<br />
+<br /> 
 
 ## ✨ [Material Dashboard React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200)
 
