@@ -6,7 +6,7 @@ A curated list with open-source **[React Dashboards](https://dev.to/sm0ke/react-
 
 <br />
 
-### Promo campaign by [AppSeed](https://appseed.us/)
+## [AppSeed](https://appseed.us/) `PROMO` 🔥50%OFF (all products)
 
 [![Campaign Boost 2023 - AppSeed Winter PROMO](https://user-images.githubusercontent.com/51070104/207626921-2cd669fe-457f-47a3-83b3-b58d5ba7d46f.jpg)](https://appseed.us/discounts/)
 
