@@ -6,6 +6,12 @@ A curated list with open-source **[React Dashboards](https://dev.to/sm0ke/react-
 
 <br />
 
+### Promo campaign by [AppSeed](https://appseed.us/)
+
+[![Campaign Boost 2023 - AppSeed Winter PROMO](https://user-images.githubusercontent.com/51070104/207626921-2cd669fe-457f-47a3-83b3-b58d5ba7d46f.jpg)](https://appseed.us/discounts/)
+
+<br />
+
 ## ✨ [React Soft Dashboard](https://appseed.us/product/soft-ui-dashboard/api-server-nodejs/react/) `fullstack`
 
 Start your Development with an Innovative Admin Template for **Material-UI** and **React**. [Soft UI Dashboard React](https://appseed.us/product/soft-ui-dashboard/api-server-nodejs/react/) is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining. The product comes with a simple JWT authentication flow: login/register/logout. 
