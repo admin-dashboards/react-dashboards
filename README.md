@@ -6,11 +6,16 @@ A curated list with open-source **[React Dashboards](https://dev.to/sm0ke/react-
 
 <br />
 
-## 🚀 [AppSeed](https://appseed.us/) `PROMO` 🔥50%OFF (all products)
+## ✨ [Argon Dashboard 2 MUI](https://www.creative-tim.com/product/argon-dashboard-material-ui?AFFILIATE=128200)
 
-[![Campaign Boost 2023 - AppSeed Winter PROMO](https://user-images.githubusercontent.com/51070104/207626921-2cd669fe-457f-47a3-83b3-b58d5ba7d46f.jpg)](https://appseed.us/discounts/)
+Start your Development with an Innovative Admin Template for MUI and React. If you like the look & feel of the hottest design trend right now, Argon, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
 
-<br />
+- 👉 [Argon Dashboard 2 MUI](https://www.creative-tim.com/product/argon-dashboard-material-ui?AFFILIATE=128200) - product page
+- 👉 [Argon Dashboard 2 MUI](https://demos.creative-tim.com/argon-dashboard-material-ui/#/dashboard?AFFILIATE=128200) - LIVE demo
+
+![Argon Dashboard 2 MUI - Free Template](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vxr5setbbt8bl3ul8vz1.png)
+
+<br /> 
 
 ## ✨ [React Soft Dashboard](https://appseed.us/product/soft-ui-dashboard/api-server-nodejs/react/) `fullstack`
 
@@ -29,17 +34,6 @@ Start your Development with an Innovative Admin Template for **Material-UI** and
 ![React Soft Dashboard - Open-source full-stack product](https://user-images.githubusercontent.com/51070104/176936814-74386559-4e05-43d5-b9a4-8f70ce96a610.png)
 
 <br /> 
-
-## ✨ [Argon Dashboard Chakra](https://www.creative-tim.com/product/argon-dashboard-chakra?AFFILIATE=128200)
-
-Start your Development with an Innovative Admin Template for Chakra UI and React. If you like the look & feel of the hottest design trend right now, Argon Dashboard Chakra, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
-
-- 👉 [Argon Dashboard Chakra](https://www.creative-tim.com/product/argon-dashboard-chakra?AFFILIATE=128200) - `product page`
-- 👉 [Argon Dashboard Chakra](https://demos.creative-tim.com/argon-dashboard-chakra/#/admin/dashboard?AFFILIATE=128200) - `LIVE Demo`
-
-![Argon Dashboard Chakra - Open-Source React Dashboard Template from Creative-Tim.](https://user-images.githubusercontent.com/51070104/178219897-5d852c4f-6ff7-4842-82c7-4f08a64a23ac.png)
-
-<br />
 
 ## ✨ [Flexy React Material Admin](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157)
 
@@ -63,17 +57,6 @@ The template features a carefully crafted dashboard with plenty of neatly arrang
 ![Star Admin React - Open-Source Dashboard Template from BootstrapDash.](https://user-images.githubusercontent.com/51854817/197687898-e9012660-576a-488a-bf32-11c82162d29c.png) 
 
 <br />
-
-## ✨ [Argon Dashboard 2 MUI](https://www.creative-tim.com/product/argon-dashboard-material-ui?AFFILIATE=128200)
-
-Start your Development with an Innovative Admin Template for MUI and React. If you like the look & feel of the hottest design trend right now, Argon, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
-
-- 👉 [Argon Dashboard 2 MUI](https://www.creative-tim.com/product/argon-dashboard-material-ui?AFFILIATE=128200) - product page
-- 👉 [Argon Dashboard 2 MUI](https://demos.creative-tim.com/argon-dashboard-material-ui/#/dashboard?AFFILIATE=128200) - LIVE demo
-
-![Argon Dashboard 2 MUI - Free Template](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vxr5setbbt8bl3ul8vz1.png)
-
-<br /> 
 
 ## ✨ [React Purity Dashboard](https://appseed.us/product/purity-dashboard/api-server-nodejs/react/) `fullstack`
 
@@ -114,6 +97,17 @@ This beautiful template is designed to be easy on the eyes, ensuring a comfortab
 ![Corona React Free - Open-Source Template](https://user-images.githubusercontent.com/51070104/202862009-282b090f-7355-448f-a306-6bde4b365f70.jpg)
 
 <br /> 
+
+## ✨ [Argon Dashboard Chakra](https://www.creative-tim.com/product/argon-dashboard-chakra?AFFILIATE=128200)
+
+Start your Development with an Innovative Admin Template for Chakra UI and React. If you like the look & feel of the hottest design trend right now, Argon Dashboard Chakra, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
+
+- 👉 [Argon Dashboard Chakra](https://www.creative-tim.com/product/argon-dashboard-chakra?AFFILIATE=128200) - `product page`
+- 👉 [Argon Dashboard Chakra](https://demos.creative-tim.com/argon-dashboard-chakra/#/admin/dashboard?AFFILIATE=128200) - `LIVE Demo`
+
+![Argon Dashboard Chakra - Open-Source React Dashboard Template from Creative-Tim.](https://user-images.githubusercontent.com/51070104/178219897-5d852c4f-6ff7-4842-82c7-4f08a64a23ac.png)
+
+<br />
 
 ## ✨ [Purity UI Dashboard](https://www.creative-tim.com/product/purity-ui-dashboard?AFFILIATE=128200)
 
