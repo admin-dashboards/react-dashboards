@@ -6,14 +6,6 @@ A curated list with open-source **[React Dashboards](https://dev.to/sm0ke/react-
 
 <br />
 
-## 🎁 `PROMO` [Best Deals for Developers](https://www.admin-dashboards.com/best-deals-for-developers/) - Up to `80%OFF`
-
-Because 2022 is almost over and we all knew that was a super challenging year for all of us (freelancers, entrepreneurs, all-size companies) this article aims to highlight the **best deals for developers** that might help us to start amazing projects in 2023 at the lower cost possible.
-
-[![Best Deals For Programmers and Freelancers - Provided by AppSeed, CodedThemes, Creatuve-Tim, WrapPixel and BootstrapDash.](https://user-images.githubusercontent.com/51070104/209994947-ed4b33dd-f269-4043-8432-2c01a53e0f6b.jpg)](https://www.admin-dashboards.com/best-deals-for-developers/)
-
-<br />
-
 ## ✨ [Argon Dashboard 2 MUI](https://www.creative-tim.com/product/argon-dashboard-material-ui?AFFILIATE=128200)
 
 Start your Development with an Innovative Admin Template for MUI and React. If you like the look & feel of the hottest design trend right now, Argon, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
