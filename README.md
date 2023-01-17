@@ -6,6 +6,19 @@ A curated list with open-source **[React Dashboards](https://dev.to/sm0ke/react-
 
 <br />
 
+## 🎁 `PROMO`: [SeRanking - All-in-one SEO software made simple](https://seranking.com/?ga=2230964&source=link)
+
+> Award-wining SEO Tool for your business - [Pricing starts from $25/mo](https://seranking.com/subscription.html?ga=2230964&source=link)
+
+- ✅ `100% accurate` keyword `rank tracking`
+- ✅ In-depth `website audit`
+- ✅ `Backlink checking` & monitoring
+- ✅ Keyword Research
+
+[![SeRanking - All-in-one SEO software made simple (service banner)](https://user-images.githubusercontent.com/51854817/212999126-2534c0d9-2237-4979-a5d2-b3fe30c3a05d.jpg)](https://seranking.com/?ga=2230964&source=link)
+
+<br />
+
 ## ✨ [Argon Dashboard Chakra](https://www.creative-tim.com/product/argon-dashboard-chakra?AFFILIATE=128200)
 
 Start your Development with an Innovative Admin Template for Chakra UI and React. If you like the look & feel of the hottest design trend right now, Argon Dashboard Chakra, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
