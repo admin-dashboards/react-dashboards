@@ -6,7 +6,7 @@ A curated list with open-source **[React Dashboards](https://dev.to/sm0ke/react-
 
 <br />
 
-## 🎁 `PROMO`: [SeRanking](https://seranking.com/?ga=2230964&source=link) - `All-in-one SEO Software`
+## `PROMO` 🎁 [SeRanking](https://seranking.com/?ga=2230964&source=link) - `All-in-one SEO Software`
 
 > **Award-winning SEO Tool** for your business - [Pricing starts from $25/mo](https://seranking.com/subscription.html?ga=2230964&source=link).
 
