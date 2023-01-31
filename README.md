@@ -6,6 +6,30 @@ A curated list with open-source **[React Dashboards](https://dev.to/sm0ke/react-
 
 <br />
 
+## ✨ [Soft UI Dashboard React](https://www.creative-tim.com/product/soft-ui-dashboard-react?AFFILIATE=128200)
+
+Start your Development with an Innovative Admin Template for `MUI` and `React`. If you like the look & feel of the hottest design trend right now, **Soft UI**, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
+
+- 👉 [Soft UI Dashboard React](https://www.creative-tim.com/product/soft-ui-dashboard-react?AFFILIATE=128200) - `product page`
+- 👉 [Soft UI Dashboard React](https://demos.creative-tim.com/soft-ui-dashboard-react/#/dashboard?AFFILIATE=128200) - `LIVE Demo`
+
+![Soft UI Dashboard React - Open-Source React Dashboard Template from Creative-Tim](https://user-images.githubusercontent.com/51854817/177595511-1c8d6a14-a9b1-478e-b0db-762f8b900f9e.png)
+
+<br />
+
+## ✨ [Corona React Free](https://www.bootstrapdash.com/product/corona-react-free-admin-template?ref=23)
+
+For all the dark mode fans out there, here’s the free version of Corona React, a free React admin template from BootstrapDash. This is the new and improved version of Corona React with a new facelift for enhanced legibility and aesthetics!
+
+- 👉 [Corona React Free](https://www.bootstrapdash.com/product/corona-react-free-admin-template?ref=23) - `product page`
+- 👉 [Corona React Free](https://www.bootstrapdash.com/demo/corona-react-free/template/demo_1/preview/dashboard?ref=23) - `LIVE demo`
+
+This beautiful template is designed to be easy on the eyes, ensuring a comfortable viewing experience for all the night-owls out there and super easy to setup.
+
+![Corona React Free - Open-Source Template](https://user-images.githubusercontent.com/51070104/202862009-282b090f-7355-448f-a306-6bde4b365f70.jpg)
+
+<br /> 
+
 ## ✨ [Argon Dashboard Chakra](https://www.creative-tim.com/product/argon-dashboard-chakra?AFFILIATE=128200)
 
 Start your Development with an Innovative Admin Template for Chakra UI and React. If you like the look & feel of the hottest design trend right now, Argon Dashboard Chakra, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
@@ -35,17 +59,6 @@ Start your Development with an Innovative Admin Template for MUI and React. If y
 - 👉 [Argon Dashboard 2 MUI](https://demos.creative-tim.com/argon-dashboard-material-ui/#/dashboard?AFFILIATE=128200) - LIVE demo
 
 ![Argon Dashboard 2 MUI - Free Template](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vxr5setbbt8bl3ul8vz1.png)
-
-<br />
-
-## ✨ [Soft UI Dashboard React](https://www.creative-tim.com/product/soft-ui-dashboard-react?AFFILIATE=128200)
-
-Start your Development with an Innovative Admin Template for `MUI` and `React`. If you like the look & feel of the hottest design trend right now, **Soft UI**, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
-
-- 👉 [Soft UI Dashboard React](https://www.creative-tim.com/product/soft-ui-dashboard-react?AFFILIATE=128200) - `product page`
-- 👉 [Soft UI Dashboard React](https://demos.creative-tim.com/soft-ui-dashboard-react/#/dashboard?AFFILIATE=128200) - `LIVE Demo`
-
-![Soft UI Dashboard React - Open-Source React Dashboard Template from Creative-Tim](https://user-images.githubusercontent.com/51854817/177595511-1c8d6a14-a9b1-478e-b0db-762f8b900f9e.png)
 
 <br />
 
@@ -115,19 +128,6 @@ Material Dashboard 2 React is our newest free MUI Admin Template based on React.
 - 👉 [Material Dashboard React](https://demos.creative-tim.com/material-dashboard-react/#/dashboard?AFFILIATE=128200) - `LIVE Demo`
 
 ![Material Dashboard React - Open-Source React Dashboard Template from Creative-Tim.](https://user-images.githubusercontent.com/51854817/178092547-a0bdd527-26f0-432f-9110-e29f17d22329.png)
-
-<br /> 
-
-## ✨ [Corona React Free](https://www.bootstrapdash.com/product/corona-react-free-admin-template?ref=23)
-
-For all the dark mode fans out there, here’s the free version of Corona React, a free React admin template from BootstrapDash. This is the new and improved version of Corona React with a new facelift for enhanced legibility and aesthetics!
-
-- 👉 [Corona React Free](https://www.bootstrapdash.com/product/corona-react-free-admin-template?ref=23) - `product page`
-- 👉 [Corona React Free](https://www.bootstrapdash.com/demo/corona-react-free/template/demo_1/preview/dashboard?ref=23) - `LIVE demo`
-
-This beautiful template is designed to be easy on the eyes, ensuring a comfortable viewing experience for all the night-owls out there and super easy to setup.
-
-![Corona React Free - Open-Source Template](https://user-images.githubusercontent.com/51070104/202862009-282b090f-7355-448f-a306-6bde4b365f70.jpg)
 
 <br /> 
 
