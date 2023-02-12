@@ -16,9 +16,7 @@ Start your Development with an Innovative Admin Template for **Material-UI** and
 - ✅ React, Redux, Redux-persist
 - ✅ Authentication: `JWT Tokens`, 
 - ✅ `OAuth` via GitHub
-- ✅ Full-stack ready using: 
-  - [Node API](https://github.com/app-generator/api-server-nodejs) `free product`
-  - [Node API Mongo](https://github.com/app-generator/api-server-nodejs) `free product`
+- ✅ `Full-stack` ready using Node, Flask, and Django
 
 ![React Soft Dashboard - Open-source full-stack product](https://user-images.githubusercontent.com/51070104/176936814-74386559-4e05-43d5-b9a4-8f70ce96a610.png)
 
