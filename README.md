@@ -6,16 +6,23 @@ A curated list with open-source **[React Dashboards](https://dev.to/sm0ke/react-
 
 <br /> 
 
-## ✨ [Soft UI Dashboard React](https://www.creative-tim.com/product/soft-ui-dashboard-react?AFFILIATE=128200)
+## ✨ [React Soft Dashboard](https://appseed.us/product/soft-ui-dashboard/api-server-nodejs/react/) `full-stack`
 
-Start your Development with an Innovative Admin Template for `MUI` and `React`. If you like the look & feel of the hottest design trend right now, **Soft UI**, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
+Start your Development with an Innovative Admin Template for **Material-UI** and **React**. [Soft UI Dashboard React](https://appseed.us/product/soft-ui-dashboard/api-server-nodejs/react/) is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining. The product comes with a simple JWT authentication flow: login/register/logout. 
 
-- 👉 [Soft UI Dashboard React](https://www.creative-tim.com/product/soft-ui-dashboard-react?AFFILIATE=128200) - `product page`
-- 👉 [Soft UI Dashboard React](https://demos.creative-tim.com/soft-ui-dashboard-react/#/dashboard?AFFILIATE=128200) - `LIVE Demo`
+> 🚀 Built with **[React App Generator](https://appseed.us/generator/react/)**
 
-![Soft UI Dashboard React - Open-Source React Dashboard Template from Creative-Tim](https://user-images.githubusercontent.com/51854817/177595511-1c8d6a14-a9b1-478e-b0db-762f8b900f9e.png)
+- ✅ Innovative `Soft UI Design` - **Crafted by [Creative-Tim](https://www.creative-tim.com/?AFFILIATE=128200)**
+- ✅ React, Redux, Redux-persist
+- ✅ Authentication: `JWT Tokens`, 
+- ✅ `OAuth` via GitHub
+- ✅ Full-stack ready using: 
+  - [Node API](https://github.com/app-generator/api-server-nodejs) `free product`
+  - [Node API Mongo](https://github.com/app-generator/api-server-nodejs) `free product`
 
-<br />
+![React Soft Dashboard - Open-source full-stack product](https://user-images.githubusercontent.com/51070104/176936814-74386559-4e05-43d5-b9a4-8f70ce96a610.png)
+
+<br /> 
 
 ## ✨ [Flexy React Material Admin](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157)
 
@@ -83,24 +90,6 @@ Black Dashboard React is a beautiful Bootstrap 4 (Reactstrap) Admin Dashboard wi
 - 👉 [Black Dashboard React](https://demos.creative-tim.com/black-dashboard-react/#/admin/dashboard?AFFILIATE=128200) - product page
 
 ![Black Dashboard - Open-Source React Dashboard Template from Creative-Tim.](https://user-images.githubusercontent.com/51854817/178653651-6da35ef2-7a32-4853-8835-fc139d5f85d4.png)
-
-<br /> 
-
-## ✨ [React Soft Dashboard](https://appseed.us/product/soft-ui-dashboard/api-server-nodejs/react/) `fullstack`
-
-Start your Development with an Innovative Admin Template for **Material-UI** and **React**. [Soft UI Dashboard React](https://appseed.us/product/soft-ui-dashboard/api-server-nodejs/react/) is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining. The product comes with a simple JWT authentication flow: login/register/logout. 
-
-> 🚀 Built with **[React App Generator](https://appseed.us/generator/react/)**
-
-- ✅ Innovative **Soft UI Design** - Crafted by [Creative-Tim](https://bit.ly/3fKQZaL)
-- ✅ React, Redux, Redux-persist
-- ✅ Authentication: `JWT Tokens`, 
-- ✅ `OAuth` via GitHub
-- ✅ Full-stack ready using: 
-  - [Node API](https://github.com/app-generator/api-server-nodejs) `free product`
-  - [Node API Mongo](https://github.com/app-generator/api-server-nodejs) `free product`
-
-![React Soft Dashboard - Open-source full-stack product](https://user-images.githubusercontent.com/51070104/176936814-74386559-4e05-43d5-b9a4-8f70ce96a610.png)
 
 <br /> 
 
