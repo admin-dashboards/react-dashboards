@@ -224,4 +224,4 @@ Open-Source Full-Stack seed project crafted on top of `Chakra UI` and `React`. T
 - ✨ More [Admin Dashboards](https://www.admin-dashboards.com/) - a huge index with products
 
 ---
-**[React Dashboards](https://dev.to/sm0ke/react-dashboards-open-source-apps-1c7j)** - Open-Source and free (curated List), content provided by Admin Dashboard
+**[React Dashboards](https://dev.to/sm0ke/react-dashboards-open-source-apps-1c7j)** - Open-Source and free (curated List), content provided by [Admin Dashboard](https://www.admin-dashboards.com/)
