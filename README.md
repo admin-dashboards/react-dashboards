@@ -4,6 +4,14 @@ A curated list with open-source **[React Dashboards](https://dev.to/sm0ke/react-
 
 > Curated by [Sm0ke](https://twitter.com/Sm0keDev)
 
+<br />
+
+## 🚀 `PROMO` [Spring Boost Campaign](https://appseed.us/discounts/) `50%OFF`
+
+> The **discount is applicable to all products and licenses** (no stock limits) until `15.MAR`
+
+[![Spring Boost Campaign](https://user-images.githubusercontent.com/51070104/221118889-171c5afc-4d01-402b-8681-61b37338e26c.png)](https://appseed.us/discounts/)
+
 <br /> 
 
 ## ✨ [Material Dashboard React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200)
