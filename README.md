@@ -6,11 +6,14 @@ A curated list with open-source **[React Dashboards](https://dev.to/sm0ke/react-
 
 <br />
 
-## 🚀 `PROMO` [Spring Boost Campaign](https://appseed.us/discounts/) `50%OFF`
+## ✨ [Purity UI Dashboard](https://www.creative-tim.com/product/purity-ui-dashboard?AFFILIATE=128200)
 
-> The **discount is applicable to all products and licenses** (no stock limits) until `15.MAR`
+Made of hundred of elements, designed blocks and fully coded pages, Purity UI Dashboard is ready to help you create stunning websites and webapps. If you want to get inspiration or just show something directly to your clients, you can jump start your development with our pre-built example pages.
 
-[![Spring Boost Campaign](https://user-images.githubusercontent.com/51070104/221118889-171c5afc-4d01-402b-8681-61b37338e26c.png)](https://appseed.us/discounts/)
+- 👉 [Purity UI Dashboard](https://www.creative-tim.com/product/purity-ui-dashboard?AFFILIATE=128200) - `product page`
+- 👉 [Purity UI Dashboard](https://demos.creative-tim.com/purity-ui-dashboard/#/admin/dashboard?AFFILIATE=128200) - `LIVE Demo`
+
+![Purity UI Dashboard is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining.](https://user-images.githubusercontent.com/51854817/178465300-08329362-8b71-4cbb-9d7c-e8be8ac24289.png) 
 
 <br /> 
 
@@ -32,17 +35,6 @@ Flexy Free `React`/Nextjs version is built with the most popular `React` Framewo
 > 👉 [Flexy React Material Admin](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157) - `product page`
 
 ![Flexy React Material Admin - Open-source React template.](https://user-images.githubusercontent.com/51070104/175769752-ab24a64a-15ba-4fcf-8dcd-13a8e755277b.jpg)
-
-<br /> 
-
-## ✨ [Purity UI Dashboard](https://www.creative-tim.com/product/purity-ui-dashboard?AFFILIATE=128200)
-
-Made of hundred of elements, designed blocks and fully coded pages, Purity UI Dashboard is ready to help you create stunning websites and webapps. If you want to get inspiration or just show something directly to your clients, you can jump start your development with our pre-built example pages.
-
-- 👉 [Purity UI Dashboard](https://www.creative-tim.com/product/purity-ui-dashboard?AFFILIATE=128200) - `product page`
-- 👉 [Purity UI Dashboard](https://demos.creative-tim.com/purity-ui-dashboard/#/admin/dashboard?AFFILIATE=128200) - `LIVE Demo`
-
-![Purity UI Dashboard is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining.](https://user-images.githubusercontent.com/51854817/178465300-08329362-8b71-4cbb-9d7c-e8be8ac24289.png) 
 
 <br /> 
 
