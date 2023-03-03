@@ -10,7 +10,7 @@ A curated list with open-source **[React Dashboards](https://dev.to/sm0ke/react-
 
 This innovative `Material Design`, **Tailwind CSS & React** dashboard comes with a beautiful design inspired by Google's Material Design and it will help you create stunning websites & web apps to delight your clients.
 
-- 👉 [Tailwind Dashboard React](https://www.creative-tim.com/product/material-tailwind-dashboard-react?AFFILIATE=128200) - `product page`
+- 👉 [Tailwind Dashboard React](https://www.creative-tim.com/product/material-tailwind-dashboard-react?AFFILIATE=128200) - `Product page`
 - 👉 [Tailwind Dashboard React](https://demos.creative-tim.com/material-tailwind-dashboard-react/#/dashboard/home?AFFILIATE=128200) - `LIVE Demo`
 
 ![Material Tailwind Dashboard React - Open-Source React Template](https://user-images.githubusercontent.com/51854817/222807058-129ddc2e-dc28-4f57-ad4b-1ab4b2aca6f4.png)
