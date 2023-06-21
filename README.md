@@ -6,7 +6,7 @@ A curated list with open-source **[React Dashboards](https://github.com/admin-da
 
 <br />
 
-## ✨ [Horizon UI](https://horizon-ui.com/?ref=appseed)
+## ✨ [Horizon UI](https://horizon-ui.com/?ref=appseed) `FREE`
 
 Designed for those who like modern UI elements and beautiful websites. Made of hundred of elements, designed blocks and fully coded pages, Horizon UI is ready to help you create stunning websites and webapps.
 
