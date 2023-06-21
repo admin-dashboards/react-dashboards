@@ -6,18 +6,16 @@ A curated list with open-source **[React Dashboards](https://github.com/admin-da
 
 <br />
 
-## ✨ [Horizon UI](https://horizon-ui.com/?ref=appseed) `FREE`
+## ✨ [Purity UI Dashboard](https://www.creative-tim.com/product/purity-ui-dashboard?AFFILIATE=128200)
 
-Designed for those who like modern UI elements and beautiful websites. Made of hundred of elements, designed blocks and fully coded pages, Horizon UI is ready to help you create stunning websites and webapps.
+Made of hundred of elements, designed blocks and fully coded pages, Purity UI Dashboard is ready to help you create stunning websites and webapps. If you want to get inspiration or just show something directly to your clients, you can jump start your development with our pre-built example pages.
 
-- 👉 [Horizon UI](https://horizon-ui.com/?ref=appseed) - `Product Page`
-- 👉 [Horizon UI](https://horizon-ui.com/horizon-tailwind-react/admin/default?ref=appseed) - `LIVE Demo`
+- 👉 [Purity UI Dashboard](https://www.creative-tim.com/product/purity-ui-dashboard?AFFILIATE=128200) - `product page`
+- 👉 [Purity UI Dashboard](https://demos.creative-tim.com/purity-ui-dashboard/#/admin/dashboard?AFFILIATE=128200) - `LIVE Demo`
 
-With Horizon UI you will find many examples for pages like NFTs Pages, Authentication Pages, Profile and so on. Just choose between a Basic Design or a cover and you are good to go!
+![Purity UI Dashboard is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining.](https://user-images.githubusercontent.com/51854817/178465300-08329362-8b71-4cbb-9d7c-e8be8ac24289.png) 
 
-![Horizon UI - Open-Source React Template](https://github.com/admin-dashboards/react-dashboards/assets/51854817/6e04fa2c-3ceb-494c-9576-9699284e5025)
-
-<br />
+<br />  
 
 ## ✨ [Modernize MUI React](https://adminmart.com/product/modernize-free-react-mui-dashboard/?ref=1)
 
@@ -42,17 +40,6 @@ Material Dashboard 2 React is our newest free MUI Admin Template based on React.
 ![Material Dashboard React - Open-Source React Dashboard Template from Creative-Tim.](https://user-images.githubusercontent.com/51854817/178092547-a0bdd527-26f0-432f-9110-e29f17d22329.png)
 
 <br /> 
-
-## ✨ [Purity UI Dashboard](https://www.creative-tim.com/product/purity-ui-dashboard?AFFILIATE=128200)
-
-Made of hundred of elements, designed blocks and fully coded pages, Purity UI Dashboard is ready to help you create stunning websites and webapps. If you want to get inspiration or just show something directly to your clients, you can jump start your development with our pre-built example pages.
-
-- 👉 [Purity UI Dashboard](https://www.creative-tim.com/product/purity-ui-dashboard?AFFILIATE=128200) - `product page`
-- 👉 [Purity UI Dashboard](https://demos.creative-tim.com/purity-ui-dashboard/#/admin/dashboard?AFFILIATE=128200) - `LIVE Demo`
-
-![Purity UI Dashboard is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining.](https://user-images.githubusercontent.com/51854817/178465300-08329362-8b71-4cbb-9d7c-e8be8ac24289.png) 
-
-<br />  
 
 ## ✨ [Muse Ant.Design React](https://www.creative-tim.com/product/muse-ant-design-dashboard?AFFILIATE=128200)
 
