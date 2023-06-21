@@ -6,6 +6,19 @@ A curated list with open-source **[React Dashboards](https://github.com/admin-da
 
 <br />
 
+## ✨ [Horizon UI](https://horizon-ui.com/?ref=appseed)
+
+Designed for those who like modern UI elements and beautiful websites. Made of hundred of elements, designed blocks and fully coded pages, Horizon UI is ready to help you create stunning websites and webapps.
+
+- 👉 [Horizon UI](https://horizon-ui.com/?ref=appseed) - `Product Page`
+- 👉 [Horizon UI](https://horizon-ui.com/horizon-tailwind-react/admin/default?ref=appseed) - `LIVE Demo`
+
+With Horizon UI you will find many examples for pages like NFTs Pages, Authentication Pages, Profile and so on. Just choose between a Basic Design or a cover and you are good to go!
+
+![Horizon UI - Open-Source React Template](https://github.com/admin-dashboards/react-dashboards/assets/51854817/6e04fa2c-3ceb-494c-9576-9699284e5025)
+
+<br />
+
 ## ✨ [Modernize MUI React](https://adminmart.com/product/modernize-free-react-mui-dashboard/?ref=1)
 
 If you are looking for an eye-catching and elegantly designed free react admin template that comes with several added features, then look no more. Modernize react admin is a free template that has everything you require to develop an amazing web app. 
