@@ -212,19 +212,6 @@ Start your development with a Free Tailwind CSS and React UI Kit and Admin. Let 
 
 <br />
 
-## ✨ [React Node JS Berry](https://appseed.us/product/berry-dashboard/api-server-nodejs/react/) `Full-Stack`
-
-**Berry** is a creative free **React Dashboard** build using the Material-UI by **CodedThemes** agency. It is meant to be the best User Experience with highly customizable feature-riched pages. It is a complete game-changer React Dashboard Template with easy and intuitive responsive design as on retina screens or laptops. The product comes with a simple JWT authentication flow: login/register/logout.
-
-- 👉 [React Node JS Berry](https://appseed.us/product/berry-dashboard/api-server-nodejs/react/) - `product page`
-- 👉 [React Node JS Berry](https://react-node-js-berry-dashboard.appseed-srv1.com/) - `LIVE Demo`
-
-<br />
-
-![React Node JS Berry - Full-stack product powered by a simple NodeJS API backend.](https://user-images.githubusercontent.com/51070104/174480640-e0b450b1-07a8-4cc7-84bc-287bb9c45773.png)
-
-<br />
-
 > `Thanks for reading!` For more resources, please access:
 
 - ✨ More [Free Dashboards](https://appseed.us/admin-dashboards/open-source) crafted in Django, Flask, and [React](https://appseed.us/apps/react)
