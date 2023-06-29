@@ -57,6 +57,17 @@ This product comes with a permissive (MIT) license, `React 18+`, `Code Splitting
 
 <br /> 
 
+## ✨ [React Horizon UI](https://appseed.us/product/horizon-ui/api-server-nodejs/) `Full-Stack`
+
+Open-Source Full-Stack seed project crafted on top of `Chakra UI` and `React`. The product comes with a simple JWT authentication flow: login/register/logout powered by an open-source Node JS API Backend. Based on the permissive (MIT) Licence, **React Horizon UI** can be used in commercial projects and eLearning activities.
+
+- 👉 [React Horizon UI](https://appseed.us/product/horizon-ui/api-server-nodejs/) - `product page`
+- 👉 [React Horizon UI](https://react-horizon-ui-chakra.appseed-srv1.com/#/auth/sign-in/default) - `LIVE Demo`
+
+![React Horizon UI - Open-Source react Dashboard.](https://user-images.githubusercontent.com/51070104/174428337-181e6dea-0ad9-4fe1-a35f-25e5fa656a9d.png)
+
+<br />
+
 ## ✨ [Material Dashboard React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200)
 
 Material Dashboard 2 React is our newest free MUI Admin Template based on React. Material Dashboard 2 React is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
@@ -198,17 +209,6 @@ Start your development with a Free Tailwind CSS and React UI Kit and Admin. Let 
  If you like bright and fresh colors, you will love this Free Tailwind CSS Template! It features a huge number of components that can help you create amazing websites.
  
 ![Notus React - Free template provided by Creative-Tim.](https://user-images.githubusercontent.com/51854817/178092653-a846a33d-6da6-45f4-9275-cdec6accfab2.png)
-
-<br />
-
-## ✨ [React Horizon UI](https://appseed.us/product/horizon-ui/api-server-nodejs/) `Full-Stack`
-
-Open-Source Full-Stack seed project crafted on top of `Chakra UI` and `React`. The product comes with a simple JWT authentication flow: login/register/logout powered by an open-source Node JS API Backend. Based on the permissive (MIT) Licence, **React Horizon UI** can be used in commercial projects and eLearning activities.
-
-- 👉 [React Horizon UI](https://appseed.us/product/horizon-ui/api-server-nodejs/) - `product page`
-- 👉 [React Horizon UI](https://react-horizon-ui-chakra.appseed-srv1.com/#/auth/sign-in/default) - `LIVE Demo`
-
-![React Horizon UI - Open-Source react Dashboard.](https://user-images.githubusercontent.com/51070104/174428337-181e6dea-0ad9-4fe1-a35f-25e5fa656a9d.png)
 
 <br />
 
