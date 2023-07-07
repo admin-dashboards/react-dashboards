@@ -2,11 +2,11 @@
 
 A curated list with open-source **[React Dashboards](https://github.com/admin-dashboards/react-dashboards)** released under permissive licenses (MIT/LGPL). For newcomers, React is an open-source, front end, JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. **React** can be used as a base in the development of single-page or mobile applications.
 
----
+<br />
  
-> 🚀 Sponsored by **[WebFlow](https://webflow.grsm.io/jwra8zwbaz4l)**, a modern way to `build websites without coding`
+> 🚀 `Sponsored` by **[WebFlow](https://webflow.grsm.io/jwra8zwbaz4l)**, a modern way to `build websites without coding`
 
----
+<br />
 
 ## ✨ [React Node Datta Able](https://appseed.us/product/datta-able/api-server-nodejs/react/) `Full-Stack`
 
