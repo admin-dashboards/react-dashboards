@@ -2,8 +2,16 @@
 
 A curated list with open-source **[React Dashboards](https://github.com/admin-dashboards/react-dashboards)** released under permissive licenses (MIT/LGPL). For newcomers, React is an open-source, front end, JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. **React** can be used as a base in the development of single-page or mobile applications.
 
-> 🚀 Provided by **[Django App Generator](https://app-generator.dev/django/)** — A free service for coding apps in no-time
+> Provided by **[Django App Generator](https://app-generator.dev/django/)** — A free service for coding apps in no-time
   
+<br />
+
+## 🚀 PROMO: **[Black Friday Campaign](https://appseed.us/)** is LIVE: `70%Off` (all products & licenses)
+
+> `React`, `Django`, `Flask`, and `NodeJs` starters crafted and actively supported by **AppSeed**
+ 
+[![](https://github-production-user-asset-6210df.s3.amazonaws.com/51070104/280080081-1e7c91c0-612f-4418-81e7-34c363378479.jpg)](https://appseed.us/)
+
 <br />
 
 ## ✨ [React Soft Dashboard](https://appseed.us/product/soft-ui-dashboard/api-server-nodejs/react/) `full-stack`
