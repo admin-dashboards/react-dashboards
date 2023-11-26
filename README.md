@@ -39,7 +39,20 @@ Made of hundred of elements, designed blocks and fully coded pages, Purity UI Da
 
 ![Purity UI Dashboard is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining.](https://user-images.githubusercontent.com/51854817/178465300-08329362-8b71-4cbb-9d7c-e8be8ac24289.png) 
 
-<br />  
+<br /> 
+
+## ✨ [Spike NextJS & MUI](https://www.wrappixel.com/templates/spike-next-js-free-admin-template/?ref=157)
+
+This free product is built on top of a modern design powered by NextJS and MUI, the most popular components library for React.
+
+- 👉 [Spike NextJS](https://www.wrappixel.com/templates/spike-next-js-free-admin-template/?ref=157) - product page (contains download link)
+- 👉 More [Free Templates](https://www.wrappixel.com/templates/category/free-templates/?ref=157) provided by WrapPixel
+
+It allows you to create stunning backend applications and more. It comes with ready-to-use UI Blocks and elements to help level up the design and aesthetics of your project.
+
+![Spike NextJS & MUI - Free Dashboard Template](https://github.com/admin-dashboards/react-dashboards/assets/51854817/073b8513-736f-49f8-85d5-557e9b429dfc)
+
+<br /> 
 
 ## ✨ [Modernize MUI React](https://adminmart.com/product/modernize-free-react-mui-dashboard/?ref=1)
 
