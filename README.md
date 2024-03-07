@@ -6,6 +6,29 @@ A curated list with open-source **[React Dashboards](https://github.com/admin-da
   
 <br />
 
+## [React Node Datta Able](https://appseed.us/product/datta-able/api-server-nodejs/react/) `Full-Stack`
+
+**Datta Able** is an open-source **React Dashboard** that provides a colorful and modern design. Datta Able React Free is the most stylised React Free Admin Template, around all other admin templates in the market. The product comes with a simple JWT authentication flow: `login`/`register`/`logout`.
+
+- 👉 [React Node JS Datta Able](https://appseed.us/product/datta-able/api-server-nodejs/react/) - `product page`
+- 👉 [React Node JS Datta Able](https://react-node-js-datta-able.appseed-srv1.com/) - `LIVE Demo`
+
+![React Datta Able - Full-stack product powered by a simple NodeJS API backend.](https://user-images.githubusercontent.com/51070104/175767137-e9b7cb1b-ae57-4ea3-9e31-4b976ab4465f.png)
+
+<br />
+
+## [Vision UI React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200) `MUI`
+
+Designed for those who like modern UI elements and beautiful websites. Made of hundreds of elements, designed blocks, and fully coded pages, Vision UI Dashboard React is ready to help you create stunning websites and web apps.
+
+This Free MUI Dashboard comes with prebuilt design blocks, so the development process is seamless, switching from our pages to the real website is very easy to be done.
+
+- 👉 [Vision UI React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200) - `product page`
+- 👉 [Vision UI React](https://demos.creative-tim.com/vision-ui-dashboard-react/#/dashboard?AFFILIATE=128200) - `LIVE Demo`
+
+![Vision UI React - Free MUI Dashboard](https://github.com/admin-dashboards/react-dashboards/assets/51854817/c3ba1ba0-ae95-452a-b2f9-1945a97b5752)
+
+<br /> 
 
 ## [React Soft Dashboard](https://appseed.us/product/soft-ui-dashboard/api-server-nodejs/react/) `full-stack`
 
@@ -44,19 +67,6 @@ If you are looking for an eye-catching and elegantly designed free react admin t
 This product comes with a permissive (MIT) license, `React 18+`, `Code Splitting` and `Redux toolkit`.
 
 ![Modernize MUI React - Open-source Template crafted by AdminMart.](https://user-images.githubusercontent.com/51854817/216833726-06d9eb10-ab56-4a8d-87a1-5f3f4ca141c2.jpg)
-
-<br /> 
-
-## [Vision UI React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200) `MUI`
-
-Designed for those who like modern UI elements and beautiful websites. Made of hundreds of elements, designed blocks, and fully coded pages, Vision UI Dashboard React is ready to help you create stunning websites and web apps.
-
-This Free MUI Dashboard comes with prebuilt design blocks, so the development process is seamless, switching from our pages to the real website is very easy to be done.
-
-- 👉 [Vision UI React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200) - `product page`
-- 👉 [Vision UI React](https://demos.creative-tim.com/vision-ui-dashboard-react/#/dashboard?AFFILIATE=128200) - `LIVE Demo`
-
-![Vision UI React - Free MUI Dashboard](https://github.com/admin-dashboards/react-dashboards/assets/51854817/c3ba1ba0-ae95-452a-b2f9-1945a97b5752)
 
 <br /> 
 
