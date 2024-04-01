@@ -4,6 +4,17 @@ A curated list with open-source **[React Dashboards](https://github.com/admin-da
   
 <br />
 
+## [Material Dashboard React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200)
+
+Material Dashboard 2 React is an open-source MUI Admin Template based on React. Material Dashboard 2 React is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
+
+- 👉 [Material Dashboard React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200) - `product page`
+- 👉 [Material Dashboard React](https://demos.creative-tim.com/material-dashboard-react/#/dashboard?AFFILIATE=128200) - `LIVE Demo`
+
+![Material Dashboard React - Open-Source React Dashboard Template from Creative-Tim.](https://user-images.githubusercontent.com/51854817/178092547-a0bdd527-26f0-432f-9110-e29f17d22329.png)
+
+<br /> 
+
 ## [React Soft Dashboard](https://appseed.us/product/soft-ui-dashboard/api-server-nodejs/react/) `full-stack`
 
 Start your Development with an Innovative Admin Template for **Material-UI** and **React**. [Soft UI Dashboard React](https://appseed.us/product/soft-ui-dashboard/api-server-nodejs/react/) is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining. The product comes with a simple JWT authentication flow: login/register/logout. 
@@ -30,17 +41,6 @@ Muse Ant Design Dashboard is a free Admin Template based on two popular front-en
 ![Muse Ant.Design React - Free Dahsboard Template.](https://user-images.githubusercontent.com/51854817/179387314-f1873bf4-bb3e-4b8f-b980-32f96aacee27.png)
 
 <br />
-
-## [Material Dashboard React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200)
-
-Material Dashboard 2 React is an open-source MUI Admin Template based on React. Material Dashboard 2 React is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
-
-- 👉 [Material Dashboard React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200) - `product page`
-- 👉 [Material Dashboard React](https://demos.creative-tim.com/material-dashboard-react/#/dashboard?AFFILIATE=128200) - `LIVE Demo`
-
-![Material Dashboard React - Open-Source React Dashboard Template from Creative-Tim.](https://user-images.githubusercontent.com/51854817/178092547-a0bdd527-26f0-432f-9110-e29f17d22329.png)
-
-<br /> 
 
 ## [Modernize MUI React](https://adminmart.com/product/modernize-free-react-mui-dashboard/?ref=1)
 
