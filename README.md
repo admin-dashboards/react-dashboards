@@ -4,6 +4,22 @@ A curated list with open-source **[React Dashboards](https://github.com/admin-da
   
 <br />
 
+## [React Soft Dashboard](https://appseed.us/product/soft-ui-dashboard/api-server-nodejs/react/) `full-stack`
+
+Start your Development with an Innovative Admin Template for **Material-UI** and **React**. [Soft UI Dashboard React](https://appseed.us/product/soft-ui-dashboard/api-server-nodejs/react/) is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining. The product comes with a simple JWT authentication flow: login/register/logout. 
+
+> 🚀 Built with **[React App Generator](https://appseed.us/generator/react/)**
+
+- ✅ Innovative `Soft UI Design` - **Crafted by [Creative-Tim](https://www.creative-tim.com/?AFFILIATE=128200)**
+- ✅ React, Redux, Redux-persist
+- ✅ Authentication: `JWT Tokens`, 
+- ✅ `OAuth` via GitHub
+- ✅ `Full-stack` ready using Node, Flask, and Django
+
+![React Soft Dashboard - Open-source full-stack product](https://user-images.githubusercontent.com/51070104/176936814-74386559-4e05-43d5-b9a4-8f70ce96a610.png)
+
+<br />
+
 ## [Argon Dashboard Chakra](https://www.creative-tim.com/product/argon-dashboard-chakra?AFFILIATE=128200)
 
 Start your Development with an Innovative Admin Template for Chakra UI and React. If you like the look & feel of the hottest design trend right now, Argon Dashboard Chakra, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
@@ -25,22 +41,6 @@ Material Dashboard 2 React is an open-source MUI Admin Template based on React. 
 ![Material Dashboard React - Open-Source React Dashboard Template from Creative-Tim.](https://user-images.githubusercontent.com/51854817/178092547-a0bdd527-26f0-432f-9110-e29f17d22329.png)
 
 <br /> 
-
-## [React Soft Dashboard](https://appseed.us/product/soft-ui-dashboard/api-server-nodejs/react/) `full-stack`
-
-Start your Development with an Innovative Admin Template for **Material-UI** and **React**. [Soft UI Dashboard React](https://appseed.us/product/soft-ui-dashboard/api-server-nodejs/react/) is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining. The product comes with a simple JWT authentication flow: login/register/logout. 
-
-> 🚀 Built with **[React App Generator](https://appseed.us/generator/react/)**
-
-- ✅ Innovative `Soft UI Design` - **Crafted by [Creative-Tim](https://www.creative-tim.com/?AFFILIATE=128200)**
-- ✅ React, Redux, Redux-persist
-- ✅ Authentication: `JWT Tokens`, 
-- ✅ `OAuth` via GitHub
-- ✅ `Full-stack` ready using Node, Flask, and Django
-
-![React Soft Dashboard - Open-source full-stack product](https://user-images.githubusercontent.com/51070104/176936814-74386559-4e05-43d5-b9a4-8f70ce96a610.png)
-
-<br />
 
 ## [Muse Ant.Design React](https://www.creative-tim.com/product/muse-ant-design-dashboard?AFFILIATE=128200)
 
