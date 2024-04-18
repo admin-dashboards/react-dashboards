@@ -4,14 +4,19 @@ A curated list with open-source **[React Dashboards](https://github.com/admin-da
   
 <br />
 
-## [Argon Dashboard Chakra](https://www.creative-tim.com/product/argon-dashboard-chakra?AFFILIATE=128200)
+## [React Soft Dashboard](https://appseed.us/product/soft-ui-dashboard/api-server-nodejs/react/) `full-stack`
 
-Start your Development with an Innovative Admin Template for Chakra UI and React. If you like the look & feel of the hottest design trend right now, Argon Dashboard Chakra, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
+Start your Development with an Innovative Admin Template for **Material-UI** and **React**. [Soft UI Dashboard React](https://appseed.us/product/soft-ui-dashboard/api-server-nodejs/react/) is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining. The product comes with a simple JWT authentication flow: login/register/logout. 
 
-- 👉 [Argon Dashboard Chakra](https://www.creative-tim.com/product/argon-dashboard-chakra?AFFILIATE=128200) - `product page`
-- 👉 [Argon Dashboard Chakra](https://demos.creative-tim.com/argon-dashboard-chakra/#/admin/dashboard?AFFILIATE=128200) - `LIVE Demo`
+> 🚀 Built with **[React App Generator](https://appseed.us/generator/react/)**
 
-![Argon Dashboard Chakra - Open-Source React Dashboard Template from Creative-Tim.](https://user-images.githubusercontent.com/51070104/178219897-5d852c4f-6ff7-4842-82c7-4f08a64a23ac.png)
+- ✅ Innovative `Soft UI Design` - **Crafted by [Creative-Tim](https://www.creative-tim.com/?AFFILIATE=128200)**
+- ✅ React, Redux, Redux-persist
+- ✅ Authentication: `JWT Tokens`, 
+- ✅ `OAuth` via GitHub
+- ✅ `Full-stack` ready using Node, Flask, and Django
+
+![React Soft Dashboard - Open-source full-stack product](https://user-images.githubusercontent.com/51070104/176936814-74386559-4e05-43d5-b9a4-8f70ce96a610.png)
 
 <br />
 
@@ -26,19 +31,14 @@ Material Dashboard 2 React is an open-source MUI Admin Template based on React. 
 
 <br /> 
 
-## [React Soft Dashboard](https://appseed.us/product/soft-ui-dashboard/api-server-nodejs/react/) `full-stack`
+## [Argon Dashboard Chakra](https://www.creative-tim.com/product/argon-dashboard-chakra?AFFILIATE=128200)
 
-Start your Development with an Innovative Admin Template for **Material-UI** and **React**. [Soft UI Dashboard React](https://appseed.us/product/soft-ui-dashboard/api-server-nodejs/react/) is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining. The product comes with a simple JWT authentication flow: login/register/logout. 
+Start your Development with an Innovative Admin Template for Chakra UI and React. If you like the look & feel of the hottest design trend right now, Argon Dashboard Chakra, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
 
-> 🚀 Built with **[React App Generator](https://appseed.us/generator/react/)**
+- 👉 [Argon Dashboard Chakra](https://www.creative-tim.com/product/argon-dashboard-chakra?AFFILIATE=128200) - `product page`
+- 👉 [Argon Dashboard Chakra](https://demos.creative-tim.com/argon-dashboard-chakra/#/admin/dashboard?AFFILIATE=128200) - `LIVE Demo`
 
-- ✅ Innovative `Soft UI Design` - **Crafted by [Creative-Tim](https://www.creative-tim.com/?AFFILIATE=128200)**
-- ✅ React, Redux, Redux-persist
-- ✅ Authentication: `JWT Tokens`, 
-- ✅ `OAuth` via GitHub
-- ✅ `Full-stack` ready using Node, Flask, and Django
-
-![React Soft Dashboard - Open-source full-stack product](https://user-images.githubusercontent.com/51070104/176936814-74386559-4e05-43d5-b9a4-8f70ce96a610.png)
+![Argon Dashboard Chakra - Open-Source React Dashboard Template from Creative-Tim.](https://user-images.githubusercontent.com/51070104/178219897-5d852c4f-6ff7-4842-82c7-4f08a64a23ac.png)
 
 <br />
 
