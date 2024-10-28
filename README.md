@@ -4,6 +4,17 @@ A curated list with open-source **[React Dashboards](https://github.com/admin-da
   
 <br />
 
+## [Material Dashboard React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200)
+
+Material Dashboard 2 React is an open-source MUI Admin Template based on React. Material Dashboard 2 React is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
+
+- 👉 [Material Dashboard React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200) - `product page`
+- 👉 [Material Dashboard React](https://demos.creative-tim.com/material-dashboard-react/#/dashboard?AFFILIATE=128200) - `LIVE Demo`
+
+![Material Dashboard React - Open-Source React Dashboard Template from Creative-Tim.](https://user-images.githubusercontent.com/51854817/178092547-a0bdd527-26f0-432f-9110-e29f17d22329.png)
+
+<br /> 
+
 ## [Argon Dashboard Chakra](https://www.creative-tim.com/product/argon-dashboard-chakra?AFFILIATE=128200)
 
 Start your Development with an Innovative Admin Template for Chakra UI and React. If you like the look & feel of the hottest design trend right now, Argon Dashboard Chakra, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
@@ -25,17 +36,6 @@ This Free MUI Dashboard comes with prebuilt design blocks, so the development pr
 - 👉 [Vision UI React](https://demos.creative-tim.com/vision-ui-dashboard-react/#/dashboard?AFFILIATE=128200) - `LIVE Demo`
 
 ![Vision UI React - Free MUI Dashboard](https://github.com/admin-dashboards/react-dashboards/assets/51854817/c3ba1ba0-ae95-452a-b2f9-1945a97b5752)
-
-<br /> 
-
-## [Material Dashboard React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200)
-
-Material Dashboard 2 React is an open-source MUI Admin Template based on React. Material Dashboard 2 React is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
-
-- 👉 [Material Dashboard React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200) - `product page`
-- 👉 [Material Dashboard React](https://demos.creative-tim.com/material-dashboard-react/#/dashboard?AFFILIATE=128200) - `LIVE Demo`
-
-![Material Dashboard React - Open-Source React Dashboard Template from Creative-Tim.](https://user-images.githubusercontent.com/51854817/178092547-a0bdd527-26f0-432f-9110-e29f17d22329.png)
 
 <br />  
 
