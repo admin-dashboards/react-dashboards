@@ -4,6 +4,19 @@ A curated list with open-source **[React Dashboards](https://github.com/admin-da
   
 <br />
 
+## [Vision UI React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200) `MUI`
+
+Designed for those who like modern UI elements and beautiful websites. Made of hundreds of elements, designed blocks, and fully coded pages, Vision UI Dashboard React is ready to help you create stunning websites and web apps.
+
+This Free MUI Dashboard comes with prebuilt design blocks, so the development process is seamless, switching from our pages to the real website is very easy to be done.
+
+- 👉 [Vision UI React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200) - `product page`
+- 👉 [Vision UI React](https://demos.creative-tim.com/vision-ui-dashboard-react/#/dashboard?AFFILIATE=128200) - `LIVE Demo`
+
+![Vision UI React - Free MUI Dashboard](https://github.com/admin-dashboards/react-dashboards/assets/51854817/c3ba1ba0-ae95-452a-b2f9-1945a97b5752)
+
+<br /> 
+
 ## [Tailwind CSS React](https://www.creative-tim.com/product/material-tailwind-dashboard-react?AFFILIATE=128200) `Free Dashboard`
 
 This innovative `Material Design`, **Tailwind CSS & React** dashboard comes with a beautiful design inspired by Google's Material Design and it will help you create stunning websites & web apps to delight your clients.
@@ -25,19 +38,6 @@ Material Dashboard 2 React is an open-source MUI Admin Template based on React. 
 ![Material Dashboard React - Open-Source React Dashboard Template from Creative-Tim.](https://user-images.githubusercontent.com/51854817/178092547-a0bdd527-26f0-432f-9110-e29f17d22329.png)
 
 <br />  
-
-## [Vision UI React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200) `MUI`
-
-Designed for those who like modern UI elements and beautiful websites. Made of hundreds of elements, designed blocks, and fully coded pages, Vision UI Dashboard React is ready to help you create stunning websites and web apps.
-
-This Free MUI Dashboard comes with prebuilt design blocks, so the development process is seamless, switching from our pages to the real website is very easy to be done.
-
-- 👉 [Vision UI React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200) - `product page`
-- 👉 [Vision UI React](https://demos.creative-tim.com/vision-ui-dashboard-react/#/dashboard?AFFILIATE=128200) - `LIVE Demo`
-
-![Vision UI React - Free MUI Dashboard](https://github.com/admin-dashboards/react-dashboards/assets/51854817/c3ba1ba0-ae95-452a-b2f9-1945a97b5752)
-
-<br /> 
 
 ## [Argon Dashboard Chakra](https://www.creative-tim.com/product/argon-dashboard-chakra?AFFILIATE=128200)
 
