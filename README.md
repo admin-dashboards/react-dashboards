@@ -1,7 +1,9 @@
 # [React Dashboards](https://github.com/admin-dashboards/react-dashboards)
 
 A curated list with open-source **[React Dashboards](https://github.com/admin-dashboards/react-dashboards)** released under permissive licenses (MIT/LGPL). For newcomers, React is an open-source, front end, JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. **React** can be used as a base in the development of single-page or mobile applications.
-  
+
+> *Thanks for reading!* - Content provided by **[App Generator](https://app-generator.dev/)**.
+   
 <br />
 
 ## [Muse Ant.Design React](https://www.creative-tim.com/product/muse-ant-design-dashboard?AFFILIATE=128200)
