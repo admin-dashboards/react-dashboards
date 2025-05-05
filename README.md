@@ -6,12 +6,12 @@ A curated list with open-source **[React Dashboards](https://github.com/admin-da
    
 <br />
 
-## [React Node Datta Able](https://app-generator.dev/product/datta-able/api-nodejs/react/) `Full-Stack`
+## [React Datta Able NodeJS](https://app-generator.dev/product/datta-able/api-nodejs/react/)
 
 **Datta Able** is an open-source **[React Dashboard](https://app-generator.dev/product/?search=react)** that provides a colorful and modern design. Datta Able React Free is the most stylised React Free Admin Template, around all other admin templates in the market. The product comes with a simple JWT authentication flow: `login`/`register`/`logout`.
 
-- 👉 [React Node JS Datta Able](https://app-generator.dev/product/datta-able/api-nodejs/react/) - `Product page`
-- 👉 [React Node JS Datta Able](https://react-node-js-datta-able.appseed-srv1.com/) - `LIVE Demo`
+- 👉 [React Datta Able NodeJS](https://app-generator.dev/product/datta-able/api-nodejs/react/) - `Product page`
+- 👉 [React Datta Able NodeJS](https://react-node-js-datta-able.appseed-srv1.com/) - `LIVE Demo`
 
 ![React Datta Able - Full-stack product powered by a simple NodeJS API backend.](https://user-images.githubusercontent.com/51070104/175767137-e9b7cb1b-ae57-4ea3-9e31-4b976ab4465f.png)
 
