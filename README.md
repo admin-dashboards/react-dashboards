@@ -6,9 +6,33 @@ A curated list with open-source **[React Dashboards](https://github.com/admin-da
    
 <br />
 
+## [React Node Datta Able](https://app-generator.dev/product/datta-able/api-nodejs/react/) `Full-Stack`
+
+**Datta Able** is an open-source **[React Dashboard](https://app-generator.dev/product/?search=react)** that provides a colorful and modern design. Datta Able React Free is the most stylised React Free Admin Template, around all other admin templates in the market. The product comes with a simple JWT authentication flow: `login`/`register`/`logout`.
+
+- 👉 [React Node JS Datta Able](https://app-generator.dev/product/datta-able/api-nodejs/react/) - `Product page`
+- 👉 [React Node JS Datta Able](https://react-node-js-datta-able.appseed-srv1.com/) - `LIVE Demo`
+
+![React Datta Able - Full-stack product powered by a simple NodeJS API backend.](https://user-images.githubusercontent.com/51070104/175767137-e9b7cb1b-ae57-4ea3-9e31-4b976ab4465f.png)
+
+<br /> 
+
+## [Modernize MUI React](https://adminmart.com/product/modernize-free-react-mui-dashboard/?ref=1)
+
+If you are looking for an eye-catching and elegantly designed free react admin template that comes with several added features, then look no more. **Modernize** react admin is a free template that has everything you require to develop an amazing web app. 
+
+- 👉 [Modernize MUI React](https://adminmart.com/product/modernize-free-react-mui-dashboard/?ref=1) - `product page`
+- 👉 More [MUI Templates](https://adminmart.com/templates/material-ui/?ref=1) provided by `AdminMart`
+
+This product comes with a permissive (MIT) license, `React 18+`, `Code Splitting` and `Redux toolkit`.
+
+![Modernize MUI React - Open-source Template crafted by AdminMart.](https://user-images.githubusercontent.com/51854817/216833726-06d9eb10-ab56-4a8d-87a1-5f3f4ca141c2.jpg)
+
+<br />
+
 ## [Material Dashboard React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200)
 
-Material Dashboard 2 React is an open-source MUI Admin Template based on React. Material Dashboard 2 React is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
+**Material Dashboard React** is an open-source MUI Admin Template based on React. [Material Dashboard React](https://app-generator.dev/docs/templates/react/material-dashboard.html) is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
 
 - 👉 [Material Dashboard React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200) - `product page`
 - 👉 [Material Dashboard React](https://demos.creative-tim.com/material-dashboard-react/#/dashboard?AFFILIATE=128200) - `LIVE Demo`
@@ -62,30 +86,6 @@ Start your Development with an Innovative Admin Template for Chakra UI and React
 ![Argon Dashboard Chakra - Open-Source React Dashboard Template from Creative-Tim.](https://user-images.githubusercontent.com/51070104/178219897-5d852c4f-6ff7-4842-82c7-4f08a64a23ac.png)
 
 <br />  
-
-## [React Node Datta Able](https://appseed.us/product/datta-able/api-server-nodejs/react/) `Full-Stack`
-
-**Datta Able** is an open-source **React Dashboard** that provides a colorful and modern design. Datta Able React Free is the most stylised React Free Admin Template, around all other admin templates in the market. The product comes with a simple JWT authentication flow: `login`/`register`/`logout`.
-
-- 👉 [React Node JS Datta Able](https://appseed.us/product/datta-able/api-server-nodejs/react/) - `product page`
-- 👉 [React Node JS Datta Able](https://react-node-js-datta-able.appseed-srv1.com/) - `LIVE Demo`
-
-![React Datta Able - Full-stack product powered by a simple NodeJS API backend.](https://user-images.githubusercontent.com/51070104/175767137-e9b7cb1b-ae57-4ea3-9e31-4b976ab4465f.png)
-
-<br /> 
-
-## [Modernize MUI React](https://adminmart.com/product/modernize-free-react-mui-dashboard/?ref=1)
-
-If you are looking for an eye-catching and elegantly designed free react admin template that comes with several added features, then look no more. Modernize react admin is a free template that has everything you require to develop an amazing web app. 
-
-- 👉 [Modernize MUI React](https://adminmart.com/product/modernize-free-react-mui-dashboard/?ref=1) - `product page`
-- 👉 More [MUI Templates](https://adminmart.com/templates/material-ui/?ref=1) provided by `AdminMart`
-
-This product comes with a permissive (MIT) license, `React 18+`, `Code Splitting` and `Redux toolkit`.
-
-![Modernize MUI React - Open-source Template crafted by AdminMart.](https://user-images.githubusercontent.com/51854817/216833726-06d9eb10-ab56-4a8d-87a1-5f3f4ca141c2.jpg)
-
-<br />
 
 ## [React Soft Dashboard](https://appseed.us/product/soft-ui-dashboard/api-server-nodejs/react/) `full-stack`
 
