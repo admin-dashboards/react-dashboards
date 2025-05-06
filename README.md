@@ -6,17 +6,6 @@ A curated list with open-source **[React Dashboards](https://app-generator.dev/p
    
 <br />
 
-## [React Datta Able NodeJS](https://app-generator.dev/product/datta-able/api-nodejs/react/)
-
-**Datta Able** is an open-source **[React Dashboard](https://app-generator.dev/product/?search=react)** that provides a colorful and modern design. Datta Able React Free is the most stylised React Free Admin Template, around all other admin templates in the market. The product comes with a simple JWT authentication flow: `login`/`register`/`logout`.
-
-- 👉 [React Datta Able NodeJS](https://app-generator.dev/product/datta-able/api-nodejs/react/) - `Product page`
-- 👉 [React Datta Able NodeJS](https://react-node-js-datta-able.appseed-srv1.com/) - `LIVE Demo`
-
-![React Datta Able - Full-stack product powered by a simple NodeJS API backend.](https://user-images.githubusercontent.com/51070104/175767137-e9b7cb1b-ae57-4ea3-9e31-4b976ab4465f.png)
-
-<br /> 
-
 ## [Modernize MUI React](https://adminmart.com/product/modernize-free-react-mui-dashboard/?ref=1)
 
 If you are looking for an eye-catching and elegantly designed free react admin template that comes with several added features, then look no more. **Modernize** react admin is a free template that has everything you require to develop an amazing web app. 
@@ -29,6 +18,17 @@ This product comes with a permissive (MIT) license, `React 18+`, `Code Splitting
 ![Modernize MUI React - Open-source Template crafted by AdminMart.](https://user-images.githubusercontent.com/51854817/216833726-06d9eb10-ab56-4a8d-87a1-5f3f4ca141c2.jpg)
 
 <br />
+
+## [React Datta Able NodeJS](https://app-generator.dev/product/datta-able/api-nodejs/react/)
+
+**Datta Able** is an open-source **[React Dashboard](https://app-generator.dev/product/?search=react)** that provides a colorful and modern design. Datta Able React Free is the most stylised React Free Admin Template, around all other admin templates in the market. The product comes with a simple JWT authentication flow: `login`/`register`/`logout`.
+
+- 👉 [React Datta Able NodeJS](https://app-generator.dev/product/datta-able/api-nodejs/react/) - `Product page`
+- 👉 [React Datta Able NodeJS](https://react-node-js-datta-able.appseed-srv1.com/) - `LIVE Demo`
+
+![React Datta Able - Full-stack product powered by a simple NodeJS API backend.](https://user-images.githubusercontent.com/51070104/175767137-e9b7cb1b-ae57-4ea3-9e31-4b976ab4465f.png)
+
+<br /> 
 
 ## [Material Dashboard React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200)
 
