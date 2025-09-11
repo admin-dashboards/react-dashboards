@@ -11,10 +11,10 @@ A curated list with open-source **[React Dashboards](https://app-generator.dev/p
 One of the world's fastest-growing hosting providers, **Hostinger** serves a global community of over 4 million website owners across 150+ countries. 
 **Here are the core services**:
 
-- [HOSTING - $2.99/mo](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452) - 3months FREE
-- [Website Builder](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452&url_id=2949)
-- [eCommerce Builder - AI Assisted](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452&url_id=4140)
-- [StartUp Cloud Hosting - $7.99/mo](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452&url_id=17) - 3months FREE
+- ✅ **[HOSTING - $2.99/mo](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452)** - 3months FREE
+- ✅ **[Website Builder](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452&url_id=2949)** - Build Websites in no-time
+- ✅ **[eCommerce Builder](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452&url_id=4140)** - Your online store, created quickly with AI
+- ✅ **[StartUp Cloud Hosting - $7.99/mo](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452&url_id=17)** - 3months FREE
 
 <br />
 
