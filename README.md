@@ -6,6 +6,22 @@ A curated list with open-source **[React Dashboards](https://app-generator.dev/p
    
 <br />
 
+## Affiliate Services
+
+**High-quality Services and products we recommend** to all our users.
+
+> 👉 **[HOSTINGER](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452)**
+
+One of the world's fastest-growing hosting providers, **Hostinger** serves a global community of over 4 million website owners across 150+ countries. 
+Here are the core services we recommend: 
+
+- [HOSTING - $2.99/mo](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452)
+- [Website Builder](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452&url_id=2949)
+- [eCommerce Builder - AI Assisted](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452&url_id=4140)
+- [StartUp Cloud Hosting](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452&url_id=17) 
+
+<br />
+
 ## [Modernize MUI React](https://adminmart.com/product/modernize-free-react-mui-dashboard/?ref=1)
 
 If you are looking for an eye-catching and elegantly designed free react admin template that comes with several added features, then look no more. **Modernize** react admin is a free template that has everything you require to develop an amazing web app. 
