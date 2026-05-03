@@ -16,6 +16,19 @@ A curated list with open-source **[React Dashboards](https://app-generator.dev/p
 
 <br />
 
+## [Modernize MUI React](https://adminmart.com/product/modernize-free-react-mui-dashboard/?ref=1)
+
+If you are looking for an eye-catching and elegantly designed free react admin template that comes with several added features, then look no more. **Modernize** react admin is a free template that has everything you require to develop an amazing web app. 
+
+- 👉 [Modernize MUI React](https://adminmart.com/product/modernize-free-react-mui-dashboard/?ref=1) - `product page`
+- 👉 More [MUI Templates](https://adminmart.com/templates/material-ui/?ref=1) provided by `AdminMart`
+
+This product comes with a permissive (MIT) license, `React 18+`, `Code Splitting` and `Redux toolkit`.
+
+![Modernize MUI React - Open-source Template crafted by AdminMart.](https://user-images.githubusercontent.com/51854817/216833726-06d9eb10-ab56-4a8d-87a1-5f3f4ca141c2.jpg)
+
+<br />
+
 ## [Material Dashboard React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200)
 
 **Material Dashboard React** is an open-source MUI Admin Template based on React. [Material Dashboard React](https://app-generator.dev/docs/templates/react/material-dashboard.html) is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
@@ -26,18 +39,6 @@ A curated list with open-source **[React Dashboards](https://app-generator.dev/p
 ![Material Dashboard React - Open-Source React Dashboard Template from Creative-Tim.](https://user-images.githubusercontent.com/51854817/178092547-a0bdd527-26f0-432f-9110-e29f17d22329.png)
 
 <br /> 
-
-## 👉 [HOSTINGER](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452) - High-quality Service we recommend
-
-One of the world's fastest-growing hosting providers, **Hostinger** serves a global community of over 4 million website owners across 150+ countries. 
-**Here are the core services**:
-
-- ✅ **[HOSTING - $2.99/mo](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452)** - 3months FREE
-- ✅ **[Website Builder](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452&url_id=2949)** - Build Websites in no-time
-- ✅ **[eCommerce Builder](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452&url_id=4140)** - Your online store, created quickly with AI
-- ✅ **[StartUp Cloud Hosting - $7.99/mo](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452&url_id=17)** - 3months FREE
-
-<br />
 
 ## [Vision UI React](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200) `MUI`
 
@@ -51,19 +52,6 @@ This Free MUI Dashboard comes with prebuilt design blocks, so the development pr
 ![Vision UI React - Free MUI Dashboard](https://github.com/admin-dashboards/react-dashboards/assets/51854817/c3ba1ba0-ae95-452a-b2f9-1945a97b5752)
 
 <br /> 
-
-## [Modernize MUI React](https://adminmart.com/product/modernize-free-react-mui-dashboard/?ref=1)
-
-If you are looking for an eye-catching and elegantly designed free react admin template that comes with several added features, then look no more. **Modernize** react admin is a free template that has everything you require to develop an amazing web app. 
-
-- 👉 [Modernize MUI React](https://adminmart.com/product/modernize-free-react-mui-dashboard/?ref=1) - `product page`
-- 👉 More [MUI Templates](https://adminmart.com/templates/material-ui/?ref=1) provided by `AdminMart`
-
-This product comes with a permissive (MIT) license, `React 18+`, `Code Splitting` and `Redux toolkit`.
-
-![Modernize MUI React - Open-source Template crafted by AdminMart.](https://user-images.githubusercontent.com/51854817/216833726-06d9eb10-ab56-4a8d-87a1-5f3f4ca141c2.jpg)
-
-<br />
 
 ## [React Datta Able NodeJS](https://app-generator.dev/product/datta-able/api-nodejs/react/)
 
